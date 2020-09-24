@@ -262,4 +262,16 @@
 .is-builder .nav-dropdown.collapsing {
   transition: none !important; }
 
+.nav-item-second {
+  padding-top: 10px;
+
+}
+
+@media (min-width: 1020px) and (max-width: 1260px) {
+  body {
+    margin-top: 38px;
+  }
+}
+
+
 /*# sourceMappingURL=style.css.map */
