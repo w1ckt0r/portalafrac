@@ -1,0 +1,61 @@
+        <br/>
+        <br/>
+        <br/>
+         <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-dark">
+            <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse navbars" id="collapse_target1">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Autocom</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Inova nfce</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">NRF 2021</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Marketplace</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Agenda</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <br/>
+        <br/>
+        <br/>
+         <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-dark">
+            <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse navbars" id="collapse_target1">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"> <img src="assets/images/autocom.png" alt="">  </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"> <img src="assets/images/nrf.png" alt="">  </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"> <img src="assets/images/marketplace.png" alt="">  </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"> <img src="assets/images/agenda.png" alt="">  </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"> <img src="assets/images/summit.png" alt="">  </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"> <img src="assets/images/congresso.png" alt="">  </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"> <img src="assets/images/inovanfce.png" alt=""> </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
