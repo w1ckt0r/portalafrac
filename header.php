@@ -105,11 +105,11 @@
 
                                 Sobre a AFRAC</a>
                         <div class="dropdown-menu ">
-                            <a class="dropdown-item text-primary display-4 " href="historia.php" target="_blank">História</a>
+                            <a class="dropdown-item text-primary display-4 " href="historia.php">História</a>
                             <a class="dropdown-item text-primary display-4" href="diretoria.php">Diretoria</a>
                             <a class="dropdown-item text-primary display-4" href="apoiojuridico.php">Apoio Jurídico e Legislativo</a>
                             <a class="dropdown-item text-primary display-4" href="parceiros.php">Parcerias</a>
-                            <a class="dropdown-item text-primary display-4" href="http://www.afrac.com.br/wp-content/uploads/2018/06/Estatuto-AFRAC_14MAIO_2020.pdf">Estatuto Social</a>
+                            <a class="dropdown-item text-primary display-4" href="http://www.afrac.com.br/wp-content/uploads/2018/06/Estatuto-AFRAC_14MAIO_2020.pdf" target="_blank">Estatuto Social</a>
                             <a class="dropdown-item text-primary display-4" href="codigo-etica.php">Código de Etica</a>
                         </div>
                     </li>
@@ -128,13 +128,13 @@
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="mercado.php" data-toggle="dropdown-submenu" aria-expanded="false">Mercado</a>
                         <div class="dropdown-menu">
                             <!-- <a class="text-primary dropdown-item display-4" href="index.html">Dados do Mercado</a> -->
-                            <a class="text-primary dropdown-item display-4" href="index.php">Painel do Mercado</a>
-                            <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false" target="_blank">Vitrine do Mercado</a>
+                            <a class="text-primary dropdown-item display-4" href="painel-mercado.php">Painel do Mercado</a>
+                            <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Vitrine do Mercado</a>
                             <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Parcerias</a>
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false" target="_blank">Blog</a>
+                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false">Blog</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
