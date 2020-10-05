@@ -129,7 +129,7 @@
                         <div class="dropdown-menu">
                             <!-- <a class="text-primary dropdown-item display-4" href="index.html">Dados do Mercado</a> -->
                             <a class="text-primary dropdown-item display-4" href="painel-mercado.php">Painel do Mercado</a>
-                            <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Vitrine do Mercado</a>
+                            <a class="text-primary dropdown-item display-4" href="vitrine-mercado.php" aria-expanded="false">Vitrine do Mercado</a>
                             <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Parcerias</a>
                         </div>
                     </li>
