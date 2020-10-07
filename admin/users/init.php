@@ -24,10 +24,10 @@ require_once $abs_us_root.$us_url_root.'users/helpers/helpers.php';
 
 // if($_SERVER['REMOTE_ADDR'] == '::1'){
 
-	$host = 'localhost';
-	$userdb = 'root';
-	$db = 'usportal';
-	$pass = '';
+	$host = 'pupill.us';
+	$userdb = 'pupill_portalafrac';
+	$db = 'pupill_portalafrac';
+	$pass = 'portalafrac';
 	// $linkApi = 'https://api.tlv.ag/api/apptlv/';
 
 // }else{
