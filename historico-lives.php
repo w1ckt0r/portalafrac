@@ -8,6 +8,17 @@ $video_list = json_decode(file_get_contents('https://www.googleapis.com/youtube/
 
 // var_dump($video_list);
 ?>
+
+<div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10 align-center">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2">Historico de Lives</h1>
+
+
+
+            </div>
+        </div>
+    </div>
 <br>
 <br>
 <div class="container">

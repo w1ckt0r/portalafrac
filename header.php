@@ -38,12 +38,12 @@
             <div class="collapse navbar-collapse navbars" id="collapse_target1">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item-second">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="http://www.feiraautocom.com.br/">
                             <img src="assets/images/autocom.png" alt="">
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="https://www.nrfgvcev.com.br/">
                             <img src="assets/images/nrf.png" alt="">
                         </a>
                     </li>
@@ -53,22 +53,22 @@
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="calendario.php">
                             <img src="assets/images/agenda.png" alt="">
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="http://feiraautocom.com.br/summit/index.html">
                             <img src="assets/images/summit.png" alt="">
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="http://www.feiraautocom.com.br/infocongresso.php">
                             <img src="assets/images/congresso.png" alt="">
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="#">
+                        <a class="nav-link" href="https://inovanfce.wordpress.com/">
                             <img src="assets/images/inovanfce.png" alt="">
                         </a>
                     </li>
@@ -139,10 +139,11 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
                         <div class="dropdown-menu">
-                            <a class="text-primary dropdown-item display-4" href="index.php">Agenda</a>
+                            <a class="text-primary dropdown-item display-4" href="calendario.php">Agenda</a>
                             <a class="text-primary dropdown-item display-4" href="contato.php" aria-expanded="false">Contato</a>
                             <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Downloads</a>
                             <a class="text-primary dropdown-item display-4" href="historico-lives.php">Historico de Lives</a>
+                            <a class="text-primary dropdown-item display-4" href="networking.php">Networking</a>
                         </div>
                     </li>
                 </ul>
