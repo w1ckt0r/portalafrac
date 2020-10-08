@@ -142,6 +142,7 @@
                             <a class="text-primary dropdown-item display-4" href="index.php">Agenda</a>
                             <a class="text-primary dropdown-item display-4" href="contato.php" aria-expanded="false">Contato</a>
                             <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Downloads</a>
+                            <a class="text-primary dropdown-item display-4" href="historico-lives.php">Historico de Lives</a>
                         </div>
                     </li>
                 </ul>
