@@ -1,11 +1,11 @@
 <?php
-  require_once 'users/init.php';
-  if (!securePage($_SERVER['PHP_SELF'])) {
-    die();
-  }
-  $hooks =  getMyHooks();
-  includeHook($hooks, 'pre');
-  require_once 'header.php';
+require_once 'users/init.php';
+if (!securePage($_SERVER['PHP_SELF'])) {
+  die();
+}
+$hooks =  getMyHooks();
+includeHook($hooks, 'pre');
+require_once 'header.php';
 ?>
 
 <!-- End Navbar -->
@@ -15,22 +15,21 @@
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-info">
-            <h4 class="card-title ">Conteudos</h4>
+            <h4 class="card-title">Conteudos</h4>
             <p class="card-category">
+              <a href="novo-conteudo.php" class="btn btn-primary btn-sm">Novo</a>
             </p>
           </div>
           <div class="card-body">
             <div class="table-responsive">
               <table class="table">
                 <thead class=" text-primary">
-                  <th>Arquivo</th>
-                  <th>Feito em </th>
-                  <th>Categoria</th>
-                  <th>Downloads</th>
+                  <th>Titulo</th>
+                  <th>Imagem</th>
+                  <th>Texto</th>
+                  <th>Leituras</th>
                   <th> </th>
-                  <th>Downloads</th>
-                  <th>Downloads</th>
-                  <th>Downloads</th>
+                  <th> </th>
                 </thead>
                 <tbody>
                   <?php
@@ -59,6 +58,48 @@
                     </tr>
 
                   <?php }; ?>
+                  <tr>
+                    <td>
+                         <!-- Textarea -->
+                          <div class="form-group">
+                            <label class="col-md-4 control-label" for="textarea">Text Area</label>
+                            <div class="col-md-4">
+                              <textarea class="form-control" id="textarea" name="textarea">Preencher</textarea>
+                            </div>
+                          </div>
+                    </td>
+                    <td>
+                      <!-- Textarea -->
+                      <div class="form-group">
+                            <label class="col-md-4 control-label" for="textarea">Text Area</label>
+                            <div class="col-md-4">
+                              <textarea class="form-control" id="textarea" name="textarea">Preencher</textarea>
+                            </div>
+                          </div>
+                    </td>
+                    <td>
+                      <!-- Textarea -->
+                      <div class="form-group">
+                            <label class="col-md-4 control-label" for="textarea">Text Area</label>
+                            <div class="col-md-4">
+                              <textarea class="form-control" id="textarea" name="textarea">Preencher</textarea>
+                            </div>
+                          </div>
+                    </td>
+                    <td>
+                      <!-- Textarea -->
+                      <div class="form-group">
+                            <label class="col-md-4 control-label" for="textarea">Text Area</label>
+                            <div class="col-md-4">
+                              <textarea class="form-control" id="textarea" name="textarea">Preencher</textarea>
+                            </div>
+                          </div>
+                    </td>
+                    <td><a href="editar-conteudos.php" class="btn btn-info btn-sm ">Confirmar</a></td>
+                  </tr>
+
+
+
 
                 </tbody>
               </table>
@@ -104,11 +145,11 @@
         <button type="button" class="btn btn-secondary btn-round " data-dismiss="modal">Fechar</button>
         <button id="btnLoadEnabled" type="button" class="btn btn-info btn-round enviar ">Gerar & Enviar Link </button>
         <button class="btn btn-success" id="btnLoad" disabled style="display: none;">
-        <i class="fa fa-circle-o-notch fa-spin"></i>
-  Enviando...
-</button>
-      
-      
+          <i class="fa fa-circle-o-notch fa-spin"></i>
+          Enviando...
+        </button>
+
+
       </div>
     </div>
   </div>

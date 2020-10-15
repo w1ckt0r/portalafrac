@@ -1,11 +1,11 @@
 <?php
-  require_once 'users/init.php';
-  if (!securePage($_SERVER['PHP_SELF'])) {
-    die();
-  }
-  $hooks =  getMyHooks();
-  includeHook($hooks, 'pre');
-  require_once 'header.php';
+require_once 'users/init.php';
+if (!securePage($_SERVER['PHP_SELF'])) {
+  die();
+}
+$hooks =  getMyHooks();
+includeHook($hooks, 'pre');
+require_once 'header.php';
 ?>
 
 <!-- End Navbar -->
@@ -15,22 +15,21 @@
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-info">
-            <h4 class="card-title ">Conteudos</h4>
+            <h4 class="card-title">Conteudos</h4>
             <p class="card-category">
+            <a href="novo-conteudo.php" class="btn btn-primary btn-sm">Novo</a>
             </p>
           </div>
           <div class="card-body">
             <div class="table-responsive">
               <table class="table">
                 <thead class=" text-primary">
-                  <th>Arquivo</th>
-                  <th>Feito em </th>
-                  <th>Categoria</th>
-                  <th>Downloads</th>
+                  <th>Titulo</th>
+                  <th>Imagem</th>
+                  <th>Texto</th>
+                  <th>Leituras</th>
                   <th> </th>
-                  <th>Downloads</th>
-                  <th>Downloads</th>
-                  <th>Downloads</th>
+                  <th>  </th>
                 </thead>
                 <tbody>
                   <?php
@@ -59,6 +58,15 @@
                     </tr>
 
                   <?php }; ?>
+                  <tr>
+                    <td>PIX será ‘tão seguro quanto’ outros sistemas de pagamento, diz diretor do BC</td>
+                    <td>http://localhost/portalafrac/assets/images/podcastinsta.png</td>
+                    <td>João Manoel Pinho de Mello, diretor do Banco Central, afirmou que o PIX, novo sistema...</td>
+                    <td>195</td>
+                    <td></td>
+                    <td><a href="editar-conteudos.php" class="btn btn-info btn-sm ">Editar</a></td>
+                    <td><a href="#" class="btn btn-danger btn-sm ">Excluir</a></td>
+                  </tr>
 
                 </tbody>
               </table>
@@ -104,11 +112,11 @@
         <button type="button" class="btn btn-secondary btn-round " data-dismiss="modal">Fechar</button>
         <button id="btnLoadEnabled" type="button" class="btn btn-info btn-round enviar ">Gerar & Enviar Link </button>
         <button class="btn btn-success" id="btnLoad" disabled style="display: none;">
-        <i class="fa fa-circle-o-notch fa-spin"></i>
-  Enviando...
-</button>
-      
-      
+          <i class="fa fa-circle-o-notch fa-spin"></i>
+          Enviando...
+        </button>
+
+
       </div>
     </div>
   </div>
