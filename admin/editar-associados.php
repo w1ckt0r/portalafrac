@@ -28,15 +28,8 @@ require_once 'header.php';
                     <fieldset>
 
                       <!-- Form Name -->
-                      <legend>Novo Conteudo</legend>
+                      <legend>Associados</legend>
 
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Titulo"></textarea>
-                        </div>
-                      </div>
                       <!-- Text input-->
                       <div class="form-group">
                         <label class="col-md-4 control-label" for="textarea"></label>
@@ -44,49 +37,44 @@ require_once 'header.php';
                           <textarea class="form-control" id="textarea" name="textarea" placeholder="Nome"></textarea>
                         </div>
                       </div>
+                      <!-- Text input-->
+                      <div class="form-group">
+                        <label class="col-md-4 control-label" for="textarea"></label>
+                        <div class="col-md-4">
+                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Site"></textarea>
+                        </div>
+                      </div>
 
                     </fieldset>
                   </form>
 
                   <form class="form-horizontal">
-                    <fieldset>
-                     
 
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <form method="post">
-                            <textarea id="mytextarea" name="mytextarea">
-                                    Hello, World!
-                            </textarea>
-                          </form>
-                          <script>
-                        tinymce.init({
-                          selector: '#mytextarea'
-                        });
-                      </script>
-
-
-
-
-
-                          <!-- <textarea class="form-control" id="mytextarea" name="mytextarea" placeholder="Texto"></textarea> -->
-                        </div>
+                    <div class="form-group">
+                      <label class="col-md-4 control-label" for="textarea"></label>
+                      <div class="col-md-4">
+                        <textarea class="form-control" id="textarea" name="textarea" placeholder="Telefone"></textarea>
                       </div>
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Leituras"></textarea>
-                        </div>
+                    </div>
+
+                    <div class="form-group">
+                      <label class="col-md-4 control-label" for="textarea"></label>
+                      <div class="col-md-4">
+                        <textarea class="form-control" id="textarea" name="textarea" placeholder="Endereço e Número"></textarea>
                       </div>
+                    </div>
+                    <div class="form-group">
+                      <label class="col-md-4 control-label" for="textarea"></label>
+                      <div class="col-md-4">
+                        <textarea class="form-control" id="textarea" name="textarea" placeholder="Cidade e Estado"></textarea>
+                      </div>
+                    </div>
 
                     </fieldset>
                     <fieldset>
 
                       <!-- Form Name -->
-                      <legend>Imagem</legend>
+                      <legend>Logo</legend>
 
                       <!-- Text input-->
                       <div class="form-group">
@@ -95,8 +83,8 @@ require_once 'header.php';
                           <textarea class="form-control" id="textarea" name="textarea" placeholder="Link da imagem"></textarea>
                         </div>
 
-
-                        <h3>Preview</h3>
+                        <br>
+                        <h4>Preview</h4>
                         <img src="assets/img/no-image.png" alt="">
 
                       </div>

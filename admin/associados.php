@@ -15,99 +15,21 @@ require_once 'header.php';
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-info">
-            <h4 class="card-title">Conteudos</h4>
+            <h4 class="card-title">Associados</h4>
             <p class="card-category">
+            <a href="novo-conteudo.php" class="btn btn-primary btn-sm">Novo</a>
             </p>
           </div>
           <div class="card-body">
             <div class="table-responsive">
               <table class="table">
                 <thead class=" text-primary">
-
-                  <form class="form-horizontal">
-                    <fieldset>
-
-                      <!-- Form Name -->
-                      <legend>Novo Conteudo</legend>
-
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Titulo"></textarea>
-                        </div>
-                      </div>
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Nome"></textarea>
-                        </div>
-                      </div>
-
-                    </fieldset>
-                  </form>
-
-                  <form class="form-horizontal">
-                    <fieldset>
-                     
-
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <form method="post">
-                            <textarea id="mytextarea" name="mytextarea">
-                                    Hello, World!
-                            </textarea>
-                          </form>
-                          <script>
-                        tinymce.init({
-                          selector: '#mytextarea'
-                        });
-                      </script>
-
-
-
-
-
-                          <!-- <textarea class="form-control" id="mytextarea" name="mytextarea" placeholder="Texto"></textarea> -->
-                        </div>
-                      </div>
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Leituras"></textarea>
-                        </div>
-                      </div>
-
-                    </fieldset>
-                    <fieldset>
-
-                      <!-- Form Name -->
-                      <legend>Imagem</legend>
-
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Link da imagem"></textarea>
-                        </div>
-
-
-                        <h3>Preview</h3>
-                        <img src="assets/img/no-image.png" alt="">
-
-                      </div>
-
-                    </fieldset>
-                  </form>
-                  <form class="form-horizontal">
-
-                  </form>
-
-
+                  <th>Nome</th>
+                  <th>Site</th>
+                  <th>Telefone</th>
+                  <th>Endereço e Número</th>
+                  <th>Cidade e Estado</th>
+                  <th>Logo</th>
                 </thead>
                 <tbody>
                   <?php
@@ -137,8 +59,16 @@ require_once 'header.php';
 
                   <?php }; ?>
                   <tr>
-                    <a style="position: relative;" href="conteudos.php" class="btn btn-info btn-bg ">Confirmar</a>
+                    <td>1A PCI POWER</td>
+                    <td>www.pcipower.com.br</td>
+                    <td>(31) 3492-1140</td>
+                    <td>Rua João Ambrósio, 156</td>
+                    <td>Belo Horizonte / MG</td>
+                    <td><img src="assets/img/pci-power.jpg" alt=""></td>
+                    <td><a href="editar-associados.php" class="btn btn-info btn-sm ">Editar</a></td>
+                    <td><a href="#" class="btn btn-danger btn-sm ">Excluir</a></td>
                   </tr>
+
                 </tbody>
               </table>
             </div>
@@ -192,5 +122,3 @@ require_once 'header.php';
     </div>
   </div>
 </div>
-
-<script src="https://cdn.tiny.cloud/1/3pi35req66retm9019lz3n0re5yqv3c5rmrbv9r10cdbaphl/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>

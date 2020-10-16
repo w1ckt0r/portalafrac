@@ -50,7 +50,7 @@
           </li>
 
           <li class="nav-item ">
-            <a class="nav-link" href="users/user_settings.php">
+            <a class="nav-link" href="associados.php">
               <i class="material-icons">person</i>
               <p>Associados</p>
             </a>
