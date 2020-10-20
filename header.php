@@ -105,7 +105,7 @@
 
                                 Sobre a AFRAC</a>
                         <div class="dropdown-menu ">
-                            <a class="dropdown-item text-primary display-4 " href="historia.php">História</a>
+                            <a class="dropdown-item text-primary display-4" href="historia.php">História</a>
                             <a class="dropdown-item text-primary display-4" href="diretoria.php">Diretoria</a>
                             <a class="dropdown-item text-primary display-4" href="apoiojuridico.php">Apoio Jurídico e Legislativo</a>
                             <a class="dropdown-item text-primary display-4" href="parceiros.php">Parcerias</a>
