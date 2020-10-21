@@ -118,10 +118,10 @@
 
                                 Associação</a>
                         <div class="dropdown-menu">
-                            <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Automação e Tecnologia</a>
-                            <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Benefícios</a>
+                            <a class="text-primary dropdown-item display-4" href="ecossistema.php" aria-expanded="false">Ecossistema AFRAC</a>
+                            <a class="text-primary dropdown-item display-4" href="beneficios.php" aria-expanded="false">Benefícios</a>
                             <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Associe-se</a>
-                            <a class="text-primary dropdown-item display-4" href="index.php" aria-expanded="false">Associados</a>
+                            <a class="text-primary dropdown-item display-4" href="associados.php" aria-expanded="false">Associados</a>
                         </div>
                     </li>
                     <li class="nav-item dropdown">

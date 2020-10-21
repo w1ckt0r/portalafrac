@@ -57,6 +57,13 @@
           </li>
 
           <li class="nav-item ">
+            <a class="nav-link" href="agenda.php">
+              <i class="material-icons">person</i>
+              <p>Agenda</p>
+            </a>
+          </li>
+
+          <li class="nav-item ">
             <a class="nav-link" href="users/admin.php">
               <i class="material-icons">person</i>
               <p>Administração</p>
