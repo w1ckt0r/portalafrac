@@ -159,7 +159,7 @@
                                     <div class="col-10 text-logo align-left">
                                         <h1 class="mbr-fonts-style display-2">
                                             <strong>
-                                                        Blog da Afrac
+                                                        Blog AFRAC
                                                     </strong>
                                         </h1>
                                         <p class="lead mbr-text mbr-fonts-style display-5">
@@ -291,7 +291,7 @@
 
     <div class="container">
         <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
-            <strong>&nbsp; BLOG Afrac</strong>
+            <strong>&nbsp; Blog AFRAC</strong>
         </h2>
         <center>
 

@@ -1,22 +1,14 @@
 <?php  require("header.php");?>
 
+    <section class="header1 cid-s8C0CQrUgj" id="header16-12" style="background-color: #04112b;">
 
 
-    <section class="engine"><a href="https://mobirise.info/e">make a site for free</a></section>
-    <section class="header1 cid-s8C0CQrUgj" id="header16-12">
-
-
-
-
-
-        <div class="container">
-            <div class="row justify-content-md-center">
-                <div class="col-md-10 align-center">
-                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">
-                        História</h1>
-
-
-
+        <div class="container" >
+            <div class="row justify-content-md-center" style="padding: 4% 0%;">
+                <div class="col-md-10 align-center" >
+                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1" style="color: white;" >
+                    Conheça nossa trajetória.
+                    </h1>
                 </div>
             </div>
         </div>

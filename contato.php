@@ -2,7 +2,7 @@
 
 
 <section class="engine"><a href="https://mobirise.info/g">how to build your own site</a></section>
-<section class="header1 cid-s8Hox0OvQx" id="header16-1j">
+<section class="header1 cid-s8Hox0OvQx" id="header16-1j" style="background-color: #04112b;">
 
 
 
@@ -11,7 +11,7 @@
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 align-center">
-                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1 "style="color: white; padding:4% 0%;">
                     Contato</h1>
 
 

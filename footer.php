@@ -6,7 +6,7 @@
                 <div class="col-12 col-md-3">
                     <div class="media-wrap">
                         <a href="index.html">
-                            <img src="assets/images/unnamed-192x94.png" alt="AFRAC" title="">
+                            <img src="assets/images/logo-afrac-oficial.png" alt="AFRAC" title="" style="width: 250px; height:auto ; padding-bottom: 10px" >
                         </a>
                         <p>
 
@@ -93,7 +93,7 @@
                             </div>
                             <div class="soc-item">
                                 <a href="https://open.spotify.com/show/37LkLsIa5XfXQfibY9vJSF " target="_blank">
-                                    <span class="mbr-iconfont mbr-iconfont-social socicon-spotify socicon"></span>
+                                    <span class="mbr-iconfont mbr-iconfont-social  socicon"></span>
                                 </a>
                             </div>
 

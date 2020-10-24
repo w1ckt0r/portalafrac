@@ -3,7 +3,7 @@
 
 
     <section class="engine"><a href="https://mobirise.info/c">website builder</a></section>
-    <section class="header1 cid-s8CiVnpD1R" id="header16-16">
+    <section class="header1 cid-s8CiVnpD1R" id="header16-16" style="background-color: #04112b;">
 
 
 
@@ -12,8 +12,8 @@
         <div class="container">
             <div class="row justify-content-md-center">
                 <div class="col-md-10 align-center">
-                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1">
-                        Diretoria</h1>
+                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1" style="color: white;">
+                        Diretoria AFRAC</h1>
 
 
 
