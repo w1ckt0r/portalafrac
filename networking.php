@@ -82,19 +82,6 @@
                             Ler Mais</a></div>
                 </div>
             </div>
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
-                    </div>
-                    <div class="card-box">
-
-                    </div>
-                    <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
-                            Ler Mais</a></div>
-                </div>
-            </div>
-
 
         </div>
     </div>
@@ -107,7 +94,7 @@
 
     <div class="container" style="padding-bottom: 5%;">
         <div class="media-container-row">
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
+            <div class="card p-3 col-12 col-md-7 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
@@ -120,7 +107,7 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
+            <div class="card p-3 col-12 col-md-7 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
@@ -133,47 +120,33 @@
                 </div>
             </div>
 
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
+            <div class="card p-3 col-12 col-md-7 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
                         <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
                     </div>
                     <div class="card-box">
- 
-                    </div>
-                    <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
-                            Ler Mais</a></div>
-                </div>
-            </div>
-            
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
-                    </div>
-                    <div class="card-box">
-    
-                    </div>
-                    <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
-                            Ler Mais</a></div>
-                </div>
-            </div>
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
-                    </div>
-                    <div class="card-box">
- 
+
                     </div>
                     <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
                             Ler Mais</a></div>
                 </div>
             </div>
 
+            <div class="card p-3 col-12 col-md-7 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
+                    </div>
+                    <div class="card-box">
 
+                    </div>
+                    <div class="mbr-section-btn text-center"><a href="https://mobirise.co" class="btn btn-primary display-4">
+                            Ler Mais</a></div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
 
-<?php  require("footer.php");?>
+<?php require("footer.php"); ?>

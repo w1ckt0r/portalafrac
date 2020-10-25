@@ -383,8 +383,9 @@
 }
 
 #submenu:hover {
-    background-color: blue;
-    color: white;
+    background-color: #2f496f;
+    color: white !important;
+    align-items: left !important;
 }
 
 

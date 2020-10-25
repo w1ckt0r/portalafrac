@@ -7,7 +7,7 @@
             <div class="row justify-content-md-center" style="padding: 4% 0%;">
                 <div class="col-md-10 align-center" >
                     <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1" style="color: white;" >
-                    Conheça nossa trajetória.
+                    Conheça nossa trajetória
                     </h1>
                 </div>
             </div>

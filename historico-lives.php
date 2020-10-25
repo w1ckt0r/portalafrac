@@ -62,32 +62,32 @@ $video_list = json_decode(file_get_contents('https://www.googleapis.com/youtube/
 <?php
 
 
-foreach ($video_list->items as $item) {
-    //Embed video
-    if (isset($item->id->videoId)) {
+// foreach ($video_list->items as $item) {
+//     //Embed video
+//     if (isset($item->id->videoId)) {
 
-        echo '<li id="' . $item->id->videoId . '" class="col-lg-3 col-sm-6 col-xs-6 youtube-video">
-        <a href="#' . $item->id->videoId . '" title="' . $item->snippet->title . '">
-            <img src="' . $item->snippet->thumbnails->medium->url . '" alt="' . $item->snippet->title . '" class="img-responsive" height="130px" />
-            <h2>' . $item->snippet->title . '</h2>
-            <span class="glyphicon glyphicon-play-circle"></span>
-        </a>
-    </li>
-    ';
-    }
-    //Embed playlist
-    //     else if(isset($item->id->playlistId))
-    //     {
-    //         echo '<li id="'. $item->id->playlistId .'" class="col-lg-3 col-sm-6 col-xs-6 youtube-playlist">
-    //     <a href="#'. $item->id->playlistId .'" title="'. $item->snippet->title .'">
-    //         <img src="'. $item->snippet->thumbnails->medium->url .'" alt="'. $item->snippet->title .'" class="img-responsive" height="130px" />
-    //         <h2>'. $item->snippet->title .'</h2>
-    //         <span class="glyphicon glyphicon-play-circle"></span>
-    //     </a>
-    // </li>
-    // ';
-    // }
-}
+//         echo '<li id="' . $item->id->videoId . '" class="col-lg-3 col-sm-6 col-xs-6 youtube-video">
+//         <a href="#' . $item->id->videoId . '" title="' . $item->snippet->title . '">
+//             <img src="' . $item->snippet->thumbnails->medium->url . '" alt="' . $item->snippet->title . '" class="img-responsive" height="130px" />
+//             <h2>' . $item->snippet->title . '</h2>
+//             <span class="glyphicon glyphicon-play-circle"></span>
+//         </a>
+//     </li>
+//     ';
+//     }
+//     //Embed playlist
+//     //     else if(isset($item->id->playlistId))
+//     //     {
+//     //         echo '<li id="'. $item->id->playlistId .'" class="col-lg-3 col-sm-6 col-xs-6 youtube-playlist">
+//     //     <a href="#'. $item->id->playlistId .'" title="'. $item->snippet->title .'">
+//     //         <img src="'. $item->snippet->thumbnails->medium->url .'" alt="'. $item->snippet->title .'" class="img-responsive" height="130px" />
+//     //         <h2>'. $item->snippet->title .'</h2>
+//     //         <span class="glyphicon glyphicon-play-circle"></span>
+//     //     </a>
+//     // </li>
+//     // ';
+//     // }
+// }
 
 
 require("footer.php");

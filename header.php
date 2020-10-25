@@ -125,7 +125,7 @@
                         </div>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link link text-primary dropdown-toggle display-4" id="submenu" href="mercado.php" data-toggle="dropdown-submenu" aria-expanded="false">Mercado</a>
+                        <a class="nav-link link text-primary dropdown-toggle display-4" href="mercado.php" data-toggle="dropdown-submenu" aria-expanded="false">Mercado</a>
                         <div class="dropdown-menu">
                             <!-- <a class="text-primary dropdown-item display-4" href="index.html">Dados do Mercado</a> -->
                             <a class="text-primary dropdown-item display-4" id="submenu" href="painel-mercado.php">Painel do Mercado</a>
@@ -133,10 +133,10 @@
                         </div>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-primary display-4" id="submenu" sshref="blog.php" aria-expanded="false">Blog</a>
+                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false">Blog</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link link text-primary dropdown-toggle display-4" id="submenu" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
+                        <a class="nav-link link text-primary dropdown-toggle display-4"  href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
                         <div class="dropdown-menu">
                             <a class="text-primary dropdown-item display-4" id="submenu" href="calendario.php">Agenda</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="contato.php" aria-expanded="false">Contato</a>

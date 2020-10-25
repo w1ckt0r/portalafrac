@@ -67,7 +67,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">TOMANDO DECISÕES ÉTICAS</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Tomando decisões éticas</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">Antes de decidir se uma conduta ou atividade é apropriada:
                         <div>• Verifique se é contrária à legislação;
                         </div>
@@ -91,7 +91,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">RELACIONAMENTO COM CLIENTES&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Relacionamento com clientes</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">Honestidade e transparência são essenciais no tratamento com clientes. Deve-se ofertar serviços de maneira absolutamente verdadeira. Associados nunca devem oferecer ou anunciar algo que sabidamente não poderá ser cumprido.
                         <div>Não se deve omitir informações técnicas, comercias ou outras condições especiais com vistas a facilitar as negociações ou fechamento de pedido de venda e devem ser elaboradas propostas comerciais em termos claros e transparentes, que sejam facilmente compreensíveis pelos clientes.
                         </div>
@@ -108,7 +108,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">AMBIENTE DE TRABALHO RESPEITOSO&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Ambiente de trabalho respeitoso</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">Cada um de nós deve tratar o outro com respeito e dignidade. Queremos que nosso ambiente de trabalho seja livre de qualquer tipo de abuso ou assédio, seja moral, sexual ou discriminatório.&nbsp;<br><br>
                         <strong>O assédio moral pode tomar as seguintes formas:
                         </strong><br>- Ofensas Verbais;
@@ -165,7 +165,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">TRATAMENTO JUSTO E IGUALDADE NO EMPREGO&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Tratamente justo e igualdade no emprego</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">A AFRAC prega um ambiente de trabalho onde todos os colaboradores sejam tratados de maneira justa, sem discriminação.
                         <div>Decisões sobre contratação, promoção, demissão, transferência, compensação e treinamento devem ser tomadas com base em critérios relacionados ao trabalho e meritocracia, como, por exemplo, formação, experiência, habilidades, desempenho, valores e liderança. Raça, cor, religião, sexo, idade, estado civil, orientação sexual, lugar de origem e deficiência não devem influenciar decisões de carreira</div>
                     </h3>
@@ -180,7 +180,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">PRIVACIDADE DE DADOS PESSOAIS&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Privacidades de dados pessoais</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">Deve ser respeitada a privacidade dos colaboradores, Associados e clientes. Por isso, informações pessoais devem ser usadas na medida em que são necessárias à eficiente gestão dos negócios, mas sempre em conformidade com as leis e regulamentos sobre o assunto.<br><br>
                         <div>A legislação, nesse aspecto, pode variar bastante de um país para o outro. Assim, é importante que todos os colaboradores, Associados e clientes que trabalham com informações pessoais, estejam cientes das exigências legais aplicáveis ao seu trabalho.</div><br>
                         <div></div>
@@ -197,7 +197,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">CUIDADO E USO ADEQUADO DE BENS E RECURSOS DA ASSOCIAÇÃO&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Cuidado e uso adequado de bens e recursos da associaçao</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">O cuidado e uso adequado da propriedade da AFRAC, pelos seus Associados, contribuem para a busca de produtividade, resultados e perpetuidade dos negócios conjuntos.
                         <div>Os colaboradores e Associados devem proteger os bens e recursos da Associação com o mesmo cuidado que aplicam ao seu patrimônio pessoal, ou seja, protegê-los de perda, dano, furto, uso inadequado ou ilegal.
                         </div>
@@ -235,7 +235,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">ATIVIDADES POLÍTICAS&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Atividades politicas</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">Os recursos da Associação não devem ser usados para finalidades políticas, nem envolver o nome, a marca ou qualquer outro bem de propriedade da AFRAC.
                         <div>Eventuais doações ou contribuições a candidatos ou partidos políticos, se realizadas pelos Associados, devem ser efetivadas nos estritos termos da lei.&nbsp;</div>
                     </h3>
@@ -250,7 +250,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">INTEGRIDADE NA PRÁTICA DE NEGÓCIOS</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Intregidade na pratica de negocios</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">Ser uma Associação integra é fomentar a prática de negócios de forma ética. É orientar a se fazer o que é certo. As práticas abaixo traduzem atitudes que se coadunam com esse perfil:</h3>
 
                 </div>
@@ -263,7 +263,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">RELACIONAMENTO COM TERCEIROS
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Relacionamento com terceiros
                     </h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">A AFRAC acredita que ter um relacionamento honesto com fornecedores, concorrentes e demais terceiros é essencial para o sucesso das Empresas. Devemos tratar todas as partes com as quais nos relacionamos com a mesma integridade e honestidade que queremos ser tratados<br><br>
                         <strong>1. FORNECEDORES</strong>
@@ -285,7 +285,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">CONFLITOS DE INTERESSES&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Conflitos de interesses</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">É importante prevenir conflitos de interesses e, ao mesmo tempo, respeitar os assuntos pessoais dos nossos colaboradores e Associados. Um potencial conflito de interesses surge quando nos envolvemos, direta ou indiretamente, em situações pessoais que podem influenciar nossas decisões profissionais. Grau de parentesco ou relacionamento afetivo com colaboradores, fornecedores ou clientes podem, em certas circunstâncias, também gerar um conflito de interesses ou ser contrários às políticas da Associação.</h3>
 
                 </div>
@@ -298,7 +298,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">PAGAMENTOS INDEVIDOS E RELACIONAMENTO COM GOVERNOS</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Pagamentos indevidos e relacionamento com governos</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">A corrupção prejudica a sociedade em várias formas, causando danos nas áreas política, econômica e social.
                         <div>Os Associados da AFRAC devem ter políticas que vedem expressamente (i) o oferecimento de vantagem indevida a agentes públicos; (ii) a prática de fraudes em licitações e contratos; e (iii) O embaraço à ação de fiscalização pelo poder público
                         </div>
@@ -315,7 +315,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">BRINDES E ENTRETENIMENTO&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Brindes e entretenimento</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">Relações amigáveis com parceiros de negócio são essenciais para qualquer Empresa. Brindes e entretenimento (presentes, viagens, hospedagens, convites, etc.), são cortesias que ajudam a fortalecer essas relações, desde que não imputem à pessoa beneficiada um sentimento ou dever de fazer algo em troca. Em suma: não devem gerar tendência de favorecimento como forma de retribuição.</h3>
 
                 </div>
@@ -328,7 +328,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">RESPONSABILIDADE ECONÔMICA E SOCIAL</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Responsabilidade econômica e social</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">A AFRAC fomenta a responsabilidade econômica e principalmente a social. Consideramos que a função econômica da Empresa de maximização de lucros deve ser respeitada, mas, em contrapartida, deve se contrabalançar com a função social da Empresa, possuindo limites claros e buscando devolver à sociedade parte dos frutos recebidos, através de ações sociais que sejam efetivamente legítimas, sem buscar algo em troca.
                         <br><br>
                         <div>
@@ -348,7 +348,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">DAS AUTORIZAÇÕES DE USO&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Das autorizações de uso</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">A AFRAC autoriza o uso em comunicações impressas e digitais do termo "ASSOCIADO AFRAC" pelas empresas devidamente inscritas em seu quadro de filiação, devendo a mesma ser retirada diante de notificação prévia de 05 (cinco) dias contados do recebimento por correspondência eletrônica ou física</h3>
 
                 </div>
@@ -362,7 +362,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">DO CERTIFICADO DE ASSOCIADO AFRAC&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Do certificado de associado AFRAC</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">O certificado de Associado AFRAC garantirá ao mercado usuário que as empresas filiadas à AFRAC estarão em consonância com nosso CÓDIGO DE ÉTICA para atuar na área da Automação Comercial, oferecendo maior segurança nas aquisições e na prestação de serviços com essas empresas.
                         <div>Garantirá também ao mercado fornecedor de produtos e serviços de Automação Comercial livre e sadia concorrência de mercado, dentro de uma ética profissional de conduta.
                         </div>
@@ -379,7 +379,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">DOS PROCEDIMENTOS E JULGAMENTOS DAS DENÚNCIAS&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">Dos procedimentos e julgamentos das denúncias</h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">As denúncias efetuadas contra um Associado observarão total sigilo e confidencialidade dos envolvidos, não se admitindo em hipótese alguma a quebra deste e terá o seguinte procedimento:&nbsp;
                         <div>I - Deverá ser encaminhada a Comissão de Ética, por meio do for mulário de denúncia disponível no site da entidade;&nbsp;
                         </div>
@@ -401,7 +401,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;">DOS PROCEDIMENTOS E JULGAMENTOS DAS DENÚNCIAS&nbsp;</h2>
+                    <h2 class="align-left pb-3 mbr-fonts-style display-2" style="color: #04112b;"></h2>
                     <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5">VI - Após a resposta ou ausência de manifestação da notificação/convite pelo denunciado e marcada data para reunião junto a Comissão de Ética, esta observará o seguinte procedimento:
                         <br>(a) havendo ajustamento de conduta por parte do denunciado, caberá a Comissão de Ética realizar o arquivamento da denúncia, juntando ao processo termo de encerramento;
                         <br>(b) restando infrutíferas as tentativas de ajustamento de conduta com o denunciado, ou diante de ausência de manifestação deste ou faltas nas tentativas de reunião marcadas, caberá unicamente ao Presidente da AFRAC definir a forma de encaminhamento, por ofício AFRAC, do resultado da investigação realizada, para os órgãos governamentais, desde que conste na denúncia a autorização expressa do denunciante.
@@ -438,7 +438,7 @@
         <div class="container">
             <div class="media-container-row">
                 <div class="title col-12 col-md-8">
-                    <h2 class="align-center pb-3 mbr-fonts-style display-5">Este codigo de etica foi elaborado em parceria com a Associação Brasileira de Integridade, Ética e Compliance –
+                    <h2 class="align-left pb-3 mbr-fonts-style display-5">Este codigo de etica foi elaborado em parceria com a Associação Brasileira de Integridade, Ética e Compliance –
                         <div>ABRAECOM.</div>
                         <img src="assets/images/logo-abraecom.jpg" alt="" style="width: 40%; padding-top: 5%">
                     </h2>

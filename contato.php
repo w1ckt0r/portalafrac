@@ -36,7 +36,7 @@
                                 <h4 class="align-left mbr-fonts-style pb-4 m-0 display-5">Onde Estamos</h4>
                                 <p class="mbr-text align-left mbr-fonts-style pb-4 m-0 display-7">R. Profº. Aprígio Gonzaga, 35 – 6º andar / sala 64
                                     <br>04303-000 – São Judas, São Paulo / SP<br></p>
-                                <p class="mbr-text align-left mbr-fonts-style m-0 display-7">Numero: <br>11 3284-7080
+                                <p class="mbr-text align-left mbr-fonts-style m-0 display-7">Telefones de Contato: <br>11 3284-7080
                                     <br>11 96626-5531<br><br>Email: relacionamento@afrac.org.br<br></p>
                             </div>
                         </div>
