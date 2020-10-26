@@ -9,13 +9,18 @@
         <div class="row justify-content-md-center" style="padding-top: 4% ;">
             <div class="col-md-10 align-center">
                 <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2" style="color: white;">Beneficios</h1>
-                <h5 style="color: white;">Oferecemos apoio, defendemos interesses, levantamos oportunidades e aproximamos nossos associados. Saiba tudo o que você tem a ganhar ao fazer parte da AFRAC. Aproveite ao máximo cada um dos benefícios que trabalhamos para criar e manter.</h5>
             </div>
         </div>
     </div>
 
 
 </section>
+
+<div class="container" style="padding: 3%;">
+    <h5 class="card-title pb-3 mbr-fonts-style " style="color: #04112b;">Oferecemos apoio, defendemos interesses, levantamos oportunidades e aproximamos nossos associados. 
+    <br> Saiba tudo o que você tem a ganhar ao fazer parte da AFRAC. Aproveite ao máximo cada um dos benefícios 
+    <br> que trabalhamos para criar e manter.</h5>
+</div>
 
 <div class="container" style="padding-top: 4%;">
     <div class="media-container-row">

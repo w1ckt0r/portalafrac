@@ -6,9 +6,9 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8" style="padding: 5% 0% 2% 0%">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2">
+                <h1 class="align-center pb-3 mbr-fonts-style display-2">
                     <strong> PIX será ‘tão seguro quanto’ outros sistemas de pagamento, diz diretor do BC</strong>
-                </h2>
+                </h1>
                 <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"></h3>
 
             </div>

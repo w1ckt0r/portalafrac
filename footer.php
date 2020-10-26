@@ -6,7 +6,7 @@
                 <div class="col-12 col-md-3">
                     <div class="media-wrap">
                         <a href="index.html">
-                            <img src="assets/images/logo-afrac-oficial.png" alt="AFRAC" title="" style="width: 250px; height:auto ; padding-bottom: 10px" >
+                            <img src="assets/images/logo-afrac-oficial.png" alt="AFRAC" title="" style="width: 200px; height:auto ; padding: 50px 0px" >
                         </a>
                         <p>
 
@@ -22,7 +22,7 @@
                     <h5 class="pb-3">
                         Endereço</h5>
                     <p class="mbr-text">
-                        R. Prof. Aprígio Gonzaga, 35 - Conj.64<br>São Judas, São Paulo - SP, 04303-000
+                        R. Prof. Aprígio Gonzaga, 35 <br> Conjunto 64<br>São Judas, São Paulo - SP, 04303-000
                     </p>
                 </div>
                 <div class="col-12 col-md-3 mbr-fonts-style display-7">
@@ -70,7 +70,7 @@
                         </p>
                     </div>
                     <div class="col-md-6">
-                        <div class="social-list align-right">
+                        <div class="social-list align-left" style="padding-right: 90px;">
                             <div class="soc-item">
                                 <a href="https://www.instagram.com/afrac.oficial/?hl=pt-br" target="_blank">
                                     <span class="mbr-iconfont mbr-iconfont-social socicon-instagram socicon"></span>
@@ -93,7 +93,7 @@
                             </div>
                             <div class="soc-item">
                                 <a href="https://open.spotify.com/show/37LkLsIa5XfXQfibY9vJSF " target="_blank">
-                                    <span class="mbr-iconfont mbr-iconfont-social  socicon"></span>
+                                    <span class="mbr-iconfont mbr-iconfont-social socicon"></span>
                                 </a>
                             </div>
 

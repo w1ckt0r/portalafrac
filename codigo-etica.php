@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row justify-content-md-center">
                 <div class="col-md-10 align-center " style="padding: 5% 0% ">
-                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1" style="color: white;">Codigo de Ética</h1>
+                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2" style="color: white;">Codigo de Ética</h1>
 
                 </div>
             </div>
@@ -442,7 +442,7 @@
                         <div>ABRAECOM.</div>
                         <img src="assets/images/logo-abraecom.jpg" alt="" style="width: 40%; padding-top: 5%">
                     </h2>
-
+                    <a class="btn btn-sm btn-success-outline display-4" style="padding: 2%;" href="http://www.afrac.com.br/wp-content/uploads/2020/05/C%C3%93DIGO_%C3%89TICA_AFRAC2020.pdf">Baixe agora</a>
                 </div>
             </div>
         </div>

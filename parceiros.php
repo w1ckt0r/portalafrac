@@ -8,9 +8,9 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8" style="padding: 5% 0% ">
-                <h2 class="align-center pb-3 mbr-bold mbr-fonts-style display-1" style="color: white;">
+                <h1 class="align-center pb-3 mbr-bold mbr-fonts-style display-2" style="color: white;">
                     Parcerias
-                </h2>
+                </h1>
                 <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"></h3>
 
             </div>

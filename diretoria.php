@@ -12,7 +12,7 @@
         <div class="container">
             <div class="row justify-content-md-center">
                 <div class="col-md-10 align-center">
-                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-1" style="color: white;">
+                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2" style="color: white;">
                         Diretoria AFRAC</h1>
                 </div>
             </div>

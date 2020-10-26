@@ -232,11 +232,11 @@
                                     <div class="col-10 text-logo">
                                         <h2 class="mbr-fonts-style display-2">
                                             <strong>
-                                            Um novo visual
+                                                Um novo visual
                                             </strong>
                                         </h2>
                                         <p class="lead mbr-text mbr-fonts-style display-5">
-                                        Para receber o futuro!
+                                            Para receber o futuro!
                                         </p>
                                     </div>
                                 </div>
@@ -282,7 +282,10 @@
         </h2>
         <center>
 
-            <h4>Confira as principais notícias sobre o nosso segmento e fique atualizado sobre os principais acontecimentos.</h4>
+            <h4>Confira as principais notícias sobre o nosso segmento
+                <br>
+                e fique atualizado sobre os principais acontecimentos.
+            </h4>
         </center>
 
         <div class="media-container-row pt-5 ">
@@ -388,7 +391,7 @@
                         <strong>Código de Ética</strong>
                     </h4>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        <a href="http://www.afrac.com.br/wp-content/uploads/2020/05/C%C3%93DIGO_%C3%89TICA_AFRAC2020.pdf" target="_blank">Acesse aqui o Código de Ética</a>
+                        <a href="codigo-etica.php" target="_blank">Acesse aqui o Código de Ética</a>
                     </p>
                 </div>
             </div>

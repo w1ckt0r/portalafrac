@@ -147,11 +147,9 @@
                     </li>
                 </ul>
                 <div class="navbar-buttons mbr-section-btn">
-                    <a class="btn btn-sm btn-success-outline display-4" href="index.php">
-
-                            Associe-se</a>
-                    <a class="btn btn-sm display-4" style="background-color: #209ad5 !important; color:white" href="https://wa.me/5511966265531?text=Olá.%20Estou%20no%20site%20de%20vocês%20e%20gostaria%20de%20tirar%20umas%20dúvidas.">
-                        <span class="socicon  mbr-iconfont mbr-iconfont-btn"></span>Newsletter</a>
+                    <a class="btn btn-sm btn-success-outline display-4" href="index.php">Associe-se</a>
+                    <a class="btn btn-sm display-4" style="background-color: #209ad5 !important; color:white" href="index.php#form3-1x">
+                        <span class="socicon mbr-iconfont mbr-iconfont-btn"></span>Newsletter</a>
                 </div>
             </div>
         </nav>
