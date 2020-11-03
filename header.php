@@ -107,7 +107,6 @@
                         <div class="dropdown-menu">
                             <a class="dropdown-item text-primary display-4" id="submenu" href="historia.php">História</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="diretoria.php">Diretoria</a>
-                            <a class="dropdown-item text-primary display-4" id="submenu" href="apoiojuridico.php">Apoio Jurídico e Legislativo</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="parceiros.php">Parcerias</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="http://www.afrac.com.br/wp-content/uploads/2018/06/Estatuto-AFRAC_14MAIO_2020.pdf" target="_blank">Estatuto Social</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="codigo-etica.php">Código de Etica</a>

@@ -353,7 +353,7 @@
 
             </div>
             <div class="mbr-section-btn align-center">
-                <a class="btn btn-md btn-primary display-4" href="index.html">FIQUE POR DENTRO</a>
+                <a class="btn btn-md btn-primary display-4" href="vitrine-mercado.php">FIQUE POR DENTRO</a>
             </div>
 
         </div>

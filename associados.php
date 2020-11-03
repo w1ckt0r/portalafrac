@@ -47,20 +47,30 @@
     </div>
 
     <div class="media-container-row">
-        <div class="card p-3 col-12 col-md-6 col-lg-4">
+        <div class="card p-3 col-12 col-md-6 col-lg-4" style="align-items: center;">
             <div class="card-wrapper">
                 <div class="card-img">
                     <img src="assets/images/1A PCI POWER.jpg" style="width: 150px" title="">
                 </div>
-                <div class="card-box" style="padding-top: 6%;">
-                    <h4 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center">
+                <div class="card-box" style="padding-top: 6%; ">
+                    <h4 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
                         1A PCI POWER
                     </h4>
+                    <a href="www.pcipower.com.br" >www.pcipower.com.br</a>          
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Tel: (31) 3492-1140
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Rua João Ambrósio, 156
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Belo Horizonte / MG
+                    </h6>
                 </div>
             </div>
         </div>
 
-        <div class="card p-3 col-12 col-md-6 col-lg-4">
+        <div class="card p-3 col-12 col-md-6 col-lg-4" style="align-items: center;">
             <div class="card-wrapper">
                 <div class="card-img">
                     <img src="assets/images/4control.jpg" style="width: 150px" title="">
@@ -69,11 +79,21 @@
                     <h4 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center">
                         4CONTROL SYSTEMS
                     </h4>
+                    <a href="www.pcipower.com.br" >www.pcipower.com.br</a>          
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Tel: (31) 3492-1140
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Rua João Ambrósio, 156
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Belo Horizonte / MG
+                    </h6>
                 </div>
             </div>
         </div>
 
-        <div class="card p-3 col-12 col-md-6 col-lg-4">
+        <div class="card p-3 col-12 col-md-6 col-lg-4" style="align-items: center;">
             <div class="card-wrapper">
                 <div class="card-img">
                     <img src="assets/images/Active.png" style="width: 150px" title="">
@@ -82,6 +102,16 @@
                     <h4 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center">
                         4NEXT AUTOMAÇÃO E CONSULTORIA
                     </h4>
+                    <a href="www.pcipower.com.br" >www.pcipower.com.br</a>          
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Tel: (31) 3492-1140
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Rua João Ambrósio, 156
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Belo Horizonte / MG
+                    </h6>
                 </div>
             </div>
         </div>
@@ -91,7 +121,7 @@
 </div>
 <div class="container">
     <div class="media-container-row">
-        <div class="card p-3 col-12 col-md-6 col-lg-4">
+        <div class="card p-3 col-12 col-md-6 col-lg-4" style="align-items: center;">
             <div class="card-wrapper">
                 <div class="card-img">
                     <img src="assets/images/4Next_logo.png" style="width: 150px" title="">
@@ -100,11 +130,21 @@
                     <h4 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center">
                         ACS
                     </h4>
+                    <a href="www.pcipower.com.br" >www.pcipower.com.br</a>          
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Tel: (31) 3492-1140
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Rua João Ambrósio, 156
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Belo Horizonte / MG
+                    </h6>
                 </div>
             </div>
         </div>
 
-        <div class="card p-3 col-12 col-md-6 col-lg-4">
+        <div class="card p-3 col-12 col-md-6 col-lg-4" style="align-items: center;">
             <div class="card-wrapper">
                 <div class="card-img">
                     <img src="assets/images/logo_ACSN.jpg" style="width: 150px" title="">
@@ -113,11 +153,21 @@
                     <h4 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center">
                         ACSN
                     </h4>
+                    <a href="www.pcipower.com.br" >www.pcipower.com.br</a>          
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Tel: (31) 3492-1140
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Rua João Ambrósio, 156
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Belo Horizonte / MG
+                    </h6>
                 </div>
             </div>
         </div>
 
-        <div class="card p-3 col-12 col-md-6 col-lg-4">
+        <div class="card p-3 col-12 col-md-6 col-lg-4" style="align-items: center;">
             <div class="card-wrapper">
                 <div class="card-img">
                     <img src="assets/images/logo_acs_75.png" style="width: 150px" title="">
@@ -126,6 +176,16 @@
                     <h4 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center">
                         ACTIVE SOLUÇÕES EM TECNOLOGIA
                     </h4>
+                    <a href="www.pcipower.com.br" >www.pcipower.com.br</a>          
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Tel: (31) 3492-1140
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Rua João Ambrósio, 156
+                    </h6>
+                    <h6 class="card-title pb-3 mbr-fonts-style display-7" style="text-align: center;">
+                        Belo Horizonte / MG
+                    </h6>
                 </div>
             </div>
         </div>
