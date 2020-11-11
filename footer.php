@@ -6,7 +6,7 @@
                 <div class="col-12 col-md-3">
                     <div class="media-wrap">
                         <a href="index.html">
-                            <img src="assets/images/logo-afrac-oficial.png" alt="AFRAC" title="" style="width: 200px; height:auto ; padding: 50px 0px" >
+                            <img src="assets/images/logo-claro.png" alt="AFRAC" title="" style="width: 200px; height:auto ; padding: 50px 0px" >
                         </a>
                         <p>
 
@@ -38,21 +38,21 @@
                     <h5 class="pb-3">
                         Mapa do Site</h5>
                     <p class="mbr-text">
-                        <a class="text-danger" href="#">Diretoria</a>
+                        <a class="text-danger" href="diretoria.php">Diretoria</a>
                     </p>
 
                     <p>
-                        <a class="text-danger" href="#">Benefícios
+                        <a class="text-danger" href="beneficios.php">Benefícios
                             </a>
                     </p>
                     <p>
                         <a class="text-danger" href="#">Notícias</a>
                     </p>
                     <p>
-                        <a class="text-danger" href="#">Agenda</a>
+                        <a class="text-danger" href="calendario.php">Agenda</a>
                     </p>
                     <p>
-                        <a class="text-danger" href="#">Contato</a>
+                        <a class="text-danger" href="contato.php">Contato</a>
                     </p>
 
                 </div>

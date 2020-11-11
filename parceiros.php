@@ -3,11 +3,11 @@
 
 <!-- <section class="engine"> <a href="#">portfolio site templates</a></section> -->
 
-<section class="mbr-section content4 cid-sbUhHqwSeI" id="content4-1w" style="background-color: #04112b;">
+<section class="header1 cid-s8HaGIkBjh"  style="background-color: #04112b;">
 
     <div class="container">
         <div class="media-container-row">
-            <div class="title col-12 col-md-8" style="padding: 5% 0% ">
+            <div class="title col-12 col-md-8" >
                 <h1 class="align-center pb-3 mbr-bold mbr-fonts-style display-2" style="color: white;">
                     Parcerias
                 </h1>

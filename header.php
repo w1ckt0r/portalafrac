@@ -90,7 +90,7 @@
                 <div class="navbar-brand">
                     <span class="navbar-logo">
                             <a href="index.php">    
-                                <img src="assets/images/logo-afrac-oficial.png" alt="AFRAC" title="" style="height: 4.2rem;">
+                                <img src="assets/images/logo-escuro.png" alt="AFRAC" title="" style="height: 4.2rem;">
                             </a>
                         </span>
                     <span class="navbar-caption-wrap">

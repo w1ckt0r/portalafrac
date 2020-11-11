@@ -8,7 +8,7 @@ $video_list = json_decode(file_get_contents('https://www.googleapis.com/youtube/
 
 // var_dump($video_list);
 ?>
-<section style="background-color: #04112b; padding: 3% 0%">
+<section class="header1 cid-s8HaGIkBjh" style="background-color: #04112b">
     <div class="container">
         <div class="row justify-content-md-center">
             <div class="col-md-10 align-center">

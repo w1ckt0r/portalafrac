@@ -16,9 +16,9 @@
                 <div class="carousel-item slider-fullscreen-image active" data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_01.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 0.5;"></div>
+                            <!-- <div class="mbr-overlay" style=""></div> -->
                             <img class="img-banner" src="assets/images/banners/banner_01.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_01.png" alt="">
@@ -45,9 +45,8 @@
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_02.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 0.5;"></div>
                             <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_02.png" alt="">
@@ -55,7 +54,7 @@
                                     <div class="col-10 text-logo">
                                         <h2 class="mbr-fonts-style display-2">
                                             <strong>
-                                                NRF 2021
+
                                                 <br>
                                                 A Delegação AFRAC
                                                 <br>
@@ -75,22 +74,21 @@
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_03.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 0.5;"></div>
                             <img class="img-banner" src="assets/images/banners/banner_03.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_03.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
                                         <h2 class="mbr-fonts-style display-2">
-                                            <strong>CONGRESSO AUTOCOM 2021
+                                            <strong><br>
                                             </strong>
                                         </h2>
                                         <p class="lead mbr-text mbr-fonts-style display-5">
                                             O Futuro da Tecnologia é Agora
                                             <br>
-                                            06 e 07 de Abril durante a Feira Autocom
+                                            06 e 07 de Abril de 2021 durante a Feira Autocom
                                         </p>
                                     </div>
                                 </div>
@@ -101,9 +99,8 @@
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_04.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 0.5;"></div>
                             <img class="img-banner" src="assets/images/banners/banner_04.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_04.png" alt="">
@@ -128,9 +125,8 @@
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_05.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 0.5;"></div>
                             <img class="img-banner" src="assets/images/banners/banner_05.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_05.png" alt="">
@@ -159,9 +155,8 @@
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_06.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 0.5;"></div>
                             <img class="img-banner" src="assets/images/banners/banner_06.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_06.png" alt="">
@@ -190,9 +185,8 @@
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_07.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 0;"></div>
                             <img class="img-banner" src="assets/images/banners/banner_07.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_07.png" alt="">
@@ -222,9 +216,8 @@
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_08.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <div class="mbr-overlay" style="opacity: 50%;"></div>
                             <img class="img-banner" src="assets/images/banners/banner_08.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_08.png" alt="">
@@ -245,7 +238,6 @@
                     </div>
                 </div>
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="https://www.youtube.com/watch?v=2xDBfEte79A&amp;feature=emb_logo">
-                    <div class="mbr-overlay" style="opacity: 0;"></div>
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <div class="carousel-caption justify-content-center">
@@ -297,8 +289,8 @@
                         <a href="https://blogafrac.org/2020/09/15/minas-gerais-altera-legislacao-da-nfc-e/"><img src="assets/images/imagem-blog-676x522.jpg" alt="AFRAC" title=""></a>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7">Minas Gerais altera legislação da NFC-e
-                        </h4>
+                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Minas Gerais altera legislação da NFC-e
+                        </p>
                         <p class="mbr-text mbr-fonts-style align-left display-7">
                             No último dia 11 de setembro o Estado de Minas Gerais alterou, através do Decreto nº 48.037/2020...<br><br>Saiba mais</p>
                     </div>
@@ -312,7 +304,7 @@
                         <a href="https://blogafrac.org/2020/09/11/por-que-os-varejistas-devem-investir-em-gestao-de-carteiras-digitais/"><img src="assets/images/imagem-blog-676x522.jpg" alt="AFRAC" title=""></a>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7">Por que os varejistas devem investir em gestão de carteiras digitais?</h4>
+                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Por que os varejistas devem investir em gestão de carteiras digitais?</p>
                         <p class="mbr-text mbr-fonts-style display-7">O crescimento da adesão a pagamentos digitais é algo já esperado e um movimento natural para...<br><br>Saiba mais</p>
                     </div>
                 </div>
@@ -326,8 +318,8 @@
                         <a href="https://www.youtube.com/watch?v=aA1VJtEVgr8"><img src="https://img.youtube.com/vi/aA1VJtEVgr8/0.jpg" alt="AFRAC" title=""></a>
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7">PIX: Ações de Comunicação e Uso da Marca.
-                        </h4>
+                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">PIX: Ações de Comunicação e Uso da Marca.
+                        </p>
                         <p class="mbr-text mbr-fonts-style display-7">Conforme regramento previsto no corpo do Regulamento e no Manual de Uso da Marca, que o compõe, e reforçado nas reuniões...<br><br>Saiba mais</p>
                     </div>
                 </div>
@@ -354,6 +346,67 @@
             </div>
             <div class="mbr-section-btn align-center">
                 <a class="btn btn-md btn-primary display-4" href="vitrine-mercado.php">FIQUE POR DENTRO</a>
+            </div>
+
+        </div>
+    </div>
+</section>
+<section class="features18 popup-btn-cards cid-s7nr3ReWga" id="features18-t">
+
+    <div class="container">
+        <h2 class="mbr-section-title pb-3 align-center mbr-fonts-style display-2">
+            <strong>Vitrine de Mercado</strong>
+        </h2>
+        <center>
+
+            <h4>
+                <br>
+            </h4>
+        </center>
+
+        <div class="media-container-row pt-5 ">
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper ">
+                    <div class="card-img">
+                        <div class="mbr-overlay"></div>
+
+                        <a href="https://blogafrac.org/2020/09/15/minas-gerais-altera-legislacao-da-nfc-e/"><img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">“O que é a Shipay?” Saiba mais!
+                        </p>
+                        <p class="mbr-text mbr-fonts-style align-left display-7">
+                            No último dia 11 de setembro o Estado de Minas Gerais alterou, através do Decreto nº 48.037/2020...<br><br>Saiba mais</p>
+                    </div>
+                </div>
+            </div>
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <div class="mbr-overlay"></div>
+
+                        <a href="https://blogafrac.org/2020/09/11/por-que-os-varejistas-devem-investir-em-gestao-de-carteiras-digitais/"><img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Participe do Papo Linx com a participação da Dir. do Jurídico AFRAC, Dra. Lucia Correia.</p>
+                        <p class="mbr-text mbr-fonts-style display-7">O crescimento da adesão a pagamentos digitais é algo já esperado e um movimento natural para...<br><br>Saiba mais</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card p-3 col-12 col-md-6 col-lg-4">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <div class="mbr-overlay"></div>
+
+                        <a href="https://www.youtube.com/watch?v=aA1VJtEVgr8"><img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title=""></a>
+                    </div>
+                    <div class="card-box">
+                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Acompanhe a live “As fraudes contábeis e a moral tributária” realizada pelo ENCAT
+                        </p>
+                        <p class="mbr-text mbr-fonts-style display-7">Conforme regramento previsto no corpo do Regulamento e no Manual de Uso da Marca, que o compõe, e reforçado nas reuniões...<br><br>Saiba mais</p>
+                    </div>
+                </div>
             </div>
 
         </div>

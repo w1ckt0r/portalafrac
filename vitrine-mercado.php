@@ -2,11 +2,9 @@
 
 
 <section class="engine"><a href="https://mobirise.info/g">how to build your own site</a></section>
+
+
 <section class="header1 cid-s8HaGIkBjh" id="header16-1e" style="background-color: #04112b;">
-
-
-
-
 
     <div class="container">
         <div class="row justify-content-md-center">

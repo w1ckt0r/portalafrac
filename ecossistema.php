@@ -1,9 +1,9 @@
 <?php require("header.php"); ?>
 
 
-<section class="accordion2 cid-scQUYgf2rH" id="accordion2-5" style="background-color: #04112b;">
+<section class="accordion2 cid-s8HaGIkBjh" id="accordion2-5" style="background-color: #04112b;">
     <div class="container">
-        <div class="row justify-content-md-center" style="padding: 5% 0%;">
+        <div class="row justify-content-md-center" >
             <div class="col-md-10 align-center">
                 <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2" style="color: white;">Ecossistema</h1>
             </div>
