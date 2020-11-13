@@ -18,7 +18,7 @@
                         <div class="image_wrapper">
                             <!-- <div class="mbr-overlay" style=""></div> -->
                             <img class="img-banner" src="assets/images/banners/banner_01.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_01.png" alt="">
@@ -46,7 +46,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_02.png" alt="">
@@ -75,7 +75,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_03.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_03.png" alt="">
@@ -100,7 +100,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_04.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_04.png" alt="">
@@ -126,7 +126,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_05.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_05.png" alt="">
@@ -156,7 +156,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_06.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_06.png" alt="">
@@ -186,7 +186,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_07.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_07.png" alt="">
@@ -217,7 +217,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_08.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_08.png" alt="">
@@ -423,7 +423,7 @@
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbrib-layers" style="color: rgb(47, 73, 111); fill: rgb(47, 73, 111);"></span>
+                    <img src="assets/images/home_icone_estatuto.png" alt="" style="width: 80%;">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5">
@@ -437,7 +437,7 @@
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbrib-protect" style="color: rgb(62, 134, 22); fill: rgb(62, 134, 22);"></span>
+                    <img src="assets/images/home_icone_codigo.png" alt="" style="width: 80%;">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5">
@@ -451,7 +451,7 @@
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-img pb-3">
-                    <span class="mbr-iconfont mbri-edit" style="color: rgb(20, 157, 204); fill: rgb(20, 157, 204);"></span>
+                    <img src="assets/images/home_icone_institucional.png" alt="" style="width: 80%;">
                 </div>
                 <div class="card-box">
                     <h4 class="card-title py-3 mbr-fonts-style display-5">

@@ -36,7 +36,7 @@ $video_list = json_decode(file_get_contents('https://www.googleapis.com/youtube/
                         <img src="<?= $item->snippet->thumbnails->medium->url ?>" alt="Mobirise" title="" class="">
                     </div>
                     <div class="card-box">
-                        <h4 class="card-title mbr-fonts-style display-7" style="padding-top: 5%"> <?= $item->snippet->title ?> </h4>
+                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="padding-top: 5%"> <?= $item->snippet->title ?> </p>
                         <p class="mbr-text mbr-fonts-style display-7">
                             No último dia 17 de novembro a Secretaria da Fazenda de São Paulo apresentou a entidades e empresas os detalhes do projeto SAT-RPE. Na referida reunião, a Sefaz/SP expôs sugestão de cronograma de implantação dos equipamentos que permitirão a medição da vazão das bombas de combustível, como medida ao combate…
                         </p>

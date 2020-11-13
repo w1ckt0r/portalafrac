@@ -25,7 +25,8 @@
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
 
 </head>
-<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/f9a5c122-2921-41a4-9bed-e7add6259193-loader.js" ></script>
+<script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/f9a5c122-2921-41a4-9bed-e7add6259193-loader.js"></script>
+
 <body>
     <br>
     <br>
@@ -33,8 +34,8 @@
     <section class="menu cid-s7hTmLNnSc" once="menu" id="menu1-k">
         <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;">
             <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
+                <span class="navbar-toggler-icon"></span>
+            </button>
             <div class="collapse navbar-collapse navbars" id="collapse_target1">
                 <ul class="navbar-nav mx-auto">
                     <li class="nav-item-second">
@@ -78,24 +79,24 @@
 
         <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                    <div class="hamburger">
-                        <span></span>
-                        <span></span>
-                        <span></span>
-                        <span></span>
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                    <span></span>
 
-                    </div>
-                </button>
+                </div>
+            </button>
             <div class="menu-logo" style="width: 300px;">
                 <div class="navbar-brand">
                     <span class="navbar-logo">
-                            <a href="index.php">    
-                                <img src="assets/images/logo-escuro.png" alt="AFRAC" title="" style="height: 4.2rem;">
-                            </a>
-                        </span>
+                        <a href="index.php">
+                            <img src="assets/images/logo-escuro.png" alt="AFRAC" title="" style="height: 4.2rem;">
+                        </a>
+                    </span>
                     <span class="navbar-caption-wrap">
-                            <a class="navbar-caption text-primary display-4" href="#"></a>
-                        </span>
+                        <a class="navbar-caption text-primary display-4" href="#"></a>
+                    </span>
                 </div>
             </div>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -103,7 +104,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link link dropdown-toggle text-primary display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">
 
-                                Sobre a AFRAC</a>
+                            Sobre a AFRAC</a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item text-primary display-4" id="submenu" href="historia.php">História</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="diretoria.php">Diretoria</a>
@@ -115,7 +116,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">
 
-                                Associação</a>
+                            Associação</a>
                         <div class="dropdown-menu">
                             <a class="text-primary dropdown-item display-4" id="submenu" href="ecossistema.php" aria-expanded="false">Ecossistema AFRAC</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="beneficios.php" aria-expanded="false">Benefícios</a>
@@ -131,17 +132,21 @@
                             <a class="text-primary dropdown-item display-4" id="submenu" href="vitrine-mercado.php" aria-expanded="false">Vitrine do Mercado</a>
                         </div>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false">Blog</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link link text-primary dropdown-toggle display-4" href="blog.php" data-toggle="dropdown-submenu" aria-expanded="false">Blog</a>
+                        <div class="dropdown-menu">
+                            <a class="text-primary dropdown-item display-4" id="submenu" href="blog.php" aria-expanded="false">Blog da AFRAC</a>
+                            <a class="text-primary dropdown-item display-4" id="submenu" href="networking.php">Meios de Pagamento</a>
+                            <a class="text-primary dropdown-item display-4" id="submenu" href="vitrine-mercado.php" aria-expanded="false">Vitrine do Mercado</a>
+                        </div>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link link text-primary dropdown-toggle display-4"  href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
+                        <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
                         <div class="dropdown-menu">
                             <a class="text-primary dropdown-item display-4" id="submenu" href="calendario.php">Agenda</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="contato.php" aria-expanded="false">Contato</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="index.php" aria-expanded="false">Downloads</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="historico-lives.php">Historico de Lives</a>
-                            <a class="text-primary dropdown-item display-4" id="submenu" href="networking.php">Networking</a>
                         </div>
                     </li>
                 </ul>

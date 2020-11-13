@@ -369,7 +369,14 @@ figure[mbr-media-size] {
 .btn-md {
     font-weight: 500;
     letter-spacing: 1px;
-    margin: .4rem .8rem !important;
+    margin: .4rem .8rem;
+    transition: all .3s ease-in-out;
+}
+
+.btn-md-acordeon {
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin: .4rem .8rem;
     transition: all .3s ease-in-out;
 }
 
