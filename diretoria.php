@@ -1,407 +1,635 @@
-<?php  require("header.php");?>
-
-
-
-    <section class="engine"><a href="https://mobirise.info/c">website builder</a></section>
-    <section class="header1 cid-s8HaGIkBjh" id="header16-16" style="background-color: #04112b;">
+<?php require("header.php"); ?>
 
 
 
 
+<section class="features2 cid-s8HaGIkBjh" id="features2-3" style="background-color: #04112b;">
 
-        <div class="container">
-            <div class="row justify-content-md-center">
-                <div class="col-md-10 align-center">
-                    <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2" style="color: white;">
-                        Diretoria AFRAC</h1>
-                </div>
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-md-10 align-center">
+                <h1 class="mbr-section-title mbr-bold pb-3 mbr-fonts-style display-2" style="color: white;">Diretoria AFRAC</h1>
             </div>
         </div>
-
-    </section>
-
-    <section class="testimonials1 cid-s8Cj4x5BEi" id="testimonials1-17">
+    </div>
 
 
+</section>
 
+<section>
+
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="title col-12 align-center">
-
-
-                </div>
-            </div>
-        </div>
-
-        <div class="container pt-3 mt-2">
-            <div class="media-container-row">
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/pp-150x150.jpg" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">PAULO EDUARDO GUIMARÃES (PEGUIM)</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Presidente
-                                <br>Inventti
-                                <br>Contato: presidente@afrac.org.br&nbsp;</small>
-                        </div>
-                    </div>
-                </div>
-
-
-
-
-
-
-
-
-
-
-            </div>
-        </div>
-    </section>
-
-    <section class="testimonials1 cid-s8CjWFhRfD" id="testimonials1-18">
-
-
-
-
-        <div class="container">
-            <div class="media-container-row">
-                <div class="title col-12 align-center">
-
-
-                </div>
-            </div>
-        </div>
-
-        <div class="container pt-3 mt-2">
-            <div class="media-container-row">
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-9-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">LUIS GARBELINI
-                            </div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente Geral
-                                <br>Tablet Cloud
-                                <br>Contato: vp.geral@afrac.org.br</small>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/whatsapp-image-2019-06-06-at-15.46.43-150x150.jpg" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">EDUARDO DURAN</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Revendas
-                                <br>Automação 2000
-                                <br>Contato: vp.revendas@afrac.org.br</small>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-16-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">VICENTE GOUVEA</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Marketing
-                                <br>NCR
-                                <br>Contato: vp.marketing@afrac.org.br</small>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-7-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">EMERSON BARRETTO</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Software Houses
-                                <br>POS CONTROLE
-                                <br>Contato:vp.softwarehouse@afrac.org.br</small>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-2-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">DAGOBERTO BIANCHI</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Distribuidores
-                                <br>Agis
-                                <br>Contato:vp.distribuidores@afrac.org.br
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
                                 <br>
-                                <br></small>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">PAULO EDUARDO GUIMARÃES (PEGUIM)</p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Presidente AFRAC </strong>
+                                    <br>Empresa: <strong> Inventti </strong>
+                                    <br> Contato: presidente@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/paulo-guimar%C3%A3es-peguim-6a6211/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-4-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">EDGARD DE CASTRO</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Relações Institucionais
-                                <br>EDC Soluções
-                                <br>Contato:<br>vp.relacoesinstitucionais@afrac.org.br</small>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/diretoria-thumb.jpg" alt="Mobirise"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <section class="testimonials1 cid-s8H6PcYyh8" id="testimonials1-19">
-
-
-
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="title col-12 align-center">
-
-
-                </div>
-            </div>
-        </div>
-
-        <div class="container pt-3 mt-2">
-            <div class="media-container-row">
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-15-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">RUDOLF GALEGO POPPER</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Meios de Pagamento
-                                <br>REDE
-                                <br>Contato:vp.meiosdepagamento@afrac.org.br</small>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">Vicente Gouvea </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-presidente de Marketing.</strong>
+                                    <br>Empresa: <strong> NCR </strong>
+                                    <br> Contato: vp.marketing@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/vicente-gouvea/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/bWi3fa4WDpM" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/bWi3fa4WDpM" target="_blank"><img src="assets/images/diretoria/vicent-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-1-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">CARLOS ELIAS FERES</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de E-<br>Commerce
-                                <br>Automatizando
-                                <br>Contato: vp.ecommerce@afrac.org.br</small>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">Luis Garbelini </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-presidente Geral </strong>
+                                    <br>Empresa: <strong> Tablet Cloud </strong>
+                                    <br> Contato: vp.geral@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/luis-garbelini-a0265725/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/dimas-iii-160x160.jpg" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">DIMAS DE MELLO PIMENTA</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Registro Eletrônico de Ponto
-                                <br>DIMEP
-                                <br>Contato: vp.ecommerce@afrac.org.br</small>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/marcelo-filipak-150x150.jpg" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">MARCELO FILIPAK
-                            </div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Inovação
-                                <br>Contato: vp.inovacao@afrac.org.br</small>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/bento-160x160.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">LUIZ BENTO</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Relações Internacionais
-                                <br>4 Real
-                                <br>Contato: vp.relacoesinternacionais@afrac.org.br<br>
-                                <br></small>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-14-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
-                        </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">PAULO ZIRNBERGER</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Assuntos Tributários
-                                <br>Contato: vp.tributarios@afrac.org.br</small>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/diretoria/luis-thumb.png"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-    <section class="testimonials1 cid-s8H6PGTHJr" id="testimonials1-1a">
-
-
-
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="title col-12 align-center">
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">JORGE RIBEIRO FERREIRA </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
 
+                                    -
 
+                                    <br><strong>Vice-Presidente de Fabricantes.</strong>
+                                    <br>Empresa: <strong> GERTEC </strong>
+                                    <br> Contato: vp.fabricantes@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/jorge-ribeiro-pereira-a2301442/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/9mnCCM5nxqY" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/9mnCCM5nxqY" target="_blank"><img src="assets/images/diretoria/jorge-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">PAULO ZIRNBERGER </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Assuntos Tributários </strong>
+                                    <br>Empresa: <strong> SOVOS </strong>
+                                    <br> Contato: vp.tributarios@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/paulo-zirnberger-de-castro-4b8220/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/diretoria/paulo-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+    </section>
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
-        <div class="container pt-3 mt-2">
+        <div class="container">
             <div class="media-container-row">
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/3x4prancheta-8-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">JORGE RIBEIRO FERREIRA
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">EDGARD DE CASTRO</p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Relações Institucionais.</strong>
+                                    <br>Empresa: <strong> EDC SOLUÇÕES </strong>
+                                    <br> Contato: vp.relacoesinstitucionais@afrac.org.br
+                                </p>
                             </div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Vice-Presidente de Fabricantes
-                                <br>Gertec
-                                <br>Contato: vp.fabricantes@afrac.org.br</small>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/edgard-de-castro-944575/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/diretoria/edgar-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/hegon-dexheimer-150x150.png" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">HEGON DEXHEIMER</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Conselho Fiscal
-                                <br>NDD
-                                <br>Contato: conselho.fiscal1@afrac.org.br</small>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">RUDOLF POPPER </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Meios de Pagamento </strong>
+                                    <br>Empresa: <strong> REDE </strong>
+                                    <br> Contato: vp.meiosdepagamento@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/rudolf-popper-54609422/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/i4Z4mxLYvSQ" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/i4Z4mxLYvSQ" target="_blank"><img src="assets/images/diretoria/rudolf-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/pp-1-150x150.jpg" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+        <div class="container">
+            <div class="media-container-row">
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">EDUARDO WERNER</div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Conselho Fiscal
-                                <br>Fiserv
-                                <br>Contato: conselho.fiscal2@afrac.org.br</small>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">DAGOBERTO BIANCHI </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Distribuidores</strong>
+                                    <br>Empresa: <strong> AGIS DISTRIBUIDORA </strong>
+                                    <br> Contato: vp.distribuidores@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/dagoberto-bianchi-533784118/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/9yZ-lQdQcnc" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/9yZ-lQdQcnc" target="_blank"><img src="assets/images/diretoria/dagoberto-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
-
-                <div class="mbr-testimonial p-3 align-center col-12 col-md-6 col-lg-4">
-                    <div class="panel-item p-3">
-                        <div class="card-block">
-                            <div class="testimonial-photo">
-                                <img src="assets/images/marcos-150x150.jpg" alt="" title="">
-                            </div>
-                            <p class="mbr-text mbr-fonts-style display-7"></p>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
                         </div>
-                        <div class="card-footer">
-                            <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">MARCOS ROBERTO DA FONSECA
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">EDUARDO DURAN </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Revendas </strong>
+                                    <br>Empresa: <strong> Automação 2000 </strong>
+                                    <br> vp.revendas@afrac.org.br
+                                </p>
                             </div>
-                            <small class="mbr-author-desc mbr-italic mbr-light mbr-fonts-style display-7">Conselho Fiscal
-                                <br>Zipersoft
-                                <br>Contato: conselho.fiscal3@afrac.org.br</small>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/eduardo-duran-729851102/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/aqSt4h3wGVU" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/aqSt4h3wGVU" target="_blank"><img src="assets/images/diretoria/eduardo-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </section>
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
+        <div class="container">
+            <div class="media-container-row">
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">LUIZ BENTO </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
 
+                                    -
 
+                                    <br><strong>Vice-Presidente de Relações Internacionais</strong>
+                                    <br>Empresa: <strong> 4 REAL </strong>
+                                    <br> Contato: vp.relacoesinternacionais@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/luiz-bento-6325951/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/diretoria/luiz-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">EMERSON BARRETTO</p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
 
+                                    -
+
+                                    <br><strong>Vice-Presidente de Software Houses.</strong>
+                                    <br>Empresa: <strong> POS CONTROLE </strong>
+                                    <br> vp.softwarehouse@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/emerson-barretto-9b560a62/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="https://youtu.be/XyLqLKjbbN4" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/XyLqLKjbbN4" target="_blank"><img src="assets/images/diretoria/emerson-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+
+        <div class="container">
+            <div class="media-container-row">
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">CARLOS ELIAS FERES</p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de E-Commerce</strong>
+                                    <br>Empresa: <strong> AUTOMATIZANDO </strong>
+                                    <br> Contato: vp.ecommerce@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/carlos-elias-feres-14755360/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="#" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="#" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">MARCELO FILIPAK </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Inovação</strong>
+                                    <br>Empresa: <strong> (NÃO VINCULADO A NENHUMA EMPRESA) </strong>
+                                    <br> vp.inovacao@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/marcelo-filipak-97386710/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="#" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="#" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+
+        <div class="container">
+            <div class="media-container-row">
+                <div class="col-8 col-md-8">
+                    <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="padding-left: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">DIMAS DE MELLO PIMENTA </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Registro Eletrônico de Ponto</strong>
+                                    <br>Empresa: <strong> DIMEP </strong>
+                                    <br> Contato: vp.ecommerce@afrac.org.br
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/dimas-de-melo-pimenta-iii-606681a/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="media-content">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
+                                Confira também <br>
+                                no Youtube <br>
+                                <a href="#" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                            </p>
+                        </div>
+                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="#" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
-    <?php  require("footer.php");?>
+
+
+
+
+
+</section>
+
+
+
+
+
+<?php require("footer.php"); ?>
