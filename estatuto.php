@@ -989,6 +989,306 @@
             </div>
         </div>
 </section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 34º.</strong> O Conselho Fiscal será eleito simultaneamente com o Conselho Diretor para um período de 2
+                    (dois) anos, permitida a reeleição.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 35º.</strong> Em caso de vacância, impedimento ou licença de qualquer dos membros efetivos, o membro
+                    suplente será chamado para sua substituição, e se as vagas ultrapassarem o número de suplente, será
+                    convocada uma Assembleia Geral Extraordinária para o preenchimento das vagas existentes, pelo prazo
+                    restante do mandato do Conselho Fiscal.
+
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 36º.</strong> A participação no Conselho Fiscal, como membro efetivo, constitui impedimento para participar
+                    de qualquer outro cargo na Entidade.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                    CAPÍTULO VI <br>
+                    DAS DELEGACIAS REGIONAIS
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 37º.</strong> A fim de cumprir suas finalidades, a AFRAC nomeará quantos representantes se fizer
+                    necessário, em qualquer unidade da Federação, os quais denominará de Representantes Regionais.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 38º.</strong> Compreende-se como Representantes Regionais os Associados nomeados pelo Conselho Diretor
+                    da AFRAC, os quais tem por responsabilidade representar e desenvolver atividades que promovam a
+                    Automação para o Comércio em sua região de atuação, bem como desenvolver ações que visem a
+                    ampliação do quadro associativo da AFRAC, além de serem responsáveis pela divulgação da entidade
+                    junto ao mercado e autoridades locais, buscando uma maior interação entre as empresas e órgãos
+                    regionais e a AFRAC.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 39º.</strong> Os Representantes Regionais serão indicados pelo Presidente da Entidade, com a aprovação de
+                    sua nomeação pelo Conselho Diretor, com base no Estatuto Social e Regimento Interno.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 40º.</strong> Os Representantes Regionais terão uma atuação voluntária, não fazendo jus a qualquer vínculo
+                    empregatício ou qualquer remuneração por parte da AFRAC.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 41º.</strong> É vedado aos Representantes Regionais realizarem qualquer operação financeira, iniciativa, ação
+                    institucional ou comercial em nome da AFRAC, bem como registrar quaisquer documentos ou
+                    instrumentos, envolvendo o nome da Entidade, sem o consentimento expresso do Presidente da AFRAC,
+                    AFRAC – Associação Brasileira de Automação para o Comércio
+                    Rua Professor Aprígio Gonzaga, 35 | 6º andar | Conj. 64 | Edifício Oxford Center | Bairro São Judas | CEP 04303 000 | São Paulo | SP
+                    Tel.: 11 3284 7080 | 11 3284 8281 | www.afrac.com.br |www.feiraautocom.com.br | juridico@afrac.org.br
+                    sob pena de perda do mandato, contestação do ato cometido frente às autoridades competentes e
+                    responsabilidade civil e criminal.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 42º.</strong> Os Representantes Regionais estarão subordinados administrativamente ao Presidente da
+                    AFRAC, devendo prestar contas bimestralmente à sede administrativa da entidade sobre suas ações e
+                    eventuais despesas, que deverão ser aprovadas previamente e comprovadas de acordo com as ordens
+                    executivas da Presidência.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Parágrafo único.</strong> As despesas efetuadas pelos Representantes Regionais e que não tenham sido objeto de
+                    deliberação prévia da Presidência ou não tenham sido devidamente comprovadas não serão de
+                    responsabilidade da Entidade, observado, ainda, as disposições do artigo 41.
+                </h3>
+
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 43º.</strong> Perderá o mandato de Representante Regional o representante que deixar de atender aos
+                    requisitos previstos na Política de Representantes Regionais da AFRAC, ou que atuar de maneira
+                    inidônea e fora dos princípios éticos e diretrizes gerais da AFRAC, do Estatuto ou Regimento Interno.
+                </h3>
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                    CAPÍTULO VII <br>
+                    COMISSÃO DE ÉTICA
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 44º.</strong> No cumprimento de suas atribuições, a entidade constitui sua Comissão de Ética AFRAC,
+                    garantindo aos seus Filiados o direito de manifestação quanto às questões de conduta ética concorrencial
+                    de outros Filiados e do Setor como um todo.
+                </h3>
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 45º.</strong> Os membros da Comissão de Ética AFRAC serão indicados pelos Vice-Presidentes Setoriais dos
+                    Segmentos listados no artigo 46 e aprovados pelo Presidente da AFRAC, após verificação do
+                    cumprimento dos requisitos necessários para o exercício do cargo. A aprovação final se dará em reunião
+                    do Conselho Diretor, que os nomeará para um mandato de 2 (dois) anos, podendo haver a recondução dos
+                    seus membros por igual período, que não coincidirá com o mandato do Conselho Diretor e Fiscal.
+                </h3>
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Parágrafo único.</strong> O mandato dos membros da Comissão de Ética terá vigência de 02 (dois) anos, como o
+                    inicio em 1° de janeiro e término em 31 de dezembro.
+                </h3>
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 46º.</strong> A Comissão de Ética AFRAC será composta de 09 (nove) membros efetivos e 09 (nove)
+                    membros suplentes, indicados dentre os integrantes, representados pela Entidade, dos Segmentos abaixo: <br>
+                    <strong>I -</strong> Segmento de Fabricantes; <br>
+                    <strong>II -</strong> Segmento de Fabricantes de Registro Eletrônico de Ponto e Controle de Acesso; <br>
+                    <strong>III -</strong> Segmento de Revendedores, Interventores Fiscais e Assistência Técnica; <br>
+                    <strong>IV -</strong> Segmento de Distribuidores; <br>
+                    <strong>V -</strong> Segmento de Software; <br>
+                    <strong>VI -</strong> Segmento de Assuntos Tributários; <br>
+                    <strong>VII -</strong> Segmento de Suprimentos; <br>
+                    <strong>VII -</strong> Segmento de Meios de Pagamento; <br>
+                    <strong>IX -</strong> Segmento de E-Commerce.
+                </h3>
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>§ 1º.</strong> Serão indicados, por cada Segmento acima, os nomes de 01 (um) membro efetivo e 01 (um) membro
+                    suplente para compor a Comissão de Ética, sendo que, caberá ao Conselho Diretor a nomeação ou
+                    rejeição das indicações dos nomes pelos respectivos segmentos de atuação.
+                </h3>
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>§ 2º.</strong> Perderá automaticamente a qualidade de membro da Comissão de Ética aquele que possuir 03 (três)
+                    faltas injustificadas passando o seu suplente a assumir a cadeira de titular. Caberá ao Presidente da
+                    Comissão de Ética informar ao Vice-Presidente do Segmento ao qual o membro desligado representava,
+                    devendo o Vice-Presidente do referido Segmento indicar novo representante para ocupar a cadeira de
+                    suplente.
+                </h3>
+            </div>
+        </div>
+</section>
+<section class="mbr-section content4 cid-sc5N5eSRHT" style="padding: 0% 0%" id="content4-2e">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="title col-12 col-md-8">
+                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+
+                </h2>
+                <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong>Art. 47º.</strong> Os membros da Comissão de Ética AFRAC terão uma atuação voluntária, não fazendo jus a
+                    qualquer vínculo empregatício ou qualquer remuneração por parte da Entidade.
+                </h3>
+            </div>
+        </div>
+</section>
 
 
 <?php require("footer.php"); ?>
