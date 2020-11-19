@@ -7,7 +7,7 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="title col-12 col-md-8" >
+            <div class="title col-12 col-md-8">
                 <h1 class="align-center pb-3 mbr-bold mbr-fonts-style display-2" style="color: white;">
                     Blog
                 </h1>
@@ -17,18 +17,115 @@
         </div>
     </div>
 </section>
+<nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;">
+    <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse navbars" id="collapse_target1">
+        <ul class="navbar-nav mx-auto">
+            <li class="nav-item-second" >
+                <a class="nav-link" href="#" id="menu-blog">
+                    <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Blog AFRAC</p>
+                </a>
+            </li>
+            <li class="nav-item-second" >
+                <a class="nav-link" href="#" id="menu-blog">
+                    <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Vitrine de Mercado</p>
+                </a>
+            </li>
+            <li class="nav-item-second" >
+                <a class="nav-link" href="#" id="menu-blog">
+                    <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Meios de Pagamento</p>
+                </a>
+            </li>
+
+        </ul>
+    </div>
+</nav>
+
+<section class="features3 cid-s8Hb30IPX6" id="features3-1f" style="padding: 6%;">
+
+    <div class="row">
+        <div class="col-7"></div>
+        <div class="col-3">
+            <h2 class="mbr-fonts-style mbr-bold display-6" id="mais-populares">Mais Populares</h2>
+        </div>
+        <div class="col-2"></div>
 
 
-<section class="features3 cid-s8Hb30IPX6" id="features3-1f">
+    </div>
+    <div class="parent">
+        <div class="div1">
+            <img src="assets/images/imagem-teste.png" alt="" style="width: 95%;">
 
+        </div>
+        <div class="div2">
+            <a href="page-blog.php">
+                <div class="row">
+                    <div class="col-5">
+                        <img src="assets/images/nrf.png" alt="" style="width: 80%;"></div>
+                    <div class="col-5">
+                        <p class="mbr-fonts-style mbr-bold display-6" id="p-blog" style="font-size: 17px;">
+                            O que aprendemos com 680 mil atividades de prospecção
+                        </p>
+                    </div>
+                </div>
+            </a>
+            <hr>
+        </div>
+        <div class="div3">
+            <a href="page-blog.php">
+                <div class="row">
+                    <div class="col-5">
+                        <img src="assets/images/nrf.png" alt="" style="width: 80%;"></div>
+                    <div class="col-5">
+                        <p class="mbr-fonts-style mbr-bold display-6" id="p-blog" style="font-size: 17px;">
+                            O que aprendemos com 680 mil atividades de prospecção
+                        </p>
+                    </div>
+                </div>
+            </a>
+            <hr>
+        </div>
+        <div class="div4">
+            <a href="page-blog.php">
+                <div class="row">
+                    <div class="col-5">
+                        <img src="assets/images/nrf.png" alt="" style="width: 80%;"></div>
+                    <div class="col-5">
+                        <p class="mbr-fonts-style mbr-bold display-6" id="p-blog" style="font-size: 17px;">
+                            O que aprendemos com 680 mil atividades de prospecção
+                        </p>
+                    </div>
+                </div>
+            </a>
+            <hr>
+        </div>
+        <div class="div5">
+            <a href="page-blog.php">
+                <div class="row">
+                    <div class="col-5">
+                        <img src="assets/images/nrf.png" alt="" style="width: 80%;"></div>
+                    <div class="col-5">
+                        <p class="mbr-fonts-style mbr-bold display-6" id="p-blog" style="font-size: 17px;">
+                            O que aprendemos com 680 mil atividades de prospecção
+                        </p>
+                    </div>
+                </div>
+            </a>
 
+        </div>
+    </div>
+
+</section>
+<section class="features3 cid-s8Hb30IPX6" id="features3-1f" style="padding: 0 6%;">
     <div class="container">
         <div class="media-container-row">
 
             <div class="card p-3 col-12 col-md-4 col-sm-12">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/podcastinsta.png" alt="">
+                        <img src="assets/images/podcastinsta.png" style="width: 85%;">
                     </div>
                     <div class="card-box">
                         <a href="#">
@@ -45,7 +142,7 @@
             <div class="card p-3 col-12 col-md-4 col-sm-12">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/credito-dinheiro.png" alt="">
+                        <img src="assets/images/credito-dinheiro.png" alt="" style="width: 85%;">
                     </div>
                     <div class="card-box ">
                         <a href="#">
@@ -61,7 +158,7 @@
             <div class="card p-3 col-12 col-md-4 col-sm-12">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/nfc-e-saiba-o-que-e.jpg" alt="">
+                        <img src="assets/images/nfc-e-saiba-o-que-e.jpg" alt="" style="width: 85%;">
                     </div>
                     <div class="card-box ">
                         <a href="#">
@@ -83,7 +180,7 @@
             <div class="card p-3 col-12 col-md-4 col-sm-12">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/tributario.png" alt="">
+                        <img src="assets/images/tributario.png" alt="" style="width: 85%;">
                     </div>
                     <div class="card-box">
                         <a href="#">
@@ -100,7 +197,7 @@
             <div class="card p-3 col-12 col-md-4 col-sm-12">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/whatsapp-pay.png" alt="">
+                        <img src="assets/images/whatsapp-pay.png" alt="" style="width: 85%;">
                     </div>
                     <div class="card-box ">
                         <a href="#">
@@ -115,7 +212,7 @@
             <div class="card p-3 col-12 col-md-4 col-sm-12">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/podcastinsta.png" alt="">
+                        <img src="assets/images/podcastinsta.png" alt="" style="width: 85%;">
                     </div>
                     <div class="card-box ">
                         <a href="#">
@@ -133,43 +230,8 @@
 
         </div>
     </div>
-
-    <div class="container">
-        <div class="media-container-row">
-
-            <div class="card p-3 col-12 col-md-4 col-sm-12">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/podcastinsta.png" alt="">
-                    </div>
-                    <div class="card-box ">
-                        <a href="#">
-                            <p class="card-title mbr-fonts-style mbr-bold display-6">Confira o 1º episódio do podcast “Ícones da Automação” produzido pela AFRAC.</p>
-                        </a>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Com o propósito de gerarmos mais conteúdo de valor ao nosso associado, foi criado o podcast “Ícones da Automação” que trará em cada episódio um grande nome do segmento de tecnologia para o comércio e serviços. Confira o link e siga nosso canal no Spotify!
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="card p-3 col-12 col-md-4 col-sm-12">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <img src="assets/images/como-os-bancos-estao-se-preparando-para-oferecer-o-pix-aos-seus-clientes.webp" alt="">
-                    </div>
-                    <div class="card-box ">
-                        <a href="#">
-                            <p class="card-title mbr-fonts-style mbr-bold display-6">Como os bancos estão se preparando para oferecer o PIX aos seus clientes?</p>
-                        </a>
-                        <p class="mbr-text mbr-fonts-style display-7">
-                            Com lançamento previsto para novembro deste ano, o PIX tem sido pauta frequente no noticiário econômico e vem despertando a curiosidade da população. Já falamos bastante sobre esse tema, mas a menos de dois meses do lançamento do produto no mercado, é
-                            interessante entender como as instituições financeiras estão se preparando para oferecer essa ferramenta.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </section>
+
+
 
 <?php require("footer.php"); ?>
