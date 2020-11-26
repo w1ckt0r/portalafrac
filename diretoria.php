@@ -41,20 +41,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/paulo-guimar%C3%A3es-peguim-6a6211/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/diretoria-thumb.jpg" alt="Mobirise"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -87,20 +91,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/vicente-gouvea/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/bWi3fa4WDpM" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/bWi3fa4WDpM" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/bWi3fa4WDpM" target="_blank"><img src="assets/images/diretoria/vicent-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -126,20 +134,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/luis-garbelini-a0265725/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/diretoria/luis-thumb.png"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -172,20 +184,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/jorge-ribeiro-pereira-a2301442/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/9mnCCM5nxqY" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/9mnCCM5nxqY" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/9mnCCM5nxqY" target="_blank"><img src="assets/images/diretoria/jorge-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -211,20 +227,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/paulo-zirnberger-de-castro-4b8220/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/diretoria/paulo-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -257,20 +277,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/edgard-de-castro-944575/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/diretoria/edgar-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -296,20 +320,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/rudolf-popper-54609422/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/i4Z4mxLYvSQ" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/i4Z4mxLYvSQ" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/i4Z4mxLYvSQ" target="_blank"><img src="assets/images/diretoria/rudolf-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -342,20 +370,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/dagoberto-bianchi-533784118/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/9yZ-lQdQcnc" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/9yZ-lQdQcnc" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/9yZ-lQdQcnc" target="_blank"><img src="assets/images/diretoria/dagoberto-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -381,20 +413,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/eduardo-duran-729851102/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/aqSt4h3wGVU" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/aqSt4h3wGVU" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/aqSt4h3wGVU" target="_blank"><img src="assets/images/diretoria/eduardo-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -427,20 +463,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/luiz-bento-6325951/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/diretoria/luiz-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -466,20 +506,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/emerson-barretto-9b560a62/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/XyLqLKjbbN4" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/XyLqLKjbbN4" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="https://youtu.be/XyLqLKjbbN4" target="_blank"><img src="assets/images/diretoria/emerson-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -512,20 +556,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/carlos-elias-feres-14755360/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="#" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="#" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -551,20 +599,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/marcelo-filipak-97386710/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="#" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="#" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
@@ -597,20 +649,24 @@
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/logo-linkedin.png" alt="" style="width: 10%; padding-right:2%">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:2%">
                                 <a class="btn btn-sm btn-success-outline display-4" href="https://www.linkedin.com/in/dimas-de-melo-pimenta-iii-606681a/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
                     <div class="media-container-row">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                            <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                        </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 48%;">
-                                Confira também <br>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                                Confira <br>
+                                também <br>
                                 no Youtube <br>
-                                <a href="#" target="_blank"><img src="assets/images/logo-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
                             </p>
                         </div>
-                        <div class="mbr-figure" style="width: 100%; margin-right:22%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
                             <hr style="border-top: 1px solid #209ad5 ">
                             <a href="#" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">

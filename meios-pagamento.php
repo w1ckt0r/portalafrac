@@ -23,19 +23,19 @@
     </button>
     <div class="collapse navbar-collapse navbars" id="collapse_target1">
         <ul class="navbar-nav mx-auto">
-            <li class="nav-item-second" style=" background-color:white; border-radius:20px 20px 0 0" >
-                <a class="nav-link" href="#" id="menu-blog">
-                    <p class="mbr-fonts-style mbr-bold display-5" style="color: #04112b;"> Blog AFRAC</p>
+            <li class="nav-item-second"  >
+                <a class="nav-link" href="blog.php" id="menu-blog">
+                    <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Blog AFRAC</p>
                 </a>
             </li>
-            <li class="nav-item-second" >
+            <li class="nav-item-second"  >
                 <a class="nav-link" href="vitrine.php" id="menu-blog">
                     <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Vitrine de Mercado</p>
                 </a>
             </li>
-            <li class="nav-item-second" >
-                <a class="nav-link" href="meios-pagamento.php" id="menu-blog">
-                    <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Meios de Pagamento</p>
+            <li class="nav-item-second" style=" background-color:white; border-radius:20px 20px 0 0">
+                <a class="nav-link" href="#" id="menu-blog">
+                    <p class="mbr-fonts-style mbr-bold display-5" style="color: #04112b;"> Meios de Pagamento</p>
                 </a>
             </li>
 

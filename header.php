@@ -23,6 +23,8 @@
     <link rel="stylesheet" href="assets/theme/css/style.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 </head>
 <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/f9a5c122-2921-41a4-9bed-e7add6259193-loader.js"></script>
@@ -128,7 +130,7 @@
                         <a class="nav-link link text-primary display-4" href="painel-mercado.php" aria-expanded="false">Painel de Mercado</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false" >Blog</a>
+                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false">Blog</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
