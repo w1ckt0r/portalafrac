@@ -376,9 +376,12 @@
     padding-top: 10px;
 }
 
-@media (min-width: 1020px) and (max-width: 1260px) {
+@media (min-width: 1020px) and (max-width: 1307px) {
     body {
         margin-top: 38px;
+    }
+    .submenu {
+        font-size: 0.5rem;
     }
 }
 

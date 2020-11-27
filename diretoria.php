@@ -18,7 +18,7 @@
 
 <section>
 
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
@@ -47,15 +47,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -68,11 +68,11 @@
             </div>
         </div>
     </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -97,15 +97,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/bWi3fa4WDpM" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/bWi3fa4WDpM" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -115,7 +115,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -140,15 +140,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -161,11 +161,11 @@
             </div>
         </div>
     </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -190,15 +190,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/9mnCCM5nxqY" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/9mnCCM5nxqY" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -208,7 +208,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -233,15 +233,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -254,11 +254,11 @@
             </div>
         </div>
     </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important"> 
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -283,15 +283,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -301,7 +301,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -326,15 +326,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/i4Z4mxLYvSQ" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/i4Z4mxLYvSQ" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -347,11 +347,11 @@
             </div>
         </div>
     </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -376,15 +376,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/9yZ-lQdQcnc" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/9yZ-lQdQcnc" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -394,7 +394,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important"> 
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -419,15 +419,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/aqSt4h3wGVU" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/aqSt4h3wGVU" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -440,11 +440,11 @@
             </div>
         </div>
     </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important"> 
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -469,15 +469,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -487,7 +487,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -512,15 +512,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="https://youtu.be/XyLqLKjbbN4" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="https://youtu.be/XyLqLKjbbN4" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -533,11 +533,11 @@
             </div>
         </div>
     </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important"> 
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -562,15 +562,15 @@
                         </div>
                     </div>
                     <div class="media-container-row">
-                    <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
+                        <div class="mbr-figure" style="width: 60%; margin-left:15%; padding-top:1%">
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -580,7 +580,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important"> 
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -609,11 +609,11 @@
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">
@@ -626,11 +626,11 @@
             </div>
         </div>
     </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
 
         <div class="container">
             <div class="media-container-row">
-                <div class="col-8 col-md-8">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 50%;padding-left: 4rem;">
                             <img src="assets/images/diretoria-foto.png" alt="Mobirise">
@@ -659,11 +659,11 @@
                             <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
                         </div>
                         <div class="media-content">
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding: 0 ; margin:25% 0 0 0%;">
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:25% 25% 0 0%;">
                                 Confira <br>
                                 também <br>
                                 no Youtube <br>
-                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 50px; height:50px"></a>
+                                <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 30%; height:auto"></a>
                             </p>
                         </div>
                         <div class="mbr-figure" style="width: 125%; margin-right:15%; padding-top:1%">

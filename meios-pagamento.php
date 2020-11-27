@@ -33,7 +33,7 @@
                     <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Vitrine de Mercado</p>
                 </a>
             </li>
-            <li class="nav-item-second" style=" background-color:white; border-radius:20px 20px 0 0">
+            <li class="nav-item-second" style=" background-color:#ececec; border-radius:20px 20px 0 0">
                 <a class="nav-link" href="#" id="menu-blog">
                     <p class="mbr-fonts-style mbr-bold display-5" style="color: #04112b;"> Meios de Pagamento</p>
                 </a>
@@ -43,7 +43,7 @@
     </div>
 </nav>
 
-<section class="features3 cid-s8Hb30IPX6" id="features3-1fgg" style="padding: 6%;">
+<section class="features3 cid-s8Hb30IPX6" id="features3-1fgg" style="padding:6% 6% 0 6%; background-color:#ececec">
 
     <div class="row">
         <div class="col-7"></div>

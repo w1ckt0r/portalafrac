@@ -20,6 +20,32 @@
     </div>
 
 </section>
+<section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+
+    <div class="container">
+        <div class="media-container-row">
+            <div class="col-12 col-md-10">
+                <div class="media-container-row">
+                    <div class="media-content">
+                        <div class="mbr-section-text">
+                            <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: right">
+
+                            </h5>
+                            <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 18px">
+                            O <strong>Painel do Mercado AFRAC</strong> reúne os principais dashboards de dados de órgãos oficiais, 
+                            com o objetivo de compilar informações e indicadores que impactam diretamente as operações das empresas do segmento de 
+                            Tecnologia para o Comércio e Serviços. Confira abaixo os painéis! 
+                        </p>
+                        </div>
+                    </div>
+                    <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
+                        <img src="assets/images/beneficios/3-beneficios.png" alt="Mobirise">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <section class="features3 cid-s8Hb30IPX6" id="features3-1f">
 

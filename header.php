@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="assets/images/favicon-32x32.png" type="image/x-icon">
     <meta name="description" content="">
 
-    <title>Afrac</title>
+    <title>AFRAC</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -79,7 +79,7 @@
             </div>
         </nav>
 
-        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm navbar-short">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
                     <span></span>
@@ -93,7 +93,7 @@
                 <div class="navbar-brand">
                     <span class="navbar-logo">
                         <a href="index.php">
-                            <img src="assets/images/logo-escuro.png" alt="AFRAC" title="" style="height: 4.2rem;">
+                            <img src="assets/images/logo-escuro.png" alt="AFRAC" title="" style="height: 4.0rem;">
                         </a>
                     </span>
                     <span class="navbar-caption-wrap">
@@ -143,8 +143,8 @@
                     </li>
                 </ul>
                 <div class="navbar-buttons mbr-section-btn">
-                    <a class="btn btn-sm btn-success-outline display-4" href="index.php">Associe-se</a>
-                    <a class="btn btn-sm display-4" style="background-color: #209ad5 !important; color:white" href="index.php#form3-1x">
+                    <a class="btn btn-sm btn-success-outline display-3" href="index.php">Associe-se</a>
+                    <a class="btn btn-sm display-3" style="background-color: #209ad5 !important; color:white" href="index.php#form3-1x">
                         <span class="socicon mbr-iconfont mbr-iconfont-btn"></span>Newsletter</a>
                 </div>
             </div>

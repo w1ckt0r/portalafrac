@@ -5,12 +5,13 @@
             <div class="media-container-row content text-white">
                 <div class="col-12 col-md-3">
                     <div class="media-wrap">
-                        <a href="index.html">
+                        <a href="index.php">
                             <img src="assets/images/logo-claro.png" alt="AFRAC" title="" style="width: 200px; height:auto ; padding: 50px 0px" >
                         </a>
                         <p>
 
-                            Esteja à frente sempre! Seja o primeiro a saber das novidades do segmento e mantenha o seu negócio inovador e rentável. Associe-se!
+                            Esteja à frente sempre! <br>
+                            Seja o primeiro a saber das novidades do segmento e mantenha o seu negócio inovador e rentável. Associe-se!
                         </p>
 
                     </div>

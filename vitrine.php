@@ -17,7 +17,7 @@
         </div>
     </div>
 </section>
-<nav class="navbar  navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;padding-bottom:0% ">
+<nav class="navbar navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;padding-bottom:0% ">
     <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -28,7 +28,7 @@
                     <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Blog AFRAC</p>
                 </a>
             </li>
-            <li class="nav-item-second" style=" background-color:white; border-radius:20px 20px 0 0">
+            <li class="nav-item-second" style=" background-color:#ececec; border-radius:20px 20px 0 0">
                 <a class="nav-link" href="#" id="menu-blog">
                     <p class="mbr-fonts-style mbr-bold display-5" style="color: #04112b;"> Vitrine de Mercado</p>
                 </a>
@@ -43,7 +43,7 @@
     </div>
 </nav>
 
-<section class="features3 cid-s8Hb30IPX6" id="features3-1fgg" style="padding: 6%;">
+<section class="features3 cid-s8Hb30IPX6" id="features3-1fgg" style="padding:6% 6% 0 6%; background-color:#ececec">
 
     <div class="row">
         <div class="col-7"></div>
