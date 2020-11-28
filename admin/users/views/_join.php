@@ -21,9 +21,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 Special thanks to John Bovey for the password strenth feature.
 */
 ?>
-
-
-
 <div class="row">
   <div class="col-sm-12">
     <?php
@@ -35,25 +32,30 @@ Special thanks to John Bovey for the password strenth feature.
 
     <form class="form-signup" action="<?=$form_action;?>" method="<?=$form_method;?>" id="payment-form">
 
-      <!-- <h2 class="form-signin-heading"> <?=lang("SIGNUP_TEXT","");?></h2> -->
-<br>
+      <h2 class="form-signin-heading"> <?=lang("SIGNUP_TEXT","");?></h2>
+
       <div class="form-group">
+      <?php if($settings->auto_assign_un==0) {?><label id="username-label"><?=lang("GEN_UNAME");?>*</label><span id="usernameCheck" class="small"></span>
+      <input type="text" class="form-control" id="username" name="username" placeholder="<?=lang("GEN_UNAME");?>" value="<?php if (!$form_valid && !empty($_POST)){ echo $username;} ?>" required autofocus autocomplete="username"><?php } ?>
+      </div>
 
-        <?php if($settings->auto_assign_un==0) {?><label id="username-label"><?=lang("GEN_UNAME");?>*</label>&nbsp;&nbsp;<span id="usernameCheck" class="small"></span>
-        <input type="text" class="form-control" id="username" name="username" placeholder="<?=lang("GEN_UNAME");?>" value="<?php if (!$form_valid && !empty($_POST)){ echo $username;} ?>" required autofocus autocomplete="username"><?php } ?>
-
-
+      <div class="form-group">
         <label for="fname" id="fname-label"><?=lang("GEN_FNAME");?>*</label>
         <input type="text" class="form-control" id="fname" name="fname" placeholder="<?=lang("GEN_FNAME");?>" value="<?php if (!$form_valid && !empty($_POST)){ echo $fname;} ?>" required autofocus autocomplete="first-name">
+      </div>
 
+      <div class="form-group">
         <label for="lname" id="lname-label"><?=lang("GEN_LNAME");?>*</label>
         <input type="text" class="form-control" id="lname" name="lname" placeholder="<?=lang("GEN_LNAME");?>" value="<?php if (!$form_valid && !empty($_POST)){ echo $lname;} ?>" required autocomplete="family-name">
+      </div>
 
+      <div class="form-group">
         <label for="email" id="email-label"><?=lang("GEN_EMAIL");?>*</label>
         <input  class="form-control" type="text" name="email" id="email" placeholder="<?=lang("GEN_EMAIL");?>" value="<?php if (!$form_valid && !empty($_POST)){ echo $email;} ?>" required autocomplete="email">
+      </div>
 
+      <div class="form-group">
         <?php
-
         $character_range = lang("GEN_MIN")." ".$settings->min_pw . " ". lang("GEN_AND") ." ". $settings->max_pw . " " .lang("GEN_MAX")." ".lang("GEN_CHAR");
         $character_statement = '<span id="character_range" class="gray_out_text">' . $character_range . ' </span>';
 
@@ -170,24 +172,19 @@ Special thanks to John Bovey for the password strenth feature.
           <br><br>
           <a class="nounderline" id="password_view_control"><span class="fa fa-eye"></span> <?=lang("PW_SHOWS");?></a>
         </div>
-        <br><br>
-
-        <?php
-        includeHook($hooks,'form');
-        include($abs_us_root.$us_url_root.'usersc/scripts/additional_join_form_fields.php'); ?>
       </div>
+      <?php
+      includeHook($hooks,'form');
+      include($abs_us_root.$us_url_root.'usersc/scripts/additional_join_form_fields.php'); ?>
+
 
       <input type="hidden" value="<?=Token::generate();?>" name="csrf">
-      
-      <a class="submit btn btn-info " href="https://files.tlv.ag"><i class="fa fa-arrow-left"></i> Voltar </a>
-      
-      <button class="submit btn btn-primary " type="submit" id="next_button"><i class="fa fa-plus-square"></i>  <?=lang("SIGNUP_TEXT");?>  </button>
-      
-
-
-      <?php if($settings->recaptcha == 1|| $settings->recaptcha == 2){ ?>
-        <div class="g-recaptcha" data-sitekey="<?=$settings->recap_public; ?>" data-bind="next_button" data-callback="submitForm"></div>
-      <?php } ?>
+      <div class="form-group">
+        <button class="submit btn btn-primary " type="submit" id="next_button"><i class="fa fa-plus-square"></i> <?=lang("SIGNUP_TEXT");?></button>
+        <?php if($settings->recaptcha == 1|| $settings->recaptcha == 2){ ?>
+          <div class="g-recaptcha" data-sitekey="<?=$settings->recap_public; ?>" data-bind="next_button" data-callback="submitForm"></div>
+        <?php } ?>
+      </div>
     </form><br />
   </div>
 </div>

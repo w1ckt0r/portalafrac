@@ -100,7 +100,7 @@ require_once 'header.php';
                 <tbody>
                   <?php
                   $db = DB::getInstance();
-                  $files = $db->query("select * from arquivos where user_id = " . $user->data()->id)->results();
+                  $files = $db->query("select * from conteudos where id = " . $_GET["id"])->results();
                   foreach ($files as $file) {
                   ?>
                     <tr>
@@ -125,8 +125,10 @@ require_once 'header.php';
 
                   <?php }; ?>
                   <tr>
-                    <a style="position: relative;" href="conteudos.php" class="btn btn-info btn-bg ">Confirmar</a>
-                  </tr>
+              
+                  <a style="position: relative;" href="conteudos.php" class="btn btn-info btn-bg ">Confirmar</a>
+              
+                </tr>
                 </tbody>
               </table>
             </div>

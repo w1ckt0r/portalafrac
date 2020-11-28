@@ -20,42 +20,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 ?>
 
-<div class="row card ">
-  <div class="col-sm-12">
-    <!-- <h1><?=lang("JOIN_SUC")?><?=$settings->site_name?></h1> -->
-<h1>Seja bem vindo ao Repositório de arquivos da TLV</h1>
-
-    <!-- <p><?=lang("JOIN_THANKS");?></p> -->
-
-    <p>
-      Obrigado por se registrar. Agora clique em Login para começar a usar!
-
-    </p>
-    <a href="login.php" class="btn btn-primary"><?=lang("SIGNIN_TEXT")?></a>
+<div class="row">
+  <div class="col-12 text-center">
+    <h1><?=lang("JOIN_SUC")?><?=$settings->site_name?></h1>
+    <p><?=lang("JOIN_THANKS");?></p>
+    <a href="<?=$us_url_root?>users/login.php" class="btn btn-primary"><?=lang("SIGNIN_TEXT")?></a>
     <br /><br />
   </div>
 </div>
-
-
-<script>
-  $(document).ready(function() {
-    $("nav.navbar ").hide();
-    $("footer ").hide();
-  });
-</script>
-
-<style>
-  .container {
-    /* width: 75% !important; */
-    width: 320px;
-  }
-
-  body {
-
-background: url('../assets/img/backgroud.jpg') no-repeat center center fixed;
--webkit-background-size: cover;
--moz-background-size: cover;
-background-size: cover;
--o-background-size: cover;
-}
-</style>
