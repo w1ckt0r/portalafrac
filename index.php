@@ -18,7 +18,7 @@
                         <div class="image_wrapper">
                             <!-- <div class="mbr-overlay" style=""></div> -->
                             <img class="img-banner" src="assets/images/banners/banner_01.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_01.png" alt="">
@@ -46,7 +46,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_02.png" alt="">
@@ -75,18 +75,18 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_03.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 19%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_03.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners-branco">
                                             <strong>Congresso<br>
                                                 Autocom
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners-branco">
                                             O Futuro da Tecnologia é Agora
                                             <br>
                                             06 e 07 de Abril de 2021 durante a Feira Autocom
@@ -101,18 +101,18 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_04.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 19%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_04.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners-branco">
                                             <strong>
                                                 AUTOCOM 2021
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners-branco">
                                             A maior feira da América Latina
                                             <br>
                                             de tecnologia para o comércio
@@ -157,7 +157,7 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_06.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 6%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_06.png" alt="">
@@ -193,12 +193,12 @@
                                         <img src="assets/images/banners/logo_banner_07.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners-branco">
                                             <strong>
                                                 Blog AFRAC
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners-branco">
                                             Atualizações diárias com informações, notícias,
                                             <br>
                                             alterações, regras e normas do mercado,

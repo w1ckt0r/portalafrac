@@ -57,10 +57,10 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: left">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
                                     Aproximação e networking com os provedores de automação para o comércio
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 18px ">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt ">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo.</p>
                             </div>
@@ -79,10 +79,10 @@
                     <div class="media-container-row">
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: right">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
                                     Assessoria técnica e normativa
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo. </p>
                             </div>
@@ -106,10 +106,10 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: left">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left; font-size: 14pt">
                                     Assessoria Jurídica
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo.</p>
                             </div>
@@ -129,10 +129,10 @@
 
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: right">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
                                     Defesa de interesses do setor junto aos órgãos e entidades governamentais
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo.</p>
                             </div>
@@ -156,10 +156,10 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: left">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
                                     Descontos de até 50% em cursos, palestras e eventos – além de descontos exclusivos na AUTOCOM
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo. </p>
                             </div>
@@ -179,10 +179,10 @@
 
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: right">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
                                     Fomento de ações para incentivar o fortalecimento, uso e tendências da Automação para o Comércio
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo.
                                 </p>
@@ -207,10 +207,10 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: left">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
                                     Oferta de módulos de treinamento
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo. </p>
                             </div>
@@ -230,10 +230,10 @@
 
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: right">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
                                     Palestras informativas
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right;font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo. </p>
                             </div>
@@ -257,10 +257,10 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: left">
+                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
                                     Suporte para o planejamento tributário da sua empresa através da Tributarie, com desconto na tabela de serviços.
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo. </p>
                             </div>
@@ -280,10 +280,10 @@
 
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style display-5" style="text-align: right">
+                                <h5 class="card-title pb-3 mbr-bold mbr-fonts-style display-5" style="text-align: right;font-size: 14pt">
                                     Salas de reuniões disponíveis para uso do associado
                                 </h5>
-                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 18px">
+                                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
                                     Aqui entra um subtexto explicativo sobre o tema acima, acreditamos que isso ajudará
                                     a deixar o layout mais adequado e com conteúdo mais funcional e atrativo. </p>
                             </div>

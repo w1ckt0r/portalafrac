@@ -21,8 +21,44 @@
 <section class="engine">
     <a href="https://mobirise.info/j">website templates</a>
 </section>
-<section class="features3 cid-s8Hb30IPX6" id="features3-1f">
+<section class="features3 cid-s8Hb30IPX6" id="features3-1f" style="padding-top: 1% !important;">
 
+    <div class="container" style="padding:0 0 5% 5% ;">
+        <div class="media-container-row">
+            <div class="card p-3 col-4 col-md-4">
+                <div class="card-wrapperdd">
+                    <div class="card-img">
+                        <img src="assets/images/logo-unecs-p.png" style="width:80% ;" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="card p-3 col-4 col-md-4">
+                <div class="card-wrapperdd">
+                    <div class="card-img">
+                        <img src="assets/images/logo-escritorio-p.png" style="width:80% ;" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="card p-3 col-4 col-md-4">
+                <div class="card-wrapperdd">
+                    <div class="card-img">
+                        <img src="assets/images/logo-tribu-p.png" style="width:80% ;" alt="">
+                    </div>
+                </div>
+            </div>
+            <div class="card p-3 col-4 col-md-4">
+                <div class="card-wrapperdd">
+                    <div class="card-img">
+                        <img src="assets/images/logo-fecomercio-p.png" style="width:80% ;" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr style="border-top: 2px solid #1b477c ">
+        <h5 class="mbr-title mbr-fonts-style mbr-bold display-5" style="color: #00346d; padding-left:10%; font-size: 25px; ">
+            Conheça mais sobre as empresas e entidades parceiras da AFRAC.
+        </h5>
+    </div>
 
     <div class="container">
         <div class="media-container-row">
@@ -37,13 +73,12 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
-                                    <hr style="border-top: 1px solid #1b477c ">
+                                        <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_1" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 A AFRAC é uma associação integrante UNECS. Criada em novembro de 2014, a UNECS tem como finalidade defender os interesses dos setores do comércio e de serviços no Brasil, contribuindo para o debate, o intercâmbio de ideias e o fortalecimento desses
                                                 segmentos que, juntos, representam mais de 15% do PIB brasileiro.
                                             </p>
-                                            <p class="mbr-text mbr-fonts-style display-5 " style="text-align: center">Ler Mais</p>
                                         </a>
                                     </div>
                                     <div id="collapse1_1" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_4">
@@ -59,6 +94,7 @@
                                             </p>
                                         </div>
                                     </div>
+                                    <p class="mbr-text mbr-fonts-style display-5 " style="text-align: center">Ler Mais</p>
                                 </div>
                             </div>
                         </div>
@@ -76,12 +112,11 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
-                                    <hr style="border-top: 1px solid #1b477c ">
+                                        <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_2" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 Há anos construindo um relacionamento de estreita confiança com seus clientes, a Lima Junior, Domene e Advogados Associados, com sua vasta experiência e tradição no campo do direito, vem fazendo mudanças significativas no cenário jurídico e administrativo em que atua.
                                             </p>
-                                            <p class="mbr-text mbr-fonts-style display-5 " style="text-align: center">Ler Mais</p>
                                         </a>
                                     </div>
                                     <div id="collapse1_2" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_4">
@@ -92,6 +127,7 @@
                                             </p>
                                         </div>
                                     </div>
+                                    <p class="mbr-text mbr-fonts-style display-5 " style="text-align: center">Ler Mais</p>
                                 </div>
                             </div>
                         </div>
@@ -113,13 +149,12 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
-                                    <hr style="border-top: 1px solid #1b477c ">
+                                        <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_3" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 O nosso conhecimento especializado, aliado a sistemas e ferramentas com tecnologia de ponta, resulta em soluções inovadoras e seguras de alto valor agregado que permitem garantir a exatidão das informações, regras e processos envolvidos no cumprimento das obrigações fiscais e na gestão tributária da sua empresa.
                                             </p>
-                                            <p class="mbr-text mbr-fonts-style display-5 " style="text-align: center">Ler Mais</p>
-                                        </a>
+
                                     </div>
                                     <div id="collapse1_3" class="panel-collapse noScroll collapse" role="tabpanel" aria-labelledby="headingOne" data-parent="#bootstrap-accordion_4">
                                         <div class="panel-body p-4" style="padding: 0% 20px !important;">
@@ -131,6 +166,7 @@
                                             </p>
                                         </div>
                                     </div>
+                                    <p class="mbr-text mbr-fonts-style display-5 " style="text-align: center">Ler Mais</p>
                                 </div>
                             </div>
                         </div>
@@ -148,7 +184,7 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
-                                    <hr style="border-top: 1px solid #1b477c ">
+                                        <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_4" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 A missão da FecomercioSP é representar e promover o desenvolvimento pleno e sustentável do setor de comércio de bens, serviços e turismo no Estado de São Paulo. Por isso, adota ações propositivas e defende mudanças – apoiadas na mobilização – com o objetivo

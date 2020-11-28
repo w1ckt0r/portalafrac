@@ -5382,6 +5382,10 @@
                 color: #04112b;
             }
             
+            #texto-banners-branco {
+                color: white;
+            }
+            
             @media (max-width: 1340px) {
                 .navbar .menu-logo .navbar-brand .navbar-logo a img {
                     height: 3.0rem !important;
