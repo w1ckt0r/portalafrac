@@ -18,18 +18,18 @@
                         <div class="image_wrapper">
                             <!-- <div class="mbr-overlay" style=""></div> -->
                             <img class="img-banner" src="assets/images/banners/banner_01.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_01.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo" style="background:;">
-                                        <h2 class="mbr-fonts-style display-2">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 Bem vindo ao futuro
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
 
                                             Associação Brasileira de Tecnologia
                                             <br>
@@ -46,13 +46,13 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_02.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
 
                                                 <br>
@@ -62,7 +62,7 @@
 
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             Fique por dentro e participe
                                         </p>
                                     </div>
@@ -75,17 +75,18 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_03.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_03.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2">
-                                            <strong><br>
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
+                                            <strong>Congresso<br>
+                                                Autocom
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             O Futuro da Tecnologia é Agora
                                             <br>
                                             06 e 07 de Abril de 2021 durante a Feira Autocom
@@ -100,18 +101,18 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_04.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_04.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 AUTOCOM 2021
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             A maior feira da América Latina
                                             <br>
                                             de tecnologia para o comércio
@@ -126,20 +127,20 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_05.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 10%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_05.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 AFRAC ganha liminar
                                                 <br>
                                                 no estado da Paraíba
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             Contra a cobrança do ICMS sobre software.
                                             <br>
                                             Clique e confira mais esta conquista
@@ -156,18 +157,18 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_06.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_06.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo align-left">
-                                        <h1 class="mbr-fonts-style display-2">
+                                        <h1 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 Parceria AFRAC e Tributarie
                                             </strong>
                                         </h1>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             Suporte para o Planejamento tributário da sua empresa.
                                             <br>
                                             Associado AFRAC tem desconto sobre o percentual
@@ -186,18 +187,18 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_07.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_07.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 Blog AFRAC
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             Atualizações diárias com informações, notícias,
                                             <br>
                                             alterações, regras e normas do mercado,
@@ -217,18 +218,18 @@
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_08.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 25%;">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
                                         <img src="assets/images/banners/logo_banner_08.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 Um novo visual
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             Para receber o futuro!
                                         </p>
                                     </div>
@@ -345,7 +346,7 @@
 
             </div>
             <div class="mbr-section-btn align-center">
-                <a class="btn btn-md btn-primary display-4" href="vitrine-mercado.php">FIQUE POR DENTRO</a>
+                <a class="btn btn-md btn-primary display-4" href="vitrine-mercado.php" style="margin-bottom: 10% ;">FIQUE POR DENTRO</a>
             </div>
 
         </div>
@@ -422,46 +423,52 @@
         <div class="media-container-row">
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-img pb-3">
-                    <img src="assets/images/home_icone_estatuto.png" alt="" style="width: 80%;">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5">
-                        <strong>Estatuto Social</strong>
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        <a href="http://www.afrac.com.br/wp-content/uploads/2018/06/Estatuto-AFRAC_14MAIO_2020.pdf" target="_blank">Acesse aqui o Estatuto Social</a>
-                    </p>
-                </div>
+                <a href="estatuto.php">
+                    <div class="card-img pb-3">
+                        <img src="assets/images/home_icone_estatuto.png" alt="" style="width: 80%;">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title py-3 mbr-fonts-style display-5">
+                            <strong>Estatuto Social</strong>
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <a href="estatuto.php" target="_blank">Acesse aqui o Estatuto Social</a>
+                        </p>
+                    </div>
+                </a>
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-img pb-3">
-                    <img src="assets/images/home_icone_codigo.png" alt="" style="width: 80%;">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5">
-                        <strong>Código de Ética</strong>
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        <a href="codigo-etica.php" target="_blank">Acesse aqui o Código de Ética</a>
-                    </p>
-                </div>
+                <a href="codigo-etica.php">
+                    <div class="card-img pb-3">
+                        <img src="assets/images/home_icone_codigo.png" alt="" style="width: 80%;">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title py-3 mbr-fonts-style display-5">
+                            <strong>Código de Ética</strong>
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <a href="codigo-etica.php" target="_blank">Acesse aqui o Código de Ética</a>
+                        </p>
+                    </div>
+                </a>
             </div>
 
             <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-img pb-3">
-                    <img src="assets/images/home_icone_institucional.png" alt="" style="width: 80%;">
-                </div>
-                <div class="card-box">
-                    <h4 class="card-title py-3 mbr-fonts-style display-5">
-                        <strong>
-                            Institucional AFRAC</strong>
-                    </h4>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        <a href="https://rdstation-static.s3.amazonaws.com/cms%2Ffiles%2F56860%2F1591901068Institucional_AFRAC_2020.pdf" class="text-secondary" target="_blank">Saiba mais sobre a Entidade</a>
-                    </p>
-                </div>
+                <a href="https://rdstation-static.s3.amazonaws.com/cms%2Ffiles%2F56860%2F1591901068Institucional_AFRAC_2020.pdf">
+                    <div class="card-img pb-3">
+                        <img src="assets/images/home_icone_institucional.png" alt="" style="width: 80%;">
+                    </div>
+                    <div class="card-box">
+                        <h4 class="card-title py-3 mbr-fonts-style display-5">
+                            <strong>
+                                Institucional AFRAC</strong>
+                        </h4>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <a href="https://rdstation-static.s3.amazonaws.com/cms%2Ffiles%2F56860%2F1591901068Institucional_AFRAC_2020.pdf" class="text-secondary" target="_blank">Saiba mais sobre a Entidade</a>
+                        </p>
+                    </div>
+                </a>
             </div>
 
         </div>
@@ -506,6 +513,11 @@
         </div>
     </div>
 </section>
+
+
+<style>
+
+</style>
 
 
 

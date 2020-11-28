@@ -37,6 +37,7 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
+                                    <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_1" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 A AFRAC é uma associação integrante UNECS. Criada em novembro de 2014, a UNECS tem como finalidade defender os interesses dos setores do comércio e de serviços no Brasil, contribuindo para o debate, o intercâmbio de ideias e o fortalecimento desses
@@ -75,6 +76,7 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
+                                    <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_2" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 Há anos construindo um relacionamento de estreita confiança com seus clientes, a Lima Junior, Domene e Advogados Associados, com sua vasta experiência e tradição no campo do direito, vem fazendo mudanças significativas no cenário jurídico e administrativo em que atua.
@@ -111,6 +113,7 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
+                                    <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_3" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 O nosso conhecimento especializado, aliado a sistemas e ferramentas com tecnologia de ponta, resulta em soluções inovadoras e seguras de alto valor agregado que permitem garantir a exatidão das informações, regras e processos envolvidos no cumprimento das obrigações fiscais e na gestão tributária da sua empresa.
@@ -145,6 +148,7 @@
                             <div id="bootstrap-accordion_4" class="panel-group accordionStyles accordion pt-5 mt-3" role="tablist" aria-multiselectable="true" style="padding: 0% !important;">
                                 <div class="card">
                                     <div class="card-header" style="background-color: white " role="tab" id="headingOne">
+                                    <hr style="border-top: 1px solid #1b477c ">
                                         <a role="button" class="collapsed panel-title text-black" data-toggle="collapse" data-core="" href="#collapse1_4" aria-expanded="false" aria-controls="collapse1">
                                             <p class="mbr-text mbr-fonts-style display-6">
                                                 A missão da FecomercioSP é representar e promover o desenvolvimento pleno e sustentável do setor de comércio de bens, serviços e turismo no Estado de São Paulo. Por isso, adota ações propositivas e defende mudanças – apoiadas na mobilização – com o objetivo

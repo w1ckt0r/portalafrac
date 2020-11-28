@@ -27,24 +27,24 @@ $conteudo = $db->query("select * from conteudos order by id desc ")->results()[0
         </div>
     </div>
 </section>
-<nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;">
+<nav class="navbar  navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;padding-bottom:0% ">
     <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
         <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse navbars" id="collapse_target1">
         <ul class="navbar-nav mx-auto">
-            <li class="nav-item-second" >
+            <li class="nav-item-second" style=" background-color: #ececec; border-radius:20px 20px 0 0" >
                 <a class="nav-link" href="#" id="menu-blog">
-                    <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Blog AFRAC</p>
+                    <p class="mbr-fonts-style mbr-bold display-5" style="color: #04112b;"> Blog AFRAC</p>
                 </a>
             </li>
             <li class="nav-item-second" >
-                <a class="nav-link" href="#" id="menu-blog">
+                <a class="nav-link" href="vitrine.php" id="menu-blog">
                     <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Vitrine de Mercado</p>
                 </a>
             </li>
             <li class="nav-item-second" >
-                <a class="nav-link" href="#" id="menu-blog">
+                <a class="nav-link" href="meios-pagamento.php" id="menu-blog">
                     <p class="mbr-fonts-style mbr-bold display-5" style="color: white;"> Meios de Pagamento</p>
                 </a>
             </li>
@@ -53,7 +53,7 @@ $conteudo = $db->query("select * from conteudos order by id desc ")->results()[0
     </div>
 </nav>
 
-<section class="features3 cid-s8Hb30IPX6" id="features3-1f" style="padding: 6%;">
+<section class="features3 cid-s8Hb30IPX6" id="features3-1fgg" style="padding:6% 6% 0 6%; background-color:#ececec">
 
     <div class="row">
         <div class="col-7"></div>

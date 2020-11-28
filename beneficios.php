@@ -18,7 +18,7 @@
 
 <section>
 
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding:10px 2%; background-color:#ececec">
 
         <div class="container">
             <div class="media-container-row">
@@ -26,16 +26,21 @@
                     <div class="media-container-row">
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style " style="color: #04112b;">Oferecemos apoio, defendemos interesses, levantamos oportunidades e aproximamos nossos associados.
+                                <h5 class="card-title pb-3 mbr-fonts-style align-right" style="color: #04112b;padding-top:10%">Oferecemos apoio, defendemos interesses, levantamos oportunidades e aproximamos nossos associados.
                                     <br> Saiba tudo o que você tem a ganhar ao fazer parte da AFRAC. Aproveite ao máximo cada um dos benefícios
-                                    <br> que trabalhamos para criar e manter.</h5>
+                                    <br> que trabalhamos para criar e manter.
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                </h5>
                             </div>
+                            <hr style="border-top: 1px solid #1b477c;">
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/1-beneficios.png" alt="Mobirise">
                         </div>
                     </div>
-                    <hr style="border-top: 1px solid #1b477c ">
                 </div>
             </div>
         </div>
@@ -47,8 +52,8 @@
             <div class="media-container-row">
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
-                        <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                        <div class="mbr-figure " style="width: 100%;padding-left: 4rem;">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -83,7 +88,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/3-beneficios.png" alt="Mobirise">
                         </div>
                     </div>
                 </div>
@@ -97,7 +102,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/1-beneficios.png" alt="Mobirise">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -133,7 +138,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
                         </div>
                     </div>
                 </div>
@@ -147,7 +152,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/3-beneficios.png" alt="Mobirise">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -184,7 +189,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/1-beneficios.png" alt="Mobirise">
                         </div>
                     </div>
                 </div>
@@ -198,7 +203,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -234,7 +239,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
                         </div>
                     </div>
                 </div>
@@ -248,7 +253,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/3-beneficios.png" alt="Mobirise">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -284,7 +289,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/background10.jpg" alt="Mobirise">
+                            <img src="assets/images/beneficios/1-beneficios.png" alt="Mobirise">
                         </div>
                     </div>
                 </div>

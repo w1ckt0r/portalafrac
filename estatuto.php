@@ -1042,7 +1042,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">
                     CAPÍTULO VI <br>
                     DAS DELEGACIAS REGIONAIS
                 </h2>
@@ -1177,7 +1177,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">
                     CAPÍTULO VII <br>
                     COMISSÃO DE ÉTICA
 
@@ -1354,7 +1354,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">
                     CAPÍTULO VIII <br>
                     DAS ASSEMBLEIAS GERAIS
 
@@ -1591,7 +1591,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">
                     CAPÍTULO IX <br>
                     DAS ELEIÇÕES
                 </h2>
@@ -1801,7 +1801,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">
                     CAPÍTULO X <br>
                     DA DISSOLUÇÃO
                 </h2>
@@ -1870,7 +1870,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="title col-12 col-md-8">
-                <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
+                <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">
                     CAPÍTULO XI <br>
                     DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
@@ -1969,7 +1969,7 @@
 
     <div class="container">
         <div class="media-container-row">
-            <div class="title col-12 col-md-8">
+            <div class="title col-12 col-md-8" style="align-items: center;">
                 <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
 
                 </h2>
@@ -1977,6 +1977,7 @@
                     Zenon Leite Neto <br>
                     Presidente
                 </h3>
+                <a class="btn btn-sm btn-success-outline display-4" style="padding: 2%; margin: 5% 0 5% 40%" href="http://www.afrac.com.br/wp-content/uploads/2018/06/Estatuto-AFRAC_14MAIO_2020.pdf">Baixe agora</a>
             </div>
         </div>
 </section>

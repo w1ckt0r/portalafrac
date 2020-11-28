@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="assets/images/favicon-32x32.png" type="image/x-icon">
     <meta name="description" content="">
 
-    <title>Afrac</title>
+    <title>AFRAC</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -23,6 +23,8 @@
     <link rel="stylesheet" href="assets/theme/css/style.css">
     <link rel="preload" as="style" href="assets/mobirise/css/mbr-additional.css">
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
 </head>
 <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/f9a5c122-2921-41a4-9bed-e7add6259193-loader.js"></script>
@@ -77,7 +79,7 @@
             </div>
         </nav>
 
-        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">
+        <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm navbar-short">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <div class="hamburger">
                     <span></span>
@@ -91,7 +93,7 @@
                 <div class="navbar-brand">
                     <span class="navbar-logo">
                         <a href="index.php">
-                            <img src="assets/images/logo-escuro.png" alt="AFRAC" title="" style="height: 4.2rem;">
+                            <img src="assets/images/logo-escuro.png" alt="AFRAC" title="" style="height: 4.0rem;">
                         </a>
                     </span>
                     <span class="navbar-caption-wrap">
@@ -128,7 +130,7 @@
                         <a class="nav-link link text-primary display-4" href="painel-mercado.php" aria-expanded="false">Painel de Mercado</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false" >Blog</a>
+                        <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false">Blog</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
@@ -141,8 +143,8 @@
                     </li>
                 </ul>
                 <div class="navbar-buttons mbr-section-btn">
-                    <a class="btn btn-sm btn-success-outline display-4" href="index.php">Associe-se</a>
-                    <a class="btn btn-sm display-4" style="background-color: #209ad5 !important; color:white" href="index.php#form3-1x">
+                    <a class="btn btn-sm btn-success-outline display-3" href="index.php">Associe-se</a>
+                    <a class="btn btn-sm display-3" style="background-color: #209ad5 !important; color:white" href="index.php#form3-1x">
                         <span class="socicon mbr-iconfont mbr-iconfont-btn"></span>Newsletter</a>
                 </div>
             </div>

@@ -3,7 +3,7 @@
 
 
 
-<section class="features2 cid-s8HaGIkBjh" id="features2-3" style="padding-bottom: ; background-color: #04112b;">
+<section class="features2 cid-s8HaGIkBjh" id="features2-3" style="padding-bottom: 0; background-color: #04112b;">
 
     <div class="container">
         <div class="row justify-content-md-center">
@@ -64,7 +64,7 @@
                                 <div class="step-wrapper pr-3">
                                 </div>
                                 <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">1A PCI POWER</h4>
+                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">1A PCI POWER</h4>
                                     <a href="www.pcipower.com.br">www.pcipower.com.br</a>
                                     <div class="step-text-content">
                                         <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
@@ -88,7 +88,7 @@
                                 <div class="step-wrapper pr-3">
                                 </div>
                                 <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">4CONTROL SYSTEMS</h4>
+                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">4CONTROL SYSTEMS</h4>
                                     <a href="www.pcipower.com.br">www.pcipower.com.br</a>
                                     <div class="step-text-content">
                                         <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
@@ -121,7 +121,7 @@
                                 <div class="step-wrapper pr-3">
                                 </div>
                                 <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">4NEXT AUTOMAÇÃO E CONSULTORIA</h4>
+                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">4NEXT AUTOMAÇÃO E CONSULTORIA</h4>
                                     <a href="www.pcipower.com.br">www.pcipower.com.br</a>
                                     <div class="step-text-content">
                                         <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
@@ -144,7 +144,7 @@
                                 <div class="step-wrapper pr-3">
                                 </div>
                                 <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">ACSN</h4>
+                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">ACSN</h4>
                                     <a href="www.pcipower.com.br">www.pcipower.com.br</a>
                                     <div class="step-text-content">
                                         <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
@@ -178,7 +178,7 @@
                                 <div class="step-wrapper pr-3">
                                 </div>
                                 <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">ACTIVE SOLUÇÕES EM TECNOLOGIA</h4>
+                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">ACTIVE SOLUÇÕES EM TECNOLOGIA</h4>
                                     <a href="www.pcipower.com.br">www.pcipower.com.br</a>
                                     <div class="step-text-content">
                                         <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
@@ -202,7 +202,7 @@
                                 <div class="step-wrapper pr-3">
                                 </div>
                                 <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">ACS</h4>
+                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">ACS</h4>
                                     <a href="www.pcipower.com.br">www.pcipower.com.br</a>
                                     <div class="step-text-content">
                                         <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
