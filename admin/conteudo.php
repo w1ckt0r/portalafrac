@@ -13,7 +13,7 @@ $boolUpdate = false;
 $btnSalvar = "";
 $id_conteudo = 0;
 
-
+dump($_FILES);
 
 //Note: This resolves as true even if all $_POST values are empty strings
 if (!empty($_POST)) {
@@ -29,6 +29,7 @@ if (!empty($_POST)) {
   $ext = pathinfo($nomeArquivo, PATHINFO_EXTENSION);
   $uploadfile   = $uploaddir . $token . "." . $ext ;  
   $boolUpload = false;
+  $arquivofisico = "img-padrao-post.jpg" ;
   
   if (move_uploaded_file($_FILES['fileToUpload']['tmp_name'], $uploadfile)) {
     // echo "O arquivo é valido e foi carregado com sucesso.\n";
@@ -46,9 +47,16 @@ if (!empty($_POST)) {
     // echo "Algo está errado aqui!\n";
   }
   
-
-  // echo $uploadfile;
+  
+  echo $uploadfile;
+  echo $arquivofisico;
 }
+
+
+
+echo "post";
+die();
+
   // UPLOAD ###############################################
   if (!empty($_GET["id"])) {
 
@@ -230,11 +238,11 @@ if ($boolUpdate) {
                 <br>
                 <h2>Imagem de destaque</h2>
                 <?php 
-                  if($conteudo->img <> ""){
+                  // if($conteudo->img <> ""){
 
-                    echo "<img src='upload/".$conteudo->img . "' />";
+                  //   echo "<img src='upload/".$conteudo->img . "' />";
 
-                  }
+                  // }
 
                 ?>
                 <br>

@@ -6,7 +6,8 @@ require("header.php");
 $db = DB::getInstance();
 
 // echo "get";;;
-$conteudo = $db->query("select * from conteudos order by id desc ")->results()[0];
+$conteudo = $db->query("select * from conteudos order by id desc ")->results();
+// dump( $conteudo );
 
 ?>
 
@@ -146,11 +147,11 @@ $conteudo = $db->query("select * from conteudos order by id desc ")->results()[0
                     <div class="card-box">
                         <a href="#">
                             <p class="card-title mbr-fonts-style mbr-bold display-6">
-                            <?php //$content->title;?>
+                            <?php echo $content->title;?>
                         </p>
                     </a>
                     <p class="mbr-text mbr-fonts-style display-7">
-                        <?php //substr($content->content , 0,300);?>
+                        <?php echo substr( strip_tags($content->content ),0,300);?>
                         
                         </p>
                     </div>
