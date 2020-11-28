@@ -1973,7 +1973,7 @@
                 <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
 
                 </h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"> <hr style="">
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"> <hr>
                     Zenon Leite Neto <br>
                     Presidente
                 </h3>

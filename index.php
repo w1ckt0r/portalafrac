@@ -20,10 +20,10 @@
                             <img class="img-banner" src="assets/images/banners/banner_01.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_01.png" alt="">
                                     </div>
-                                    <div class="col-10 text-logo" style="background:;">
+                                    <div class="col-10 text-logo" >
                                         <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 Bem vindo ao futuro
@@ -48,7 +48,7 @@
                             <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_02.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -77,7 +77,7 @@
                             <img class="img-banner" src="assets/images/banners/banner_03.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 19%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_03.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -103,7 +103,7 @@
                             <img class="img-banner" src="assets/images/banners/banner_04.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 19%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_04.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -129,7 +129,7 @@
                             <img class="img-banner" src="assets/images/banners/banner_05.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 10%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_05.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -159,7 +159,7 @@
                             <img class="img-banner" src="assets/images/banners/banner_06.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 6%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_06.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo align-left">
@@ -189,7 +189,7 @@
                             <img class="img-banner" src="assets/images/banners/banner_07.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_07.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -220,7 +220,7 @@
                             <img class="img-banner" src="assets/images/banners/banner_08.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " style="background:;">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
                                         <img src="assets/images/banners/logo_banner_08.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
