@@ -20,6 +20,8 @@ for($i = 1; $i < $self_path_length; $i++){
 	}
 }
 
+$us_url_root = $us_url_root.'/admin/';
+
 require_once $abs_us_root.$us_url_root.'users/helpers/helpers.php';
 
 // if($_SERVER['REMOTE_ADDR'] == '::1'){

@@ -3,9 +3,9 @@
     $().ready(function() {
 
       $("a.delete").click(function(event) {
-        if (confirm('Deseja realmente apagar esse arquivo?') == true) {
+        if (confirm('Deseja realmente apagar esse conteudo?') == true) {
           $(this).closest('tr').delay(2000).fadeOut(500);
-          $.post('files-proccess.php', {
+          $.post('conteudo-proccess.php', {
               action: "xdel",
               id: $(this).attr("data-id")
             },
@@ -24,7 +24,7 @@
 
           $.notify({
                 icon: "check_circle_outline",
-                message: "Arquivo deletado <b>com sucesso</b>"
+                message: "Conteúdo deletado <b>com sucesso</b>"
 
               }, {
                 type: 'danger',
@@ -43,77 +43,77 @@
           event.preventDefault();
       });
 
-      $("a.download").click(function(event) {
-        $.post('files-proccess.php', {
-            action: "xdownload",
-            id: $(this).attr("data-id")
-          },
-          function(returnedData, status, xhr) {
-            //  console.log(returnedData);
-            if (returnedData == '302') {
-              window.location.href = "index.php"
-            } else {
-              console.log("download completo")
-            }
+      // $("a.download").click(function(event) {
+      //   $.post('files-proccess.php', {
+      //       action: "xdownload",
+      //       id: $(this).attr("data-id")
+      //     },
+      //     function(returnedData, status, xhr) {
+      //       //  console.log(returnedData);
+      //       if (returnedData == '302') {
+      //         window.location.href = "index.php"
+      //       } else {
+      //         console.log("download completo")
+      //       }
 
 
-          }).fail(function() {
-          console.log("error");
-        });
-        //This is here to prevent jsFiddle from navigating away from this page to your delete function
-        event.preventDefault();
+      //     }).fail(function() {
+      //     console.log("error");
+      //   });
+      //   //This is here to prevent jsFiddle from navigating away from this page to your delete function
+      //   event.preventDefault();
 
-      });
+      // });
 
-      $("button.enviar").click(function(event) {
+      // $("button.enviar").click(function(event) {
 
-        $.post('files-proccess.php', {
-            action: "xenviar",
-            id: $("#data-id").val(),
-            email: $("#txtEmail").val()
-          },
-          function(returnedData, status, xhr) {
-            console.log(returnedData);
-            if (returnedData == '302') {
-              window.location.href = "index.php"
-            } else {
-              console.log("enviado");
-              $('#mailModal').modal('toggle');
-
-
-              $.notify({
-                icon: "check_circle_outline",
-                message: "Email enviado <b>com sucesso</b>"
-
-              }, {
-                type: 'success',
-                timer: 3000,
-                placement: {
-                  from: 'bottom',
-                  align: 'right'
-                }
-              });
+      //   $.post('files-proccess.php', {
+      //       action: "xenviar",
+      //       id: $("#data-id").val(),
+      //       email: $("#txtEmail").val()
+      //     },
+      //     function(returnedData, status, xhr) {
+      //       console.log(returnedData);
+      //       if (returnedData == '302') {
+      //         window.location.href = "index.php"
+      //       } else {
+      //         console.log("enviado");
+      //         $('#mailModal').modal('toggle');
 
 
+      //         $.notify({
+      //           icon: "check_circle_outline",
+      //           message: "Email enviado <b>com sucesso</b>"
 
-            }
+      //         }, {
+      //           type: 'success',
+      //           timer: 3000,
+      //           placement: {
+      //             from: 'bottom',
+      //             align: 'right'
+      //           }
+      //         });
 
 
-          }).fail(function() {
-          console.log("error");
-        });
-        //This is here to prevent jsFiddle from navigating away from this page to your delete function
-        event.preventDefault();
 
-      });
+      //       }
 
-      $('.x-enviar ').on('click', function(e) {
-        e.preventDefault()
-        // alert(e.target.pathname + e.target.search)
-        $("#data-id").val($(this).attr("data-id"));
-        // console.log($("#data-id").val());
 
-      })
+      //     }).fail(function() {
+      //     console.log("error");
+      //   });
+      //   //This is here to prevent jsFiddle from navigating away from this page to your delete function
+      //   event.preventDefault();
+
+      // });
+
+      // $('.x-enviar ').on('click', function(e) {
+      //   e.preventDefault()
+      //   // alert(e.target.pathname + e.target.search)
+      //   $("#data-id").val($(this).attr("data-id"));
+      //   // console.log($("#data-id").val());
+
+      // })
 
     });
   });
