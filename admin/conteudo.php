@@ -13,49 +13,49 @@ $boolUpdate = false;
 $btnSalvar = "";
 $id_conteudo = 0;
 
-dump($_FILES);
+// dump($_FILES);
 
 //Note: This resolves as true even if all $_POST values are empty strings
 if (!empty($_POST)) {
 
   if (!empty($_FILES)) {
 
-  // dump($_FILES);
-  // UPLOAD ###############################################
-  $token = bin2hex(random_bytes(20));  
-  // Nas versões do PHP que antecedem a versão 4.1.0, é preciso usar o $HTTP_POST_FILES em vez do $_FILES.    
-  $uploaddir = 'upload/';
-  $nomeArquivo = basename( $_FILES['fileToUpload']['name']) ;
-  $ext = pathinfo($nomeArquivo, PATHINFO_EXTENSION);
-  $uploadfile   = $uploaddir . $token . "." . $ext ;  
-  $boolUpload = false;
-  $arquivofisico = "img-padrao-post.jpg" ;
-  
-  if (move_uploaded_file($_FILES['fileToUpload']['tmp_name'], $uploadfile)) {
-    // echo "O arquivo é valido e foi carregado com sucesso.\n";
-    // echo "result : " . $insert = $db->insert("arquivos", $fields);
-    //  $insert = $db->insert("arquivos", $fields);
-    $arquivofisico = $token . "." . $ext ;
-    logger($user->data()->id,"Upload",$user->data()->fname . " fez um novo upload, com o nome de " . $nomeArquivo);  
-    // $boolUpload = true;
-    
-    
-  } else {
-    // $boolUpload = false;
-    $arquivofisico = "img-padrao-post.jpg" ;
-      logger($user->data()->id,"Upload",$user->data()->fname . " Ocorreu um erro ao tentar fazer um novo upload");
-    // echo "Algo está errado aqui!\n";
+    // dump($_FILES);
+    // UPLOAD ###############################################
+    $token = bin2hex(random_bytes(20));
+    // Nas versões do PHP que antecedem a versão 4.1.0, é preciso usar o $HTTP_POST_FILES em vez do $_FILES.    
+    $uploaddir = 'upload/';
+    $nomeArquivo = basename($_FILES['fileToUpload']['name']);
+    $ext = pathinfo($nomeArquivo, PATHINFO_EXTENSION);
+    $uploadfile   = $uploaddir . $token . "." . $ext;
+    $boolUpload = false;
+    $arquivofisico = "img-padrao-post.jpg";
+
+    if (move_uploaded_file($_FILES['fileToUpload']['tmp_name'], $uploadfile)) {
+      // echo "O arquivo é valido e foi carregado com sucesso.\n";
+      // echo "result : " . $insert = $db->insert("arquivos", $fields);
+      //  $insert = $db->insert("arquivos", $fields);
+      $arquivofisico = $token . "." . $ext;
+      logger($user->data()->id, "Upload", $user->data()->fname . " fez um novo upload, com o nome de " . $nomeArquivo);
+      // $boolUpload = true;
+
+
+    } else {
+      // $boolUpload = false;
+      // $arquivofisico = "img-padrao-post.jpg" ;
+      logger($user->data()->id, "Upload", $user->data()->fname . " Ocorreu um erro ao tentar fazer um novo upload");
+      // echo "Algo está errado aqui!\n";
+    }
+
+
+    // echo $uploadfile;
+    // echo $arquivofisico;
   }
-  
-  
-  echo $uploadfile;
-  echo $arquivofisico;
-}
 
 
 
-echo "post";
-die();
+  // echo "post";
+  // die();
 
   // UPLOAD ###############################################
   if (!empty($_GET["id"])) {
@@ -71,20 +71,20 @@ die();
       'title'                 => $_POST["titulo"],
       'content'               => $_POST["area2"],
       'type'                  => $_POST["sessao"],
-      'status'                => "Publicado",  
+      'status'                => "Publicado",
       'date-modified'         => date('Y-m-d H:i:s'),
       'user_id'               => $user->data()->id
       // 'user_id'             => $categoria,
       // 'nome'                  => $nomeArquivo,
       // 'criado_em'             => date('Y-m-d H:i:s')
     );
-    
-    if (!empty($_FILES)) {    
-      $fields['img'] = $arquivofisico;     
+
+    if (!empty($_FILES)) {
+      $fields['img'] = $arquivofisico;
     }
-    
-// dump($fields);
-// die();
+
+    // dump($fields);
+    // die();
 
     $id_conteudo = $_GET["id"];
 
@@ -104,15 +104,14 @@ die();
       // 'criado_em'             => date('Y-m-d H:i:s')
     );
 
-     $result =  $insert = $db->insert("conteudos", $fields);
+    $result =  $insert = $db->insert("conteudos", $fields);
 
-     $id_conteudo = $db->query("SELECT max(id) as id FROM conteudos")->results()[0]->id;
+    $id_conteudo = $db->query("SELECT max(id) as id FROM conteudos")->results()[0]->id;
 
     // echo $id_conteudo->id;
     // echo ":: " . dump($db);
     logger($user->data()->id, "Conteudo Criado ", $user->data()->fname . "
          criou um novo conteudo com o Titulo  " . $_POST["titulo"]);
-
   }
 
 
@@ -144,6 +143,7 @@ if ($boolUpdate) {
 
 ?>
 
+
 <!-- End Navbar -->
 <div class="content">
   <div class="container-fluid">
@@ -163,15 +163,12 @@ if ($boolUpdate) {
             //Controle de tela Novo ou edicao (Post ou get)
             if ($boolUpdate) {
             ?>
-              <form 
-              enctype="multipart/form-data"
-              action="conteudo.php?id=<?= $_GET["id"] ?>" 
-              method="post" 
-              name="form-content">
+              <form enctype="multipart/form-data" action="conteudo.php?id=<?= $_GET["id"] ?>" method="post" name="form-content">
               <?php
             } else {
               ?>
-                <form action="conteudo.php" method="post" name="form-content">
+                <form enctype="multipart/form-data" action="conteudo.php" method="post" name="form-content">
+
                 <?php
               }
                 ?>
@@ -206,10 +203,25 @@ if ($boolUpdate) {
 
 
 
-                  <script src="http://js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>
+                  <script src='https://cloud.tinymce.com/stable/tinymce.min.js'></script>
+                  <script>
+                    tinymce.init({
+                      selector: '#area2', // change this value according to your HTML
+                      plugins: 'code'
+                    
+                    });
+                  </script>
+
+                  <!-- <script src="http://js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>
                   <script type="text/javascript">
                     bkLib.onDomLoaded(nicEditors.allTextAreas);
-                  </script>
+
+
+
+
+
+
+                  </script> -->
 
                   <!-- <div class="col-md-4 mb-3">
       <label for="validationDefault02">Last name</label>
@@ -223,7 +235,7 @@ if ($boolUpdate) {
                       <!-- <textarea class="form-control" id="exampleFormControlTextarea1" rows="15"></textarea> -->
 
 
-                      <textarea name="area2" rows="15" style="width: 100%;">
+                      <textarea name="area2" id="area2" rows="15" style="width: 100%;">
                     <?= $conteudoFull ?>
                     </textarea>
 
@@ -233,16 +245,16 @@ if ($boolUpdate) {
                 </div>
 
 
-                <input id="fileToUpload"  name="fileToUpload" type="file"  />
+                <input id="fileToUpload" name="fileToUpload" type="file" />
                 <br>
                 <br>
                 <h2>Imagem de destaque</h2>
-                <?php 
-                  // if($conteudo->img <> ""){
+                <?php
+                // if($conteudo->img <> ""){
 
-                  //   echo "<img src='upload/".$conteudo->img . "' />";
+                //   echo "<img src='upload/".$conteudo->img . "' />";
 
-                  // }
+                // }
 
                 ?>
                 <br>
@@ -311,7 +323,7 @@ if ($boolUpdate) {
   </div>
 </div>
 
-<script src="https://cdn.tiny.cloud/1/3pi35req66retm9019lz3n0re5yqv3c5rmrbv9r10cdbaphl/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+<!-- <script src="https://cdn.tiny.cloud/1/3pi35req66retm9019lz3n0re5yqv3c5rmrbv9r10cdbaphl/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script> -->
 
 
 <script>

@@ -5290,7 +5290,7 @@
             .parent {
                 display: grid;
                 grid-template-columns: repeat(5, 1fr);
-                grid-template-rows: repeat(5, 1fr);
+                grid-template-rows: repeat(4, 1fr);
                 grid-column-gap: 0px;
                 grid-row-gap: 0px;
             }
@@ -5323,25 +5323,25 @@
             .div2 .row .col-5 {
                 padding: 0% !important;
                 right: -5;
-                left: 15px;
+                left: 5px;
             }
             
             .div3 .row .col-5 {
                 padding: 0% !important;
                 right: -5;
-                left: 15px;
+                left: 5px;
             }
             
             .div4 .row .col-5 {
                 padding: 0% !important;
                 right: -5;
-                left: 15px;
+                left: 5px;
             }
             
             .div5 .row .col-5 {
                 padding: 0% !important;
                 right: -5;
-                left: 15px;
+                left: 5px;
             }
             
             #p-blog {
