@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__) . "/../portalafrac/admin/users/init.php";
+require_once dirname(__FILE__) . "/admin/users/init.php";
 // require("admin/users/init.php");
 require("header.php");
 $db = DB::getInstance();
@@ -110,5 +110,10 @@ if (!empty($_GET["id"])) {
     $views = $conteudo[0]->views + 1;
     $db->query("update conteudos set views = ".$views." where id=".$id_conteudo);
 ?>
+
+
+<div role="main" id="formulario-contato-c6442a9dd424ecd84363"></div>
+<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+<script type="text/javascript"> new RDStationForms('formulario-contato-c6442a9dd424ecd84363', 'UA-39613359-2').createForm();</script>
 
 <?php require("footer.php"); ?>

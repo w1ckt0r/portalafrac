@@ -104,9 +104,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
                     <li class="nav-item dropdown">
-                        <a class="nav-link link dropdown-toggle text-primary display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">
-
-                            Sobre a AFRAC</a>
+                        <a class="nav-link link dropdown-toggle text-primary display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">AFRAC</a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item text-primary display-4" id="submenu" href="historia.php">História</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="diretoria.php">Diretoria</a>
@@ -120,9 +118,9 @@
 
                             Associação</a>
                         <div class="dropdown-menu">
+                            <a class="text-primary dropdown-item display-4" id="submenu" href="associar.php" aria-expanded="false">Associe-se</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="ecossistema.php" aria-expanded="false">Ecossistema AFRAC</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="beneficios.php" aria-expanded="false">Benefícios</a>
-                            <a class="text-primary dropdown-item display-4" id="submenu" href="index.php" aria-expanded="false">Associe-se</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="associados.php" aria-expanded="false">Associados</a>
                         </div>
                     </li>
@@ -143,7 +141,7 @@
                     </li>
                 </ul>
                 <div class="navbar-buttons mbr-section-btn">
-                    <a class="btn btn-sm btn-success-outline display-3" href="index.php">Associe-se</a>
+                    <a class="btn btn-sm btn-success-outline display-3" href="associar.php">Associe-se</a>
                     <a class="btn btn-sm display-3" style="background-color: #209ad5 !important; color:white" href="index.php#form3-1x">
                         <span class="socicon mbr-iconfont mbr-iconfont-btn"></span>Newsletter</a>
                 </div>

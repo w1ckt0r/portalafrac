@@ -1,4 +1,9 @@
 <?php
+// Exibe todos os erros PHP (see changelog)
+// error_reporting(E_ALL);
+
+// echo "init";
+
 require_once 'classes/class.autoloader.php';
 session_start();
 
@@ -20,7 +25,9 @@ for($i = 1; $i < $self_path_length; $i++){
 	}
 }
 
-$us_url_root = $us_url_root.'/admin/';
+// echo $us_url_root;
+ $us_url_root = $us_url_root."/admin/";
+// die();
 
 require_once $abs_us_root.$us_url_root.'users/helpers/helpers.php';
 
@@ -97,3 +104,7 @@ if($user->isLoggedIn()){
 }
 $timezone_string = 'America/Sao_Paulo';
 date_default_timezone_set($timezone_string);
+
+
+
+
