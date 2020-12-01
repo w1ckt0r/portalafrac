@@ -20,11 +20,13 @@
 
 
 
-    <figure class="mbr-figure align-center">
+    <figure class="mbr-figure align-center" style="padding: 0% !important;">
         <div class="video-block" style="width: 100%;">
             <div><iframe class="mbr-embedded-video" src="https://www.youtube.com/embed/2xDBfEte79A?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0" width="1280" height="720" frameborder="0" allowfullscreen></iframe></div>
         </div>
     </figure>
+
+
 </section>
 
 <section class="timeline2 cid-s8C16i90OO" id="timeline2-13">

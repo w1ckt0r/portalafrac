@@ -18,10 +18,7 @@
     </div>
 </section>
 
-<section class="engine">
-    <a href="https://mobirise.info/j">website templates</a>
-</section>
-<section class="features3 cid-s8Hb30IPX6" id="features3-1f" style="padding-top: 1% !important;">
+<section class="features3 cid-s8Hb30IPX6" id="features3-1f" style="padding:1% 20% !important;">
 
     <div class="container" style="padding:0 0 5% 5% ;">
         <div class="media-container-row">
