@@ -1,8 +1,8 @@
 <?php
 
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
 
 require_once dirname(__FILE__) . "/admin/users/init.php";
 // require("admin/users/init.php");
@@ -10,7 +10,7 @@ require("header.php");
 $db = DB::getInstance();
 
 // echo "get";;;
-$conteudo = $db->query("select * from conteudos order by id desc ")->results();
+$conteudo = $db->query("select * from conteudos where type = 1 order by id desc ")->results();
 // dump( $conteudo );
 
 ?>
@@ -61,7 +61,7 @@ $conteudo = $db->query("select * from conteudos order by id desc ")->results();
 
 
 
-<section class="features3 cid-s8Hb30IPX6" id="features3-1fgg" style="padding:2% 2% 0 2%; background-color:#ececec">
+<section class="features3 cid-s8Hb30IPX6" id="features3-1fgg" style="padding: 2% 10% 0 10%;background-color:#ececec;">
 
     <!-- <div class="row">
         <div class="col-7"></div>

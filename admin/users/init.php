@@ -26,17 +26,21 @@ for($i = 1; $i < $self_path_length; $i++){
 }
 
 // echo $us_url_root;
- $us_url_root = $us_url_root."/admin/";
+ $us_url_root = $us_url_root."admin/";
 // die();
 
 require_once $abs_us_root.$us_url_root.'users/helpers/helpers.php';
 
 // if($_SERVER['REMOTE_ADDR'] == '::1'){
 
-	$host = 'pupill.us';
-	$userdb = 'pupill_portalafrac';
-	$db = 'pupill_portalafrac';
-	$pass = 'portalafrac';
+	$host = '187.45.196.136';
+	$userdb = 'portalafrac';
+	$db = 'portalafrac';
+	$pass = 'AFRAC@2021#';
+	// $host = 'pupill.us';
+	// $userdb = 'pupill_portalafrac';
+	// $db = 'pupill_portalafrac';
+	// $pass = 'portalafrac';
 	// $linkApi = 'https://api.tlv.ag/api/apptlv/';
 
 // }else{

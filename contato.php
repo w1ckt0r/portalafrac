@@ -1,7 +1,12 @@
 <?php require("header.php"); ?>
 
 
-<section class="engine"><a href="https://mobirise.info/g">how to build your own site</a></section>
+<section class="engine">
+    
+<!-- <a href="https://mobirise.info/g">how to build your own site</a> -->
+
+
+</section>
 
 <section class="header1 cid-s8HaGIkBjh" id="header16-1j" style="background-color: #04112b;">
 
