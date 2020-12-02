@@ -17,6 +17,68 @@ require("header.php");
         </div>
     </div>
 </section>
+<br>
+<br>
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <div class="mbr-section-text">
+                <h2 class=" card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 15pt">
+                    Benefícios ao se associar a AFRAC
+                </h2>
+
+                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt ">
+
+                    Aproximação e networking com os <br>provedores de automação para o comércio
+                </p>
+                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt ">
+                Grupos Técnicos de Trabalho
+
+                </p>
+
+                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt ">
+                Assessoria Jurídica
+
+                </p>
+
+                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt ">
+                Defesa de interesses do setor junto <br>aos órgãos e entidades governamentais
+
+                </p>
+
+                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt ">
+                
+Descontos de até 50% em cursos, palestras e <br>eventos – além de descontos exclusivos na AUTOCOM
+
+                </p>
+
+                <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt ">
+                
+Salas de reuniões disponíveis para uso do associado
+                </p>
+
+
+            </div>
+        </div>
+
+        <div class="col-6">
+            <!--Sidebar content-->
+            <div role="main" id="associe-se-c3e198eaac8324bd1ef0"></div>
+            <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
+            <script type="text/javascript">
+                new RDStationForms('associe-se-c3e198eaac8324bd1ef0', 'UA-39613359-2').createForm();
+            </script>
+
+        </div>
+    </div>
+</div>
+
+<br>
+
+
+
+
 
 <section>
 
@@ -74,6 +136,7 @@ require("header.php");
             </div>
         </div>
     </section>
+
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
@@ -98,6 +161,7 @@ require("header.php");
             </div>
         </div>
     </section>
+
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
@@ -124,6 +188,7 @@ require("header.php");
             </div>
         </div>
     </section>
+
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
@@ -149,6 +214,7 @@ require("header.php");
             </div>
         </div>
     </section>
+
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
@@ -174,6 +240,7 @@ require("header.php");
             </div>
         </div>
     </section>
+
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
@@ -201,6 +268,7 @@ require("header.php");
             </div>
         </div>
     </section>
+
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
@@ -216,7 +284,7 @@ require("header.php");
                                     Parceria Tributarie
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
-                                    Parceria que proporciona condições especiais as empresas associadas e que busca dar o suporte adequado para o 
+                                    Parceria que proporciona condições especiais as empresas associadas e que busca dar o suporte adequado para o
                                     planejamento tributário além de análise assertiva sobre a viabilidade de recuperação de impostos </p>
                             </div>
                         </div>
@@ -226,6 +294,7 @@ require("header.php");
             </div>
         </div>
     </section>
+
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding: 2%">
 
         <div class="container">
@@ -236,11 +305,11 @@ require("header.php");
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
-                                Salas de reuniões disponíveis para uso do associado 
+                                    Salas de reuniões disponíveis para uso do associado
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right;font-size: 12pt">
-                                A AFRAC oferece em sua estrutura física uma sala de reuniões que pode ser utilizada por seus associados mediante agendamento prévio (Prezando pela saúde e segurança dos associados, suspendemos esse recurso por período indeterminado, devido ao atual cenário causado pela pandemia).
-                             </p>
+                                    A AFRAC oferece em sua estrutura física uma sala de reuniões que pode ser utilizada por seus associados mediante agendamento prévio (Prezando pela saúde e segurança dos associados, suspendemos esse recurso por período indeterminado, devido ao atual cenário causado pela pandemia).
+                                </p>
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
@@ -252,24 +321,12 @@ require("header.php");
         </div>
 
 
-</section>
-
-
-<section class="features3 cid-s8Hb30IPX6" id="features3-1f" style="padding: 2% 6%;">
-    <div class="container">
-        <div class="media-container-row">
-            <br>
-
-            <div role="main" id="associe-se-c3e198eaac8324bd1ef0"></div>
-<script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
-<script type="text/javascript"> new RDStationForms('associe-se-c3e198eaac8324bd1ef0', 'UA-39613359-2').createForm();</script>
-
-        </div>
-    </div>
-
-</section>
+    </section>
 
 
 
 
-<?php require("footer.php"); ?>
+
+
+
+    <?php require("footer.php"); ?>

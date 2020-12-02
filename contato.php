@@ -28,32 +28,7 @@
 
 </section>
 
-<section class="contacts4 cid-s8Hp1IxDJA" id="contacts4-1p">
 
-
-
-    <div class="main_wrapper">
-        <div class="b_wrapper">
-            <div class="container">
-                <div class="row">
-                    <div class="col-12 col-md-5 p-0">
-                        <div class="block p-5">
-                            <div class="block_wrapper">
-                                <h4 class="align-left mbr-fonts-style pb-4 m-0 display-5">Onde Estamos</h4>
-                                <p class="mbr-text align-left mbr-fonts-style pb-4 m-0 display-7">R. Profº. Aprígio Gonzaga, 35 – 6º andar / sala 64
-                                    <br>04303-000 – São Judas, São Paulo / SP<br></p>
-                                <p class="mbr-text align-left mbr-fonts-style m-0 display-7">Telefones de Contato: <br>11 3284-7080
-                                    <br>11 96626-5531<br><br>Email: relacionamento@afrac.org.br<br></p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--Map-->
-        <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAEIpgj38KyLFELm2bK9Y7krBkz1K-cMq8&amp;q=place_id:ChIJT5TboFdazpQRTSetijALDjQ" allowfullscreen=""></iframe></div>
-    </div>
-</section>
 
 <section class="mbr-section form1 cid-s8HoYnk47z" id="form1-1n">
 
@@ -72,7 +47,7 @@
         <div class="row justify-content-center">
             <div class="media-container-column col-lg-8" data-form-type="formoid">
                 <!---Formbuilder Form--->
-                <form action="https://mobirise.com/" method="POST" class="mbr-form form-with-styler" data-form-title="Mobirise Form"><input type="hidden" name="email" data-form-email="true" value="xQ5Xyu9QstMlgoiNwRItREmWKdxGXacst+Y0LzlnLbYYM9Ffj/CtxuLKSZR/E7X5g7afT3RcX+x2hDH+ZOHSajq3leQ9k8Hcidy5Kbi33YNmgCmDivQDl15YScAsLAYX">
+                <form action="" method="POST" class="mbr-form form-with-styler" data-form-title=""><input type="hidden" name="email" data-form-email="true" value="xQ5Xyu9QstMlgoiNwRItREmWKdxGXacst+Y0LzlnLbYYM9Ffj/CtxuLKSZR/E7X5g7afT3RcX+x2hDH+ZOHSajq3leQ9k8Hcidy5Kbi33YNmgCmDivQDl15YScAsLAYX">
                     <div class="row">
                         <div hidden="hidden" data-form-alert="" class="alert alert-success col-12">Thanks for filling out the form!</div>
                         <div hidden="hidden" data-form-alert-danger="" class="alert alert-danger col-12">
@@ -103,5 +78,37 @@
         </div>
     </div>
 </section>
+
+
+
+
+<section class="contacts4 cid-s8Hp1IxDJA" id="contacts4-1p">
+
+
+
+    <div class="main_wrapper">
+        <div class="b_wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 col-md-5 p-0">
+                        <div class="block p-5">
+                            <div class="block_wrapper">
+                                <h4 class="align-left mbr-fonts-style pb-4 m-0 display-5">Onde Estamos</h4>
+                                <p class="mbr-text align-left mbr-fonts-style pb-4 m-0 display-7">R. Profº. Aprígio Gonzaga, 35 – 6º andar / sala 64
+                                    <br>04303-000 – São Judas, São Paulo / SP<br></p>
+                                <p class="mbr-text align-left mbr-fonts-style m-0 display-7">Telefones de Contato: <br>11 3284-7080
+                                    <br>11 96626-5531<br><br>Email: relacionamento@afrac.org.br<br></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--Map-->
+        <div class="google-map"><iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAEIpgj38KyLFELm2bK9Y7krBkz1K-cMq8&amp;q=place_id:ChIJT5TboFdazpQRTSetijALDjQ" allowfullscreen=""></iframe></div>
+    </div>
+</section>
+
+
 
 <?php  require("footer.php"); ?>

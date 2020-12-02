@@ -1,4 +1,26 @@
-<?php require("header.php"); ?>
+<?php 
+
+// require("header.php"); 
+
+
+// ini_set('display_errors', 1);
+// ini_set('display_startup_errors', 1);
+// error_reporting(E_ALL);
+
+require_once dirname(__FILE__) . "/admin/users/init.php";
+// require("admin/users/init.php");
+require("header.php");
+$db = DB::getInstance();
+
+// echo "get";;;
+$conteudoVitrine = $db->query("select * from conteudos where type = 2 order by id desc limit 5 ;")->results();
+$conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id desc limit 5 ;")->results();
+// dump( $conteudo );
+
+
+
+
+?>
 
 
 <!-- <section class="engine"> <a href="#">portfolio site templates</a></section> -->
@@ -282,49 +304,71 @@
         </center>
 
         <div class="media-container-row pt-5 ">
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper ">
-                    <div class="card-img">
-                        <div class="mbr-overlay"></div>
 
-                        <a href="https://blogafrac.org/2020/09/15/minas-gerais-altera-legislacao-da-nfc-e/"><img src="assets/images/imagem-blog-676x522.jpg" alt="AFRAC" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Minas Gerais altera legislação da NFC-e
-                        </p>
-                        <p class="mbr-text mbr-fonts-style align-left display-7">
-                            No último dia 11 de setembro o Estado de Minas Gerais alterou, através do Decreto nº 48.037/2020...<br><br>Saiba mais</p>
+
+
+                <div class="card p-3 col-12 col-md-4 col-sm-12">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="admin/upload/<?= $conteudoBlog[0]->img ?>" style="width: 85%;">
+                        </div>
+                        <div class="card-box">
+                            <a href="blog-full-content.php?id=<?= $conteudoBlog[0]->id ?>">
+                                <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                    <?php echo $conteudoBlog[0]->title; ?>
+                                </p>
+                            </a>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                <?php echo substr(strip_tags($conteudoBlog[0]->content), 0, 300); ?>
+
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <div class="mbr-overlay"></div>
 
-                        <a href="https://blogafrac.org/2020/09/11/por-que-os-varejistas-devem-investir-em-gestao-de-carteiras-digitais/"><img src="assets/images/imagem-blog-676x522.jpg" alt="AFRAC" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Por que os varejistas devem investir em gestão de carteiras digitais?</p>
-                        <p class="mbr-text mbr-fonts-style display-7">O crescimento da adesão a pagamentos digitais é algo já esperado e um movimento natural para...<br><br>Saiba mais</p>
+
+
+
+                <div class="card p-3 col-12 col-md-4 col-sm-12">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="admin/upload/<?= $conteudoBlog[1]->img ?>" style="width: 85%;">
+                        </div>
+                        <div class="card-box">
+                            <a href="blog-full-content.php?id=<?= $conteudoBlog[1]->id ?>">
+                                <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                    <?php echo $conteudoBlog[1]->title; ?>
+                                </p>
+                            </a>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                <?php echo substr(strip_tags($conteudoBlog[1]->content), 0, 300); ?>
+
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <div class="mbr-overlay"></div>
+    
+                <div class="card p-3 col-12 col-md-4 col-sm-12">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="admin/upload/<?= $conteudoBlog[2]->img ?>" style="width: 85%;">
+                        </div>
+                        <div class="card-box">
+                            <a href="blog-full-content.php?id=<?= $conteudoBlog[2]->id ?>">
+                                <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                    <?php echo $conteudoBlog[2]->title; ?>
+                                </p>
+                            </a>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                <?php echo substr(strip_tags($conteudoBlog[2]->content), 0, 300); ?>
 
-                        <a href="https://www.youtube.com/watch?v=aA1VJtEVgr8"><img src="https://img.youtube.com/vi/aA1VJtEVgr8/0.jpg" alt="AFRAC" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">PIX: Ações de Comunicação e Uso da Marca.
-                        </p>
-                        <p class="mbr-text mbr-fonts-style display-7">Conforme regramento previsto no corpo do Regulamento e no Manual de Uso da Marca, que o compõe, e reforçado nas reuniões...<br><br>Saiba mais</p>
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
+
+ 
 
         </div>
     </div>
@@ -342,16 +386,17 @@
             </div>
 
             <div class="mbr-figure pt-5">
-                <a href="vitrine-mercado.php"><img src="assets/images/banners/titulo_banner_mercado.png" alt="AFRAC" title="" style="width: 100%; height:auto ;"></a>
+                <a href="vitrine.php"><img src="assets/images/banners/titulo_banner_mercado.png" alt="AFRAC" title="" style="width: 100%; height:auto ;"></a>
 
             </div>
             <div class="mbr-section-btn align-center">
-                <a class="btn btn-md btn-primary display-4" href="vitrine-mercado.php" style="margin-bottom: 10% ;">FIQUE POR DENTRO</a>
+                <a class="btn btn-md btn-primary display-4" href="vitrine.php" style="margin-bottom: 10% ;">FIQUE POR DENTRO</a>
             </div>
 
         </div>
     </div>
 </section>
+
 <section class="features18 popup-btn-cards cid-s7nr3ReWga" id="features18-t">
 
     <div class="container">
@@ -365,53 +410,81 @@
             </h4>
         </center>
 
+
+
+
         <div class="media-container-row pt-5 ">
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper ">
-                    <div class="card-img">
-                        <div class="mbr-overlay"></div>
 
-                        <a href="https://blogafrac.org/2020/09/15/minas-gerais-altera-legislacao-da-nfc-e/"><img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">“O que é a Shipay?” Saiba mais!
-                        </p>
-                        <p class="mbr-text mbr-fonts-style align-left display-7">
-                            No último dia 11 de setembro o Estado de Minas Gerais alterou, através do Decreto nº 48.037/2020...<br><br>Saiba mais</p>
+
+                <div class="card p-3 col-12 col-md-4 col-sm-12">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="admin/upload/<?= $conteudoVitrine[0]->img ?>" style="width: 85%;">
+                        </div>
+                        <div class="card-box">
+                            <a href="blog-full-content.php?id=<?= $conteudoVitrine[0]->id ?>">
+                                <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                    <?php echo $conteudoVitrine[0]->title; ?>
+                                </p>
+                            </a>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                <?php echo substr(strip_tags($conteudoVitrine[0]->content), 0, 300); ?>
+
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <div class="mbr-overlay"></div>
 
-                        <a href="https://blogafrac.org/2020/09/11/por-que-os-varejistas-devem-investir-em-gestao-de-carteiras-digitais/"><img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Participe do Papo Linx com a participação da Dir. do Jurídico AFRAC, Dra. Lucia Correia.</p>
-                        <p class="mbr-text mbr-fonts-style display-7">O crescimento da adesão a pagamentos digitais é algo já esperado e um movimento natural para...<br><br>Saiba mais</p>
+
+
+
+                <div class="card p-3 col-12 col-md-4 col-sm-12">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="admin/upload/<?= $conteudoVitrine[1]->img ?>" style="width: 85%;">
+                        </div>
+                        <div class="card-box">
+                            <a href="blog-full-content.php?id=<?= $conteudoVitrine[1]->id ?>">
+                                <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                    <?php echo $conteudoVitrine[1]->title; ?>
+                                </p>
+                            </a>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                <?php echo substr(strip_tags($conteudoVitrine[1]->content), 0, 300); ?>
+
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="card p-3 col-12 col-md-6 col-lg-4">
-                <div class="card-wrapper">
-                    <div class="card-img">
-                        <div class="mbr-overlay"></div>
+    
+                <div class="card p-3 col-12 col-md-4 col-sm-12">
+                    <div class="card-wrapper">
+                        <div class="card-img">
+                            <img src="admin/upload/<?= $conteudoVitrine[2]->img ?>" style="width: 85%;">
+                        </div>
+                        <div class="card-box">
+                            <a href="blog-full-content.php?id=<?= $conteudoVitrine[2]->id ?>">
+                                <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                    <?php echo $conteudoVitrine[2]->title; ?>
+                                </p>
+                            </a>
+                            <p class="mbr-text mbr-fonts-style display-7">
+                                <?php echo substr(strip_tags($conteudoVitrine[2]->content), 0, 300); ?>
 
-                        <a href="https://www.youtube.com/watch?v=aA1VJtEVgr8"><img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title=""></a>
-                    </div>
-                    <div class="card-box">
-                        <p class="card-title mbr-fonts-style mbr-bold display-6" style="font-size: 17px;">Acompanhe a live “As fraudes contábeis e a moral tributária” realizada pelo ENCAT
-                        </p>
-                        <p class="mbr-text mbr-fonts-style display-7">Conforme regramento previsto no corpo do Regulamento e no Manual de Uso da Marca, que o compõe, e reforçado nas reuniões...<br><br>Saiba mais</p>
+                            </p>
+                        </div>
                     </div>
                 </div>
-            </div>
+
+   
+
+
 
         </div>
-    </div>
+
+
+
 </section>
 
 <!-- DESTAQUES -->

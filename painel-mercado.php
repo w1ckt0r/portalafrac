@@ -1,7 +1,7 @@
 <?php require("header.php"); ?>
 
 
-<section class="engine"><a href="https://mobirise.info/g">how to build your own site</a></section>
+
 <section class="header1 cid-s8HaGIkBjh" id="header16-1e" style="background-color: #04112b;">
 
 
@@ -39,7 +39,7 @@
                         </div>
                     </div>
                     <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                        <img src="assets/images/beneficios/3-beneficios.png" alt="Mobirise">
+                        <img src="assets/images/painel_imagem_topo.png" alt="Mobirise">
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/painel/1_empresometro.jpg" alt="Mobirise" title="">
+                        <img src="assets/images/painel/mercado_empresometro.png" alt="Mobirise" title="">
                         <img src="assets/images/painel/logo_1.jpg" alt="">
                     </div>
                     <div class="card-box">
@@ -74,7 +74,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/painel/2_datasebrae.jpg" alt="Mobirise" title="">
+                        <img src="assets/images/painel/mercado_data.png" alt="Data Sebrae" title="">
                         <img src="assets/images/painel/logo_2.jpg" alt="">
                     </div>
                     <div class="card-box">
@@ -91,7 +91,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/painel/3_nfce.jpg" alt="">
+                        <img src="assets/images/painel/mercado_nfce.png" alt="">
                         <img src="assets/images/painel/logo_3.jpg" alt="">
                     </div>
                     <div class="card-box">
@@ -120,7 +120,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/painel/4_relatorio.jpg" alt="">
+                        <img src="assets/images/painel/mercado_bancocentral.png" alt="">
                         <img src="assets/images/painel/logo_4.jpg" alt="">
 
                     </div>
@@ -138,7 +138,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/painel/5_painelmonitora.jpg" alt="">
+                        <img src="assets/images/painel/mercado_nfce_ultimo.png" alt="">
                         <img src="assets/images/painel/logo_5.jpg" alt="">
                     </div>
                     <div class="card-box">
