@@ -131,7 +131,7 @@
                         </p>
                     </div>
                     <div class="mbr-section-btn text-center"><a href="https://www.bcb.gov.br/content/focus/focus/R20200911.pdf  " class="btn btn-primary display-4">
-                            Acesse agora</a></div>
+                            Faça o download</a></div>
                 </div>
             </div>
 
