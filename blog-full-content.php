@@ -19,33 +19,37 @@ if (!empty($_GET["id"])) {
 
 <!-- <section class="engine"> <a href="#">portfolio site templates</a></section> -->
 
+<!-- style=" background-color: #ececec;  " -->
 
 
-<nav class="navbar  navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;padding-bottom:0% ">
+<nav class="navbar  navbar-expand-sm " 
+style="background-color: #ffffff !important;padding-bottom:0% ">
     <!-- <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
         <span class="navbar-toggler-icon"></span>
     </button> -->
     <div class="collapse navbar-collapse navbars" id="collapse_target1">
-        <ul class="navbar-nav mx-auto">
-            <li class="nav-item-second" style=" background-color: #ececec; border-radius:20px 20px 0 0">
+        <ul class="navbar-nav mx-auto" style="height: 40px;">
+            <li class="nav-item-second" >
                 <a class="nav-link" href="blog.php" id="menu-blog">
-                    <p class="mbr-fonts-style  display-6" style="color: #04112b;"> Blog AFRAC</p>
+                    <p class="mbr-fonts-style mbr-bold display-4" style="color: #04112b;"> #BLOG AFRAC</p>
                 </a>
             </li>
             <li class="nav-item-second">
                 <a class="nav-link" href="vitrine.php" id="menu-blog">
-                    <p class="mbr-fonts-style display-6" style="color: white;"> Vitrine de Mercado</p>
+                    <p class="mbr-fonts-style mbr-bold display-4" style="color: #04112b;"> #VITRINE DE MERCADO</p>
                 </a>
             </li>
-            <li class="nav-item-second">
+            <li class="nav-item-second"  >
                 <a class="nav-link" href="meios-pagamento.php" id="menu-blog">
-                    <p class="mbr-fonts-style display-6" style="color: white;"> Meios de Pagamento</p>
+                    <p class="mbr-fonts-style mbr-bold display-4" style="color: #04112b"> #MEIOS DE PAGAMENTO</p>
                 </a>
             </li>
 
         </ul>
     </div>
 </nav>
+
+
 
 
 
@@ -111,9 +115,9 @@ if (!empty($_GET["id"])) {
     $db->query("update conteudos set views = ".$views." where id=".$id_conteudo);
 ?>
 
-
+<!-- 
 <div role="main" id="formulario-contato-c6442a9dd424ecd84363"></div>
 <script type="text/javascript" src="https://d335luupugsy2.cloudfront.net/js/rdstation-forms/stable/rdstation-forms.min.js"></script>
-<script type="text/javascript"> new RDStationForms('formulario-contato-c6442a9dd424ecd84363', 'UA-39613359-2').createForm();</script>
+<script type="text/javascript"> new RDStationForms('formulario-contato-c6442a9dd424ecd84363', 'UA-39613359-2').createForm();</script> -->
 
 <?php require("footer.php"); ?>

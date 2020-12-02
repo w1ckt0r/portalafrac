@@ -17,7 +17,7 @@ $conteudo = $db->query("select * from conteudos where type = 3 order by id desc 
 
 <!-- <section class="engine"> <a href="#">portfolio site templates</a></section> -->
 
-<section class="mbr-section content4 cid-s8HaGIkBjh" id="content4-1w" style="background-color: #04112b;">
+<!-- <section class="mbr-section content4 cid-s8HaGIkBjh" id="content4-1w" style="background-color: #04112b;">
 
     <div class="container">
         <div class="media-container-row">
@@ -30,34 +30,34 @@ $conteudo = $db->query("select * from conteudos where type = 3 order by id desc 
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<nav class="navbar  navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;padding-bottom:0% ">
+<nav class="navbar  navbar-expand-sm " 
+style="background-color: #ffffff !important;padding-bottom:0% ">
     <!-- <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
         <span class="navbar-toggler-icon"></span>
     </button> -->
     <div class="collapse navbar-collapse navbars" id="collapse_target1">
-        <ul class="navbar-nav mx-auto">
+        <ul class="navbar-nav mx-auto" style="height: 40px;">
             <li class="nav-item-second" >
                 <a class="nav-link" href="blog.php" id="menu-blog">
-                    <p class="mbr-fonts-style  display-6" style="color: white;" > Blog AFRAC</p>
+                    <p class="mbr-fonts-style mbr-bold display-4" style="color: #04112b;"> BLOG AFRAC</p>
                 </a>
             </li>
-            <li class="nav-item-second" >
+            <li class="nav-item-second">
                 <a class="nav-link" href="vitrine.php" id="menu-blog">
-                    <p class="mbr-fonts-style display-6" style="color: white;" > Vitrine de Mercado</p>
+                    <p class="mbr-fonts-style mbr-bold display-4" style="color: #04112b;"> VITRINE DE MERCADO</p>
                 </a>
             </li>
-            <li class="nav-item-second" style=" background-color: #ececec; border-radius:20px 20px 0 0" >
+            <li class="nav-item-second" style=" background-color: #ececec;  " >
                 <a class="nav-link" href="meios-pagamento.php" id="menu-blog">
-                    <p class="mbr-fonts-style display-6" style="color: #04112b;"> Meios de Pagamento</p>
+                    <p class="mbr-fonts-style mbr-bold display-4" style="color: #04112b"> MEIOS DE PAGAMENTO</p>
                 </a>
             </li>
 
         </ul>
     </div>
 </nav>
-
 
 
 
