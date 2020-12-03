@@ -35,6 +35,38 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
             </ol>
 
             <div class="carousel-inner" role="listbox">
+
+
+            <div class="carousel-item slider-fullscreen-image " 
+            data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_08.jpg);">
+                    <div class="container container-slide">
+                        <div class="image_wrapper">
+                            <img class="img-banner" src="assets/images/banners/banner_08.jpg" alt="" title="">
+                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
+                                <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                        <img src="assets/images/banners/logo_banner_08.png" alt="">
+                                    </div>
+                                    <div class="col-10 text-logo">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
+                                            <strong>
+                                               UM NOVO VISUAL
+                                            </strong>
+                                        </h2>
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
+                                            Para receber o futuro!
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
                 <div class="carousel-item slider-fullscreen-image active" data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_01.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
@@ -236,30 +268,9 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_08.jpg);">
-                    <div class="container container-slide">
-                        <div class="image_wrapper">
-                            <img class="img-banner" src="assets/images/banners/banner_08.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
-                                <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
-                                        <img src="assets/images/banners/logo_banner_08.png" alt="">
-                                    </div>
-                                    <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
-                                            <strong>
-                                                Um novo visual
-                                            </strong>
-                                        </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
-                                            Para receber o futuro!
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
+
+
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="https://www.youtube.com/watch?v=2xDBfEte79A&amp;feature=emb_logo">
                     <div class="container container-slide">
                         <div class="image_wrapper">
