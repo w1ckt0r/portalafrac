@@ -177,29 +177,25 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                         </div>
                     </div>
                 </div>
-                <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_05.jpg);">
+                <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_15.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
-                            <img class="img-banner" src="assets/images/banners/banner_05.jpg" alt="" title="">
+                            <img class="img-banner" src="assets/images/banners/banner_15.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 10%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
                                     <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
-                                        <img src="assets/images/banners/logo_banner_05.png" alt="">
+                                        <img src="assets/images/banners/png-podcast.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
                                         <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
-                                                AFRAC ganha liminar
-                                                <br>
-                                                no estado da Paraíba
+                                              <br>
+                                              
                                             </strong>
                                         </h2>
                                         <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
-                                            Contra a cobrança do ICMS sobre software.
-                                            <br>
-                                            Clique e confira mais esta conquista
-                                            <br>
-                                            da AFRAC para os associados!
+                                  
+                                        
                                         </p>
                                     </div>
                                 </div>

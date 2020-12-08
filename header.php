@@ -47,7 +47,7 @@
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="https://www.nrfgvcev.com.br/">
+                        <a class="nav-link" href="https://nrfbigshow.nrf.com/">
                             <img src="assets/images/nrf.png" alt="">
                         </a>
                     </li>
