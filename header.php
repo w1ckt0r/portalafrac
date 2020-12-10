@@ -47,7 +47,8 @@
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="https://nrfbigshow.nrf.com/">
+                        <!-- <a class="nav-link" href="https://nrfbigshow.nrf.com/"> -->
+                        <a class="nav-link" href="https://ofertas.afrac.com.br/nrf2021-delegacao-afrac">
                             <img src="assets/images/nrf.png" alt="">
                         </a>
                     </li>
@@ -108,7 +109,7 @@
                         <a class="nav-link link dropdown-toggle text-primary display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">AFRAC</a>
                         <div class="dropdown-menu">
                             <a class="dropdown-item text-primary display-4" id="submenu" href="historia.php">História</a>
-                            <a class="dropdown-item text-primary display-4" id="submenu" href="diretoria.php">Diretoria</a>
+                            <a class="dropdown-item text-primary display-4" id="submenu" href="diretoria.php">Diretoria & Equipe Executiva</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="parceiros.php">Parcerias</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="estatuto.php">Estatuto Social</a>
                             <a class="dropdown-item text-primary display-4" id="submenu" href="codigo-etica.php">Código de Etica</a>

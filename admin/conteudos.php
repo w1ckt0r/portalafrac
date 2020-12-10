@@ -1,11 +1,14 @@
 <?php
 require_once 'users/init.php';
+// echo $_SERVER['PHP_SELF'];
+// die();
 if (!securePage($_SERVER['PHP_SELF'])) {
   die();
 }
 $hooks =  getMyHooks();
 includeHook($hooks, 'pre');
 require_once 'header.php';
+
 ?>
 
 <!-- End Navbar -->
@@ -34,9 +37,19 @@ require_once 'header.php';
                 <tbody>
                   <?php
                   $db = DB::getInstance();
-                  $files = $db->query("select * from conteudos where user_id = " . $user->data()->id .
-                   " order by id desc ")->results();
-                  foreach ($files as $file) {
+                  $files = $db->query("select * from conteudos  
+                  
+                    order by id desc ")->results();
+                  
+                  
+                  // $files = $db->query("select * from conteudos where 
+                  // user_id = " . $user->data()->id .
+                  //  " order by id desc ")->results();
+                  
+                  
+                  
+                  
+                   foreach ($files as $file) {
                   ?>
                     <tr>
                       <td><?= $file->title ?></td>

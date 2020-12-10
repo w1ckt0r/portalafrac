@@ -97,7 +97,10 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                     </div>
                 </div>
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_02.jpg);">
-                    <div class="container container-slide">
+                    
+                <a href="https://ofertas.afrac.com.br/nrf2021-delegacao-afrac" target="_blank">
+                
+                <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
@@ -124,7 +127,14 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                             </div>
                         </div>
                     </div>
+
+
                 </div>
+                
+                </a>
+                
+                
+                
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_03.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">

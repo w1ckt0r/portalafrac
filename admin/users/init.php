@@ -26,7 +26,7 @@ for($i = 1; $i < $self_path_length; $i++){
 }
 
 // echo $us_url_root;
- $us_url_root = $us_url_root."/admin/";
+ $us_url_root = $us_url_root."admin/";
 // die();
 
 require_once $abs_us_root.$us_url_root.'users/helpers/helpers.php';
