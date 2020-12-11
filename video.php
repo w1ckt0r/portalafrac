@@ -10,7 +10,7 @@ require("header.php");
 $db = DB::getInstance();
 
 // echo "get";;;
-$conteudo = $db->query("select * from conteudos where type = 1 order by id desc ")->results();
+$conteudo = $db->query("select * from conteudos where type = 5 order by id desc ")->results();
 // dump( $conteudo );
 
 ?>
