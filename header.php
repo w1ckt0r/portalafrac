@@ -58,7 +58,7 @@
                         </a>
                     </li>
                     <li class="nav-item-second">
-                        <a class="nav-link" href="calendario.php">
+                        <a class="nav-link" href="calendario.pdf">
                             <img src="assets/images/agenda.png" alt="">
                         </a>
                     </li>
