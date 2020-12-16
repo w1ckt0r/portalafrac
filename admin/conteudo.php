@@ -203,13 +203,34 @@ if ($boolUpdate) {
 
 
 
-                  <script src='https://cloud.tinymce.com/stable/tinymce.min.js'></script>
+                  <script src="https://cdn.tiny.cloud/1/10xgljhwom4gm432jd47x72gs5ollhix75ahro5cjak0vfnf/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
                   <script>
-                    tinymce.init({
-                      selector: '#area2', // change this value according to your HTML
-                      plugins: 'code'
+
+
+
+tinymce.init({
+  selector: '#area2',
+  height: 500,
+  menubar: false,
+  plugins: [
+    'image imagetools advlist autolink lists link image charmap print preview anchor',
+    'searchreplace visualblocks code fullscreen',
+    'insertdatetime media table paste code help wordcount'
+  ],
+  toolbar: 'image imagetools undo redo | formatselect | ' +
+  'bold italic backcolor | alignleft aligncenter ' +
+  'alignright alignjustify | bullist numlist outdent indent | ' +
+  'removeformat | help',
+  content_style: 'body { font-family:Helvetica,Arial,sans-serif; font-size:14px }'
+});
+
+
+                    // tinymce.init({
+                    //   selector: '#area2', // change this value according to your HTML
+                    //   plugins: 'code image imagetools',
+                    //   toolbar: 'image'
                     
-                    });
+                    // });
                   </script>
 
                   <!-- <script src="http://js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>

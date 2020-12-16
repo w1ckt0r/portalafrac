@@ -1,7 +1,15 @@
-<?php require("header.php"); ?>
+<?php
+require_once dirname(__FILE__) . "/admin/users/init.php";
+require("header.php");
+
+$db = DB::getInstance();
+// echo "get";;;
+$associados = $db->query("select * from associados order by nome asc ")->results();
+//  dump( $associados );
 
 
 
+?>
 
 <section class="features2 cid-s8HaGIkBjh" id="features2-3" style="padding-bottom: 0; background-color: #04112b;">
 
@@ -14,14 +22,7 @@
         </div>
     </div>
 </section>
-
-
-
-
-
-
-
-
+<!-- 
 <div class="container" style="padding: 3%;">
     <div class="row row-select" style="padding-left: 10%;">
         <select id="buscar-class">
@@ -46,65 +47,89 @@
         <input style="width:0;" type="hidden" id="txtsegmento" value="">
     </div>
 </div>
+ -->
+
+
 
 <section>
     <div class="container">
         <div class="media-container-row">
             <div class="col-12 col-md-10">
+
+
                 <div class="media-container-row" style="justify-content: space-between; padding-top: 2%;">
-                    <div class="media-block" style="width: 20%;">
-                        <div class="mbr-figure">
-                            <img src="assets/images/1A PCI POWER.jpg">
-                        </div>
 
-                    </div>
-                    <div class="step-container" style="padding-right:8%;">
-                        <div class="card separline pb-4">
-                            <div class="step-element d-flex">
-                                <div class="step-wrapper pr-3">
-                                </div>
-                                <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">1A PCI POWER</h4>
-                                    <a href="www.pcipower.com.br">www.pcipower.com.br</a>
-                                    <div class="step-text-content">
-                                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
-                                        <p class="mbr-step-text mbr-fonts-style display-7">Rua João Ambrósio, 156</p>
-                                        <p class="mbr-step-text mbr-fonts-style display-7">Belo Horizonte / MG</p>
-                                    </div>
-                                </div>
+                    <?php
+
+                    $countRow = 0;
+
+                    foreach ($associados as $associado) {
+                        
+                        $countRow++;
+                        $icon = '';
+                        
+                        if ($associado->logotipo != '') {
+                            $icon = 'https://cdn4.iconfinder.com/data/icons/math-symbols-line/48/empty_set_math_algebra-512.png';
+                        } else {
+                            $icon = $associado->logotipo;
+                        }
+                    ?>
+                        <div class="media-block" style="width: 20%;">
+                            <div class="mbr-figure">
+                                <!-- <img src="assets/images/1A PCI POWER.jpg"> -->
+                                <img src='<?=$icon ?>' >
                             </div>
                         </div>
 
-                    </div>
-
-                    <div class="media-block" style="width: 20%;">
-                        <div class="mbr-figure">
-                            <img src="assets/images/4control.jpg">
-                        </div>
-                    </div>
-                    <div class="step-container">
-                        <div class="card separline pb-4">
-                            <div class="step-element d-flex">
-                                <div class="step-wrapper pr-3">
-                                </div>
-                                <div class="step-text-content">
-                                    <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">4CONTROL SYSTEMS</h4>
-                                    <a href="www.pcipower.com.br">www.pcipower.com.br</a>
+                        <div class="step-container" style="padding-right:8%;">
+                            <div class="card separline pb-4">
+                                <div class="step-element d-flex">
+                                    <div class="step-wrapper pr-3">
+                                    </div>
                                     <div class="step-text-content">
-                                        <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: (31) 3492-1140</h4>
-                                        <p class="mbr-step-text mbr-fonts-style display-7">Rua João Ambrósio, 156</p>
-                                        <p class="mbr-step-text mbr-fonts-style display-7">Belo Horizonte / MG</p>
+                                        <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">
+                                            <?= $associado->nome ?>
+                                        </h4>
+                                        <a  href="<?php echo "https://". ltrim($associado->url); ?>" target="_blank" ><?= $associado->url ?></a>
+                                        <div class="step-text-content">
+                                            <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: <?= $associado->telefone ?></h4>
+                                            <p class="mbr-step-text mbr-fonts-style display-7"><?= $associado->endereco ?></p>
+                                            <p class="mbr-step-text mbr-fonts-style display-7"><?= $associado->local ?></p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
+
                         </div>
-                    </div>
+
+
+
+
+                    <?php
+
+                        if (($countRow % 2) == 0) {
+                            echo "      
+                            </div>
+                            <hr style='border-top: 1px solid #1b477c '>
+                            <div class='media-container-row'
+                            style='justify-content: space-between; padding-top: 2%;'> ";
+                        }
+                    }
+                    ?>
+
+
+
+
+
+
                 </div>
-                <hr style="border-top: 1px solid #1b477c ">
             </div>
         </div>
-    </div>
 </section>
+
+
+<!-- 
+
 <section>
     <div class="container">
         <div class="media-container-row">
@@ -214,12 +239,12 @@
                         </div>
                     </div>
                 </div>
-                <!-- <hr style="border-top: 1px solid #1b477c "> -->
+                 <hr style="border-top: 1px solid #1b477c "> 
             </div>
         </div>
     </div>
 </section>
-
+ -->
 
 
 <?php require("footer.php"); ?>

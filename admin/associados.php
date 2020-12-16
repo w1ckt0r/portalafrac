@@ -6,6 +6,9 @@ if (!securePage($_SERVER['PHP_SELF'])) {
 $hooks =  getMyHooks();
 includeHook($hooks, 'pre');
 require_once 'header.php';
+
+
+$db = DB::getInstance();
 ?>
 
 <!-- End Navbar -->
@@ -17,15 +20,90 @@ require_once 'header.php';
           <div class="card-header card-header-info">
             <h4 class="card-title">Associados</h4>
             <p class="card-category">
-            <a href="novo-conteudo.php" class="btn btn-primary btn-sm">Novo</a>
+              <a href="novo-conteudo.php" class="btn btn-primary btn-sm">Novo</a>
             </p>
           </div>
           <div class="card-body">
+            ---------------------------
+
+            <?php
+            // $db = DB::getInstance();
+            // $associados = $db->query("
+            //     SELECT * from associados 
+            //  ")->results();
+
+            // //  dump($associados);
+
+            // foreach ($associados as $assossiado) {
+
+            //   // $metas = $db->query("
+            //   //     SELECT * from wp_postmeta where post_id = " . $assossiado->ID)->results();
+
+            //   // $campos   = "";
+            //   // $valores  = "";
+            //   // // echo "<br>Empresa : {$assossiado->post_title}<br>";
+
+            //   // foreach ($metas as $field) {
+
+            //   //   if (substr($field->meta_key, 0, 1) !== "_") {
+
+            //   //     if (
+            //   //       // ($field->meta_key == 'segmento') ||
+            //   //       ($field->meta_key == 'local') ||
+            //   //       ($field->meta_key == 'url') ||
+            //   //       ($field->meta_key == 'logotipo') ||
+            //   //       ($field->meta_key == 'descricao') ||
+            //   //       ($field->meta_key == 'telefone') ||
+            //   //       ($field->meta_key == 'email') ||
+            //   //       ($field->meta_key == 'endereco')
+            //   //     ) {
+            //   //       // echo $field->meta_key ." = ". $field->meta_value;
+            //   //       $campos = $campos. ",".$field->meta_key; 
+            //   //       $valores = $valores. ",'".$field->meta_value."'"; 
+
+            //   //       // $fields = array(
+            //   //       //   $field->meta_key => $field->meta_value                      
+            //   //       // );    
+            //   //       // array_push($campos,$fields);
+            //   //       // array_splice($campos, -1, 1, array($field->meta_key, $field->meta_value));
+            //   //     }
+            //   //   }
+
+
+
+            //   //   // $input = array("red", "green", "blue", "yellow");
+            //   //   //  $campos = array_pop([$field->meta_key => $field->meta_value]);
+
+
+            //   // }
+
+
+            //   // // dump($campos);
+            //   // // echo "<h3>";
+            //   // // $query  = "INSERT INTO associados (nome,"  . ltrim(  $campos , ",") . ") values " . "( '".$assossiado->post_title ."',  " .  ltrim(  $valores , "," ) . ")";
+            //   // //  echo $query . ";";
+            //   // //  echo "<br>";
+            //   // echo "<br>" . $result = $db->query($query);
+
+            //   // echo $assossiado->post_title ." inserido com sucesso <br>";              
+            //   // die();
+            // }
+
+
+
+
+
+            ?>
+
+
+
+            -------------------------------------
+
             <div class="table-responsive">
               <table class="table">
                 <thead class=" text-primary">
                   <th>Nome</th>
-                  <th>Site</th>
+                  <!-- <th>Site</th> -->
                   <th>Telefone</th>
                   <th>Endereço e Número</th>
                   <th>Cidade e Estado</th>
@@ -33,41 +111,24 @@ require_once 'header.php';
                 </thead>
                 <tbody>
                   <?php
-                  $db = DB::getInstance();
-                  $files = $db->query("select * from arquivos where user_id = " . $user->data()->id)->results();
-                  foreach ($files as $file) {
+
+                  $associados = $db->query(" select * from associados ")->results();
+                  foreach ($associados as $associado) {
                   ?>
+
+
                     <tr>
-                      <td><?= $file->nome ?></td>
-                      <td><?php echo date('d-m-Y', strtotime($file->data_envio)); ?></td>
-                      <td><?= $file->categoria ?></td>
-                      <td class="text-primary"><?= $file->downloads ?></td>
-                      <td>
-                        <a href="files-proccess.php?action=xdownload&id=<?= $file->id ?>   " class="btn btn-outline-info btn-sm x-download  btn-round" data-id="<?= $file->id ?>"> <span class="material-icons">
-                            cloud_download
-                          </span> </a>
-
-                        <a href="" data-toggle="modal" data-target="#mailModal" class=" btn btn-outline-info btn-sm x-enviar   btn-round" data-id="<?= $file->id ?>"> <span class="material-icons">
-                            mail
-                          </span> </a>
-
-                        <a href="" class="btn  btn-outline-danger btn-sm delete   btn-round" data-id="<?= $file->id ?>"> <span class="material-icons">
-                            delete_forever
-                          </span> </a>
-                      </td>
+                      <td><b><?=$associado->nome ?></b></td>
+                      <!-- <td><?=$associado->url ?></td>                       -->
+                      <td><?=$associado->telefone ?></td>
+                      <td><?=$associado->endereco ?></td>
+                      <td><?=$associado->local ?></td>
+                      <td></td>
+                      <!-- <td><img src="assets/img/pci-power.jpg" alt=""></td> -->
+                      <td><a href="editar-associados.php?id=<?=$associado->id ?>" class="btn btn-info btn-sm ">Editar</a></td>
+                      <td><a href="#" class="btn btn-danger btn-sm ">Excluir</a></td>
                     </tr>
-
                   <?php }; ?>
-                  <tr>
-                    <td>1A PCI POWER</td>
-                    <td>www.pcipower.com.br</td>
-                    <td>(31) 3492-1140</td>
-                    <td>Rua João Ambrósio, 156</td>
-                    <td>Belo Horizonte / MG</td>
-                    <td><img src="assets/img/pci-power.jpg" alt=""></td>
-                    <td><a href="editar-associados.php" class="btn btn-info btn-sm ">Editar</a></td>
-                    <td><a href="#" class="btn btn-danger btn-sm ">Excluir</a></td>
-                  </tr>
 
                 </tbody>
               </table>
