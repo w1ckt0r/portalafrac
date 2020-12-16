@@ -77,6 +77,103 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row" style="padding-bottom: 1%;">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria/D_luis.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="margin-top: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">Luis Garbelini </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-presidente Geral </strong>
+                                    <br>Empresa: <strong> Tablet Cloud </strong>
+                                    <br> Contato: <a href="mailto:vp.geral@afrac.org.br"> vp.geral@afrac.org.br</a>
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
+                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/luis-garbelini-a0265725/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="container" style="padding-right:0%;">
+                            <div class="mbr-figure" style="width: 50%; margin:0% 0 0 40%; padding-top:1%">
+                                <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                            </div>
+                            <div class="media-content">
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:0% 25% 0 0%;">
+                                    Confira <br>
+                                    também <br>
+                                    no Youtube <br>
+                                    <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%;padding-left:5%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/diretoria/luis-thumb.png"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
+                    <div class="media-container-row" style="padding-bottom: 1%;">
+                        <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
+                            <img src="assets/images/diretoria/D_edgard.png" alt="Mobirise">
+                        </div>
+                        <div class="media-content" style="margin-top: 5%;">
+                            <div class="mbr-section-text">
+                                <br>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">EDGARD DE CASTRO </p>
+                                <p class="card-title pb-3 mbr-fonts-style display-6">
+
+                                    -
+
+                                    <br><strong>Vice-Presidente de Relações Institucionais.</strong>
+                                    <br>Empresa: <strong> EDC SOLUÇÕES </strong>
+                                    <br> Contato: <a href="mailto:vp.relacoesinstitucionais@afrac.org.br"> vp.relacoesinstitucionais@afrac.org.br</a>
+                                </p>
+                            </div>
+                            <div class="navbar-buttons mbr-section-btn">
+                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
+                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/edgard-de-castro-944575/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="media-container-row">
+                        <div class="container" style="padding-right:0%;">
+                            <div class="mbr-figure" style="width: 50%; margin:0% 0 0 40%; padding-top:1%">
+                                <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
+                            </div>
+                            <div class="media-content">
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:0% 25% 0 0%;">
+                                    Confira <br>
+                                    também <br>
+                                    no Youtube <br>
+                                    <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%; padding-left:5%">
+                            <hr style="border-top: 1px solid #209ad5 ">
+                            <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/diretoria/edgar-thumb.jpg"></a>
+                            <hr style="border-top: 1px solid #209ad5 ">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
+
+        <div class="container">
+            <div class="media-container-row">
+                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
+                    <div class="media-container-row" style="padding-bottom: 1%;">
+                        <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
                             <img src="assets/images/diretoria/D_vicente.png" alt="Mobirise">
                         </div>
                         <div class="media-content" style="margin-top: 5%;">
@@ -122,24 +219,24 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row" style="padding-bottom: 1%;">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria/D_luis.png" alt="Mobirise">
+                            <img src="assets/images/diretoria/D_luiz.png" alt="Mobirise">
                         </div>
                         <div class="media-content" style="margin-top: 5%;">
                             <div class="mbr-section-text">
                                 <br>
-                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">Luis Garbelini </p>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">LUIZ BENTO </p>
                                 <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                     -
 
-                                    <br><strong>Vice-presidente Geral </strong>
-                                    <br>Empresa: <strong> Tablet Cloud </strong>
-                                    <br> Contato: <a href="mailto:vp.geral@afrac.org.br"> vp.geral@afrac.org.br</a>
+                                    <br><strong>Vice-Presidente de Relações Internacionais</strong>
+                                    <br>Empresa: <strong> 4 REAL </strong>
+                                    <br> Contato: <a href="mailto:vp.relacoesinternacionais@afrac.org.br"> vp.relacoesinternacionais@afrac.org.br</a>
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
                                 <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
-                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/luis-garbelini-a0265725/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/luiz-bento-6325951/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
@@ -153,17 +250,19 @@
                                     Confira <br>
                                     também <br>
                                     no Youtube <br>
-                                    <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
+                                    <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
                                 </p>
                             </div>
                         </div>
-                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%;padding-left:5%">
+                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%; padding-left:5%">
                             <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://youtu.be/OdftMc2XUjw" target="_blank"><img src="assets/images/diretoria/luis-thumb.png"></a>
+                            <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/diretoria/luiz-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
+
+
             </div>
         </div>
     </section>
@@ -219,103 +318,6 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row" style="padding-bottom: 1%;">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria/D_paulo.png" alt="Mobirise">
-                        </div>
-                        <div class="media-content" style="margin-top: 5%;">
-                            <div class="mbr-section-text">
-                                <br>
-                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">PAULO ZIRNBERGER </p>
-                                <p class="card-title pb-3 mbr-fonts-style display-6">
-
-                                    -
-
-                                    <br><strong>Vice-Presidente de Assuntos Tributários </strong>
-                                    <br>Empresa: <strong> SOVOS </strong>
-                                    <br> Contato: <a href="mailto:vp.tributarios@afrac.org.br"> vp.tributarios@afrac.org.br</a>
-                                </p>
-                            </div>
-                            <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
-                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/paulo-zirnberger-de-castro-4b8220/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="media-container-row">
-                        <div class="container" style="padding-right:0%;">
-                            <div class="mbr-figure" style="width: 50%; margin:0% 0 0 40%; padding-top:1%">
-                                <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
-                            </div>
-                            <div class="media-content">
-                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:0% 25% 0 0%;">
-                                    Confira <br>
-                                    também <br>
-                                    no Youtube <br>
-                                    <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%;padding-left:5%">
-                            <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/diretoria/paulo-thumb.jpg"></a>
-                            <hr style="border-top: 1px solid #209ad5 ">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25gg" style="padding: 2%">
-
-        <div class="container">
-            <div class="media-container-row">
-                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
-                    <div class="media-container-row" style="padding-bottom: 1%;">
-                        <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria/D_edgard.png" alt="Mobirise">
-                        </div>
-                        <div class="media-content" style="margin-top: 5%;">
-                            <div class="mbr-section-text">
-                                <br>
-                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">EDGARD DE CASTRO </p>
-                                <p class="card-title pb-3 mbr-fonts-style display-6">
-
-                                    -
-
-                                    <br><strong>Vice-Presidente de Relações Institucionais.</strong>
-                                    <br>Empresa: <strong> EDC SOLUÇÕES </strong>
-                                    <br> Contato: <a href="mailto:vp.relacoesinstitucionais@afrac.org.br"> vp.relacoesinstitucionais@afrac.org.br</a>
-                                </p>
-                            </div>
-                            <div class="navbar-buttons mbr-section-btn">
-                                <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
-                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/edgard-de-castro-944575/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="media-container-row">
-                        <div class="container" style="padding-right:0%;">
-                            <div class="mbr-figure" style="width: 50%; margin:0% 0 0 40%; padding-top:1%">
-                                <a href="#" target="_blank"><img src="assets/images/bolinhas.png"></a>
-                            </div>
-                            <div class="media-content">
-                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6 align-right" style="color: #00223d; padding: 0 ; margin:0% 25% 0 0%;">
-                                    Confira <br>
-                                    também <br>
-                                    no Youtube <br>
-                                    <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%; padding-left:5%">
-                            <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://youtu.be/pttSkcmQC60" target="_blank"><img src="assets/images/diretoria/edgar-thumb.jpg"></a>
-                            <hr style="border-top: 1px solid #209ad5 ">
-                        </div>
-                    </div>
-                </div>
-                <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
-                    <div class="media-container-row" style="padding-bottom: 1%;">
-                        <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
                             <img src="assets/images/diretoria/D_rudolf.png" alt="Mobirise">
                         </div>
                         <div class="media-content" style="margin-top: 5%;">
@@ -326,8 +328,8 @@
 
                                     -
 
-                                    <br><strong>Vice-presidente Geral </strong>
-                                    <br>Empresa: <strong> Tablet Cloud </strong>
+                                    <br><strong>Vice-presidente de Meios de Pagamento </strong>
+                                    <br>Empresa: <strong> Rede </strong>
                                     <br> Contato: <a href="mailto:vp.meiosdepagamento@afrac.org.br"> vp.meiosdepagamento@afrac.org.br</a>
                                 </p>
                             </div>
@@ -465,24 +467,24 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row" style="padding-bottom: 1%;">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria/D_luiz.png" alt="Mobirise">
+                            <img src="assets/images/diretoria/D_paulo.png" alt="Mobirise">
                         </div>
                         <div class="media-content" style="margin-top: 5%;">
                             <div class="mbr-section-text">
                                 <br>
-                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">LUIZ BENTO </p>
+                                <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">PAULO ZIRNBERGER </p>
                                 <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                     -
 
-                                    <br><strong>Vice-Presidente de Relações Internacionais</strong>
-                                    <br>Empresa: <strong> 4 REAL </strong>
-                                    <br> Contato: <a href="mailto:vp.relacoesinternacionais@afrac.org.br"> vp.relacoesinternacionais@afrac.org.br</a>
+                                    <br><strong>Vice-Presidente de Assuntos Tributários </strong>
+                                    <br>Empresa: <strong> SOVOS </strong>
+                                    <br> Contato: <a href="mailto:vp.tributarios@afrac.org.br"> vp.tributarios@afrac.org.br</a>
                                 </p>
                             </div>
                             <div class="navbar-buttons mbr-section-btn">
                                 <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
-                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/luiz-bento-6325951/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                                <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/paulo-zirnberger-de-castro-4b8220/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                             </div>
                         </div>
                     </div>
@@ -496,21 +498,22 @@
                                     Confira <br>
                                     também <br>
                                     no Youtube <br>
-                                    <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
+                                    <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
                                 </p>
                             </div>
                         </div>
-                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%; padding-left:5%">
+                        <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%;padding-left:5%">
                             <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://youtu.be/zfqanS3Kj60" target="_blank"><img src="assets/images/diretoria/luiz-thumb.jpg"></a>
+                            <a href="https://youtu.be/Vssh0MzJ7Dg" target="_blank"><img src="assets/images/diretoria/paulo-thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
                 </div>
+
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row" style="padding-bottom: 1%;">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria/D_emerson.png" alt="Mobirise">
+                            <img src="assets/images/diretoria/D_emersom.png" alt="Mobirise">
                         </div>
                         <div class="media-content" style="margin-top: 5%;">
                             <div class="mbr-section-text">
@@ -595,13 +598,13 @@
                                     Confira <br>
                                     também <br>
                                     no Youtube <br>
-                                    <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
+                                    <a href="https://www.youtube.com/watch?v=2xDBfEte79A&feature=youtu.be&ab_channel=AFRAC" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
                                 </p>
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%; padding-left:5%">
                             <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://www.youtube.com/watch?v=ovATmfTsmzU&feature=youtu.be" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
+                            <a href="https://www.youtube.com/watch?v=2xDBfEte79A&feature=youtu.be&ab_channel=AFRAC" target="_blank"><img src="assets/images/thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
@@ -640,13 +643,13 @@
                                     Confira <br>
                                     também <br>
                                     no Youtube <br>
-                                    <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
+                                    <a href="https://www.youtube.com/watch?v=2xDBfEte79A&feature=youtu.be&ab_channel=AFRAC" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
                                 </p>
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%;padding-left:5%">
                             <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://www.youtube.com/watch?v=ovATmfTsmzU&feature=youtu.be" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
+                            <a href="https://www.youtube.com/watch?v=2xDBfEte79A&feature=youtu.be&ab_channel=AFRAC" target="_blank"><img src="assets/images/thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
@@ -694,13 +697,13 @@
                                     Confira <br>
                                     também <br>
                                     no Youtube <br>
-                                    <a href="#" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
+                                    <a href="https://www.youtube.com/watch?v=2xDBfEte79A&feature=youtu.be&ab_channel=AFRAC" target="_blank"><img src="assets/images/icone-youtube.png" alt="" style="width: 25%; height:auto"></a>
                                 </p>
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%; padding-left:5%">
                             <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://www.youtube.com/watch?v=ovATmfTsmzU&feature=youtu.be" target="_blank"><img src="assets/images/diretoria-thumb.jpg"></a>
+                            <a href="https://www.youtube.com/watch?v=2xDBfEte79A&feature=youtu.be&ab_channel=AFRAC" target="_blank"><img src="assets/images/thumb.jpg"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
@@ -735,9 +738,8 @@
                     <div class="media-content" style="margin-top: 5%;">
                         <div class="mbr-section-text">
                             <br>
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" 
-                            style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
-                            Meiry Montalvão </p>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
+                                Meiry Montalvão </p>
                             <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                 -
@@ -765,9 +767,8 @@
                     <div class="media-content" style="margin-top: 5%;">
                         <div class="mbr-section-text">
                             <br>
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" 
-                            style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
-                            Dra Lucia Correia</p>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
+                                Dra Lucia Correia</p>
                             <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                 -
@@ -779,11 +780,8 @@
                             </p>
                         </div>
                         <div class="navbar-buttons mbr-section-btn">
-                            <img src="assets/images/icone-linkedin.png" alt="" 
-                            style="width: 15%; padding-right:%">
-                            <a class="btn btn-sm btn-success-outline display-3" 
-                            href="https://www.linkedin.com/in/l%C3%BAcia-correia-35982291/" 
-                            style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
+                            <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/l%C3%BAcia-correia-35982291/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                         </div>
                     </div>
                 </div>
@@ -808,9 +806,8 @@
                     <div class="media-content" style="margin-top: 5%;">
                         <div class="mbr-section-text">
                             <br>
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" 
-                            style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
-                            Aline Salgado </p>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
+                                Aline Salgado </p>
                             <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                 -
@@ -822,8 +819,7 @@
                         </div>
                         <div class="navbar-buttons mbr-section-btn">
                             <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
-                            <a class="btn btn-sm btn-success-outline display-3" 
-                            href="https://www.linkedin.com/in/alinesmacedo/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/alinesmacedo/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                         </div>
                     </div>
                 </div>
@@ -832,14 +828,13 @@
             <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                 <div class="media-container-row" style="padding-bottom: 1%;">
                     <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                    <img src="assets/images/diretoria/d_icon.png" alt="">
+                        <img src="assets/images/diretoria/d_icon.png" alt="">
                     </div>
                     <div class="media-content" style="margin-top: 5%;">
                         <div class="mbr-section-text">
                             <br>
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" 
-                            style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
-                            Allana Fernandes</p>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
+                                Allana Fernandes</p>
                             <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                 -
@@ -852,8 +847,7 @@
                         </div>
                         <div class="navbar-buttons mbr-section-btn">
                             <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
-                            <a class="btn btn-sm btn-success-outline display-3" 
-                            href="https://www.linkedin.com/in/allana-fernandes-do-nascimento-5b9a04110/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/allana-fernandes-do-nascimento-5b9a04110/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                         </div>
                     </div>
                 </div>
@@ -874,14 +868,13 @@
             <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                 <div class="media-container-row" style="padding-bottom: 1%;">
                     <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                    <img src="assets/images/diretoria/d_icon.png" alt="">
+                        <img src="assets/images/diretoria/d_icon.png" alt="">
                     </div>
                     <div class="media-content" style="margin-top: 5%;">
                         <div class="mbr-section-text">
                             <br>
-                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" 
-                            style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
-                            Fernanda Fernandes </p>
+                            <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; padding-bottom: 0% !important; margin:0% !important">
+                                Fernanda Fernandes </p>
                             <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                 -
@@ -894,7 +887,7 @@
                         </div>
                         <div class="navbar-buttons mbr-section-btn">
                             <!-- <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%"> -->
-                           
+
                             <!-- <a class="btn btn-sm btn-success-outline display-3"  href="https://www.linkedin.com/in/carlos-elias-feres-14755360/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a> -->
                         </div>
                     </div>
@@ -904,14 +897,14 @@
             <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                 <div class="media-container-row" style="padding-bottom: 1%;">
                     <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                    <img src="assets/images/diretoria/d_icon.png" alt="">
+                        <img src="assets/images/diretoria/d_icon.png" alt="">
                     </div>
                     <div class="media-content" style="margin-top: 5%;">
                         <div class="mbr-section-text">
                             <br>
                             <p class="card-title pb-3 mbr-fonts-style mbr-bold display-6" style="color: #00223d; 
                             padding-bottom: 0% !important; margin:0% !important">
-                            Vanessa Brandão</p>
+                                Vanessa Brandão</p>
                             <p class="card-title pb-3 mbr-fonts-style display-6">
 
                                 -
@@ -924,9 +917,7 @@
                         </div>
                         <div class="navbar-buttons mbr-section-btn">
                             <img src="assets/images/icone-linkedin.png" alt="" style="width: 15%; padding-right:%">
-                            <a class="btn btn-sm btn-success-outline display-3" 
-                            href="https://www.linkedin.com/in/vanessa-brand%C3%A3o-0322681b8/" 
-                            style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
+                            <a class="btn btn-sm btn-success-outline display-3" href="https://www.linkedin.com/in/vanessa-brand%C3%A3o-0322681b8/" style="margin-left:0%" target="_blank">Adicionar aos Contatos</a>
                         </div>
                     </div>
                 </div>

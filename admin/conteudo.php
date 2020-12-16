@@ -195,6 +195,7 @@ if ($boolUpdate) {
                         <option <?= $selectType == "1" ? " selected " : " " ?>value="1">Blog da Afrac</option>
                         <option <?= $selectType == "2" ? " selected " : " " ?>value="2">Vitrine do Mercado</option>
                         <option <?= $selectType == "3" ? " selected " : " " ?>value="3">Meios de pagamento</option>
+                        <option <?= $selectType == "4" ? " selected " : " " ?>value="4">Video (Historico de Lives)</option>
                       </select>
                       <!-- <div class="invalid-feedback">Example invalid custom select feedback</div> -->
                     </div>
@@ -205,6 +206,7 @@ if ($boolUpdate) {
 
                   <script src="https://cdn.tiny.cloud/1/10xgljhwom4gm432jd47x72gs5ollhix75ahro5cjak0vfnf/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
                   <script>
+<<<<<<< HEAD
 
 
 
@@ -231,6 +233,13 @@ tinymce.init({
                     //   toolbar: 'image'
                     
                     // });
+=======
+                    tinymce.init({
+                      selector: '#area2', // change this value according to your HTML
+                      plugins: 'code'
+
+                    });
+>>>>>>> 2ab2fe9d2a8a352efc78659fd3d41ec3788afd9a
                   </script>
 
                   <!-- <script src="http://js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>
@@ -346,6 +355,16 @@ tinymce.init({
 
 <!-- <script src="https://cdn.tiny.cloud/1/3pi35req66retm9019lz3n0re5yqv3c5rmrbv9r10cdbaphl/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script> -->
 
+
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $("#name").on('change', function() {
+      $(".data").hide();
+      $("#" + $(this).val()).fadeIn(700);
+    }).change();
+  });
+</script> -->
 
 <script>
   function submit() {
