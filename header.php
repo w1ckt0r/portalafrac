@@ -136,7 +136,7 @@
                     <li class="nav-item dropdown">
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
                         <div class="dropdown-menu">
-                            <a class="text-primary dropdown-item display-4" id="submenu" href="calendario.php">Agenda</a>
+                            <a class="text-primary dropdown-item display-4" id="submenu" href="calendario.pdf">Agenda</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="contato.php" aria-expanded="false">Contato</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="index.php" aria-expanded="false">Downloads</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="historico-lives.php">Historico de Lives</a>
