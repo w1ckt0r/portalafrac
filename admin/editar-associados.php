@@ -6,6 +6,85 @@ if (!securePage($_SERVER['PHP_SELF'])) {
 $hooks =  getMyHooks();
 includeHook($hooks, 'pre');
 require_once 'header.php';
+$db = DB::getInstance();
+
+
+//Note: This resolves as true even if all $_POST values are empty strings
+if (!empty($_POST)) {
+
+
+  if (!empty($_FILES)) {
+
+    // dump($_FILES);
+    // UPLOAD ###############################################
+    $token = bin2hex(random_bytes(20));
+    // Nas versões do PHP que antecedem a versão 4.1.0, é preciso usar o $HTTP_POST_FILES em vez do $_FILES.    
+    $uploaddir = 'upload/logomarcas/';
+    $nomeArquivo = basename($_FILES['avatar']['name']);
+    $ext = pathinfo($nomeArquivo, PATHINFO_EXTENSION);
+    $uploadfile   = $uploaddir . $token . "." . $ext;
+    $boolUpload = false;
+    $arquivofisico = "img-padrao-post.jpg";
+
+    if (move_uploaded_file($_FILES['avatar']['tmp_name'], $uploadfile)) {
+      // echo "O arquivo é valido e foi carregado com sucesso.\n";
+      // echo "result : " . $insert = $db->insert("arquivos", $fields);
+      //  $insert = $db->insert("arquivos", $fields);
+      $arquivofisico = $token . "." . $ext;
+      // logger($user->data()->id, "Upload", $user->data()->fname . " fez um novo upload, com o nome de " . $nomeArquivo);
+      // $boolUpload = true;
+      echo "Certo por aqui!\n";
+    } else {
+      // $boolUpload = false;
+      // $arquivofisico = "img-padrao-post.jpg" ;
+      // logger($user->data()->id, "Upload", $user->data()->fname . " Ocorreu um erro ao tentar fazer um novo upload");
+      echo "Algo está errado aqui!\n";
+    }
+
+
+    // echo $uploadfile;
+    // echo $arquivofisico;
+  }
+
+
+  $fields = array(
+    'segmento'                  => $_POST["segmento"],
+    'local'                     => $_POST["local"],
+    'url'                       => $_POST["site"],
+    // 'logotipo'                  => $_POST["logotipo"],
+    'telefone'                  => $_POST["telefone"],
+    // 'email'                     => $_POST['email'],
+    'endereco'                  => $_POST['endereco'],
+    'nome'                      => $_POST['nome']
+    // 'user_id'             => $categoria,
+    // 'nome'                  => $nomeArquivo,
+    // 'criado_em'             => date('Y-m-d H:i:s')
+  );
+
+  if (!empty($_FILES)) {
+    $fields['logotipo'] = $arquivofisico;
+  }
+
+  $id = $_POST["id"];
+  //  echo "  :: {$id_conteudo} ::: atualizado";
+  //  dump($fields);
+  //  die();
+
+// dump($_POST);
+// die();
+  echo $result = $db->update('associados', $id, $fields);
+   Redirect::to("editar-associados.php?id=".$id);
+}
+
+
+$id = $_GET["id"];
+
+$associado = $db->query(" select * from associados where id={$id}")->results()[0];
+// dump($associado);
+// foreach ($associados as $associado) {
+
+
+
 ?>
 
 <!-- End Navbar -->
@@ -15,7 +94,7 @@ require_once 'header.php';
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-info">
-            <h4 class="card-title">Conteudos</h4>
+            <h4 class="card-title">Associados AFRAC </h4>
             <p class="card-category">
             </p>
           </div>
@@ -24,113 +103,99 @@ require_once 'header.php';
               <table class="table">
                 <thead class=" text-primary">
 
-                  <form class="form-horizontal">
-                    <fieldset>
+                  <form enctype="multipart/form-data" action="editar-associados.php" method="post" name="form-content">
 
-                      <!-- Form Name -->
-                      <legend>Associados</legend>
 
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Nome"></textarea>
-                        </div>
-                      </div>
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Site"></textarea>
-                        </div>
-                      </div>
+                    <!-- Form Name -->
+                    <!-- <legend>Associados</legend> -->
 
-                    </fieldset>
-                  </form>
-
-                  <form class="form-horizontal">
-
+                    <!-- Text input-->
                     <div class="form-group">
-                      <label class="col-md-4 control-label" for="textarea"></label>
-                      <div class="col-md-4">
-                        <textarea class="form-control" id="textarea" name="textarea" placeholder="Telefone"></textarea>
+                      <label class="col-md-8 control-label" for="input">Nome</label>
+                      <div class="col-md-8">
+                        <input value="<?= $associado->nome ?>" class="form-control" id="nome" name="nome" placeholder="Nome"></input>
+                        <input type="hidden" id="id" name="id" value="<?= $associado->id ?>">
+                      </div>
+                    </div>
+                    <!-- Text input-->
+                    <div class="form-group">
+                      <label class="col-md-8  control-label" for="input">Endereco</label>
+                      <div class="col-md-8">
+                        <input value="<?= $associado->endereco ?>" class="form-control" id="endereco" name="endereco" placeholder="Endereco"></input>
+                      </div>
+                    </div>
+                    <!-- Text input-->
+                    <div class="form-group">
+                      <label class="col-md-8 control-label" for="input">local</label>
+                      <div class="col-md-8">
+                        <input value="<?= $associado->local ?>" class="form-control" id="local" name="local" placeholder="local"></input>
                       </div>
                     </div>
 
+                    <!-- Text input-->
                     <div class="form-group">
-                      <label class="col-md-4 control-label" for="textarea"></label>
-                      <div class="col-md-4">
-                        <textarea class="form-control" id="textarea" name="textarea" placeholder="Endereço e Número"></textarea>
-                      </div>
-                    </div>
-                    <div class="form-group">
-                      <label class="col-md-4 control-label" for="textarea"></label>
-                      <div class="col-md-4">
-                        <textarea class="form-control" id="textarea" name="textarea" placeholder="Cidade e Estado"></textarea>
+                      <label class="col-md-8 control-label" for="input">Site</label>
+                      <div class="col-md-8">
+                        <input value="<?= $associado->url ?>" class="form-control" id="site" name="site" placeholder="Site"></input>
                       </div>
                     </div>
 
-                    </fieldset>
-                    <fieldset>
 
-                      <!-- Form Name -->
-                      <legend>Logo</legend>
+                    <div class="form-group">
+                      <label class="col-md-8 control-label" for="input">Telefone</label>
+                      <div class="col-md-8">
+                        <input value="<?= $associado->telefone ?>" class="form-control" id="telefone" name="telefone"></input>
+                      </div>
+                    </div>
 
-                      <!-- Text input-->
-                      <div class="form-group">
-                        <label class="col-md-4 control-label" for="textarea"></label>
-                        <div class="col-md-4">
-                          <textarea class="form-control" id="textarea" name="textarea" placeholder="Link da imagem"></textarea>
-                        </div>
+                    <!-- Text input-->
+                    <div class="form-group">
+                      <label class="col-md-8 control-label" for="input">Segmento</label>
+                      <div class="col-md-8">
+                        <input value="<?= $associado->segmento ?>" class="form-control" id="segmento" name="segmento"></input>
+                      </div>
+                    </div>
 
-                        <br>
-                        <h4>Preview</h4>
-                        <img src="assets/img/no-image.png" alt="">
+
+                    <!-- Form Name -->
+                    <!-- <legend>Logo</legend> -->
+
+                    <!-- Text input-->
+                    <div class="form-group">
+                      <label class="col-md-8 control-label" for="input"></label>
+                      <div class="col-md-8">
+                        <label for="avatar">Clique aqui para escolher a imagem :</label>
+
+                        <input type="file" id="avatar" name="avatar" accept="image/png, image/jpeg">
+
+
+
 
                       </div>
 
-                    </fieldset>
-                  </form>
-                  <form class="form-horizontal">
+                      <br>
+                      <?php
+                      if ($associado->logotipo != null) {
+
+                        echo "<img id='img' width='300' height='auto'  src='upload/logomarcas/". $associado->logotipo."' alt=''>";
+                      } else {
+
+                        echo "<img id='img' src='assets/img/no-image.png' alt=''>";
+                      }
+
+                      ?>
+                      <!-- <h4>Preview</h4> -->
+
+                    </div>
+
+
+                    <a href="associados.php" class="btn btn-warning">Cancelar</a>
+                    <button class="btn btn-primary" type="submit">Salvar </button>
+
 
                   </form>
 
 
-                </thead>
-                <tbody>
-                  <?php
-                  $db = DB::getInstance();
-                  $files = $db->query("select * from conteudos where id = " . $_GET["id"])->results();
-                  foreach ($files as $file) {
-                  ?>
-                    <tr>
-                      <td><?= $file->nome ?></td>
-                      <td><?php echo date('d-m-Y', strtotime($file->data_envio)); ?></td>
-                      <td><?= $file->categoria ?></td>
-                      <td class="text-primary"><?= $file->downloads ?></td>
-                      <td>
-                        <a href="files-proccess.php?action=xdownload&id=<?= $file->id ?>   " class="btn btn-outline-info btn-sm x-download  btn-round" data-id="<?= $file->id ?>"> <span class="material-icons">
-                            cloud_download
-                          </span> </a>
-
-                        <a href="" data-toggle="modal" data-target="#mailModal" class=" btn btn-outline-info btn-sm x-enviar   btn-round" data-id="<?= $file->id ?>"> <span class="material-icons">
-                            mail
-                          </span> </a>
-
-                        <a href="" class="btn  btn-outline-danger btn-sm delete   btn-round" data-id="<?= $file->id ?>"> <span class="material-icons">
-                            delete_forever
-                          </span> </a>
-                      </td>
-                    </tr>
-
-                  <?php }; ?>
-                  <tr>
-              
-                  <a style="position: relative;" href="conteudos.php" class="btn btn-info btn-bg ">Confirmar</a>
-              
-                </tr>
-                </tbody>
-              </table>
             </div>
           </div>
         </div>
@@ -142,45 +207,11 @@ require_once 'header.php';
 <!-- footer -->
 <?php require_once 'footer.php'; ?>
 
-<!-- Modal -->
-<div class="modal fade" id="mailModal" tabindex="-1" role="dialog" aria-labelledby="mailModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h6 class="modal-title" id="mailModalLabel">Enviar acesso ao arquivo por email</h6>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">
-          </span>
-        </button>
-      </div>
-      <div class="modal-body">
-
-        <div class="row">
-          <div class="col-md-12">
-            <div class="form-group bmd-form-group">
-              <label class="bmd-label-floating">Digite o email que deseja enviar o link </label>
-              <!-- <input type="text" id="evento" name="evento" class="form-control"> -->
-              <input type="text" class="form-control" name="txtEmail" id="txtEmail" value="">
-              <input type="hidden" name="data-id" id="data-id" value="" />
-            </div>
-          </div>
-
-        </div>
 
 
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary btn-round " data-dismiss="modal">Fechar</button>
-        <button id="btnLoadEnabled" type="button" class="btn btn-info btn-round enviar ">Gerar & Enviar Link </button>
-        <button class="btn btn-success" id="btnLoad" disabled style="display: none;">
-          <i class="fa fa-circle-o-notch fa-spin"></i>
-          Enviando...
-        </button>
-
-
-      </div>
-    </div>
-  </div>
-</div>
-
-<script src="https://cdn.tiny.cloud/1/3pi35req66retm9019lz3n0re5yqv3c5rmrbv9r10cdbaphl/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+<!-- <script src="https://cdn.tiny.cloud/1/3pi35req66retm9019lz3n0re5yqv3c5rmrbv9r10cdbaphl/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script> -->
+<script>
+  $('#img').click(function() {
+    $('#avatar').trigger('click');
+  });
+</script>
