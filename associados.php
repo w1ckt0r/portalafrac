@@ -69,9 +69,9 @@ $associados = $db->query("select * from associados order by nome asc ")->results
                         $icon = '';
                         
                         if ($associado->logotipo != '') {
-                            $icon = 'https://cdn4.iconfinder.com/data/icons/math-symbols-line/48/empty_set_math_algebra-512.png';
+                            $icon = "admin/upload/logomarcas/". $associado->logotipo;
                         } else {
-                            $icon = $associado->logotipo;
+                            $icon = 'https://cdn4.iconfinder.com/data/icons/math-symbols-line/48/empty_set_math_algebra-512.png';
                         }
                     ?>
                         <div class="media-block" style="width: 20%;">

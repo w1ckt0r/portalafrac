@@ -132,7 +132,7 @@ require_once 'header.php';
                         
                         // doSomething();
                         //  alert();
-                        window.location.href = "files.php";
+                        window.location.href = "conteudos.php";
 
 
                       }
