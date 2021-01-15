@@ -25,7 +25,7 @@
                 <div class="col-8 col-md-8">
                     <div class="media-container-row" style="padding-bottom: 5%;">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="margin-top: 5%;">
                             <div class="mbr-section-text">
@@ -62,7 +62,7 @@
                         </div>
                         <div class="mbr-figure" style="width: 150%; margin-right:10%; padding-top:1%; padding-left:5%">
                             <hr style="border-top: 1px solid #209ad5 ">
-                            <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/diretoria-thumb.jpg" alt="Mobirise"></a>
+                            <a href="https://youtu.be/ovATmfTsmzU" target="_blank"><img src="assets/images/diretoria-thumb.jpg" alt="AFRAC"></a>
                             <hr style="border-top: 1px solid #209ad5 ">
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -120,7 +120,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -170,7 +170,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -213,7 +213,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -263,7 +263,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -306,7 +306,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -356,7 +356,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -399,7 +399,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -449,7 +449,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -492,7 +492,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -542,7 +542,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -585,7 +585,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">
@@ -635,7 +635,7 @@
                 <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                            <img src="assets/images/diretoria-foto.png" alt="Mobirise">
+                            <img src="assets/images/diretoria-foto.png" alt="AFRAC">
                         </div>
                         <div class="media-content" style="padding-left: 5%;">
                             <div class="mbr-section-text">

@@ -78,7 +78,7 @@
                                 </a>
                             </div>
                             <div class="soc-item">
-                                <a href="https://www.facebook.com/sharer/sharer.php?s=100&p[title]=AFRAC%20%E2%80%93%20Associa%C3%A7%C3%A3o%20Brasileira%20de%20Automa%C3%A7%C3%A3o%20para%20o%20Com%C3%A9rcio&p[summary]=&u=http%3A%2F%2Fwww.afrac.com.br%2F" target="_blank">
+                                <a href="https://www.facebook.com/AFRAC.Oficial" target="_blank">
                                     <span class="mbr-iconfont mbr-iconfont-social socicon-facebook socicon"></span>
                                 </a>
                             </div>
@@ -88,7 +88,7 @@
                                 </a>
                             </div>
                             <div class="soc-item">
-                                <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.afrac.com.br/&title=AFRAC%20%E2%80%93%20Associa%C3%A7%C3%A3o%20Brasileira%20de%20Automa%C3%A7%C3%A3o%20para%20o%20Com%C3%A9rcio&summary=" target="_blank">
+                                <a href="https://www.linkedin.com/company/afrac/" target="_blank">
                                     <span class="mbr-iconfont mbr-iconfont-social socicon-linkedin socicon"></span>
                                 </a>
                             </div>

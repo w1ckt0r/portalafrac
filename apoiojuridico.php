@@ -2,7 +2,7 @@
 
 
 
-<section class="engine"><a href="https://mobirise.info/q">free responsive website templates</a></section>
+
 <section class="header1 cid-s8HaGIkBjh" id="header16-1e" style="background-color: #04112b;">
 
 
@@ -34,7 +34,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
+                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-6">Sefaz/SP realiza apresentação do Projeto SAT-RPE</h4>
@@ -50,7 +50,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
+                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-6">Minas Gerais confirma adesão ao projeto NFC-e</h4>
@@ -66,7 +66,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
+                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-6">S@T São Paulo – Fique por dentro desse tema</h4>
@@ -94,7 +94,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
+                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-6">Ceará determina novas obrigatoriedades de utilização do MFE</h4>
@@ -110,7 +110,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
+                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-6">Pernambuco publica calendário de obrigatoriedade da NFC-e</h4>
@@ -126,7 +126,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="Mobirise" title="">
+                        <img src="assets/images/f0a7c845-dbf2-48e4-9f6b-536da1b7031e-538x539.png" alt="AFRAC" title="">
                     </div>
                     <div class="card-box">
                         <h4 class="card-title mbr-fonts-style display-6">De Olho nos Prazos – NFC-e (Maranhão)</h4>

@@ -32,14 +32,14 @@
 
                             </h5>
                             <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 18px">
-                            O <strong>Painel do Mercado AFRAC</strong> reúne os principais dashboards de dados de órgãos oficiais, 
-                            com o objetivo de compilar informações e indicadores que impactam diretamente as operações das empresas do segmento de 
-                            Tecnologia para o Comércio e Serviços. Confira abaixo os painéis! 
-                        </p>
+                                O <strong>Painel do Mercado AFRAC</strong> reúne os principais dashboards de dados de órgãos oficiais,
+                                com o objetivo de compilar informações e indicadores que impactam diretamente as operações das empresas do segmento de
+                                Tecnologia para o Comércio e Serviços. Confira abaixo os painéis!
+                            </p>
                         </div>
                     </div>
                     <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                        <img src="assets/images/painel_imagem_topo.png" alt="Mobirise">
+                        <img src="assets/images/painel_imagem_topo.png" alt="AFRAC">
                     </div>
                 </div>
             </div>
@@ -57,7 +57,7 @@
             <div class="card p-3 col-12 col-md-6 col-lg-4">
                 <div class="card-wrapper">
                     <div class="card-img">
-                        <img src="assets/images/painel/mercado_empresometro.png" alt="Mobirise" title="">
+                        <img src="assets/images/painel/mercado_empresometro.png" alt="AFRAC" title="">
                         <img src="assets/images/painel/logo_1.jpg" alt="">
                     </div>
                     <div class="card-box">

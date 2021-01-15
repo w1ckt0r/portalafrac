@@ -2,15 +2,27 @@
 <html>
 
 <head>
-    <!-- Site made with Mobirise Website Builder v4.12.4, # -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="generator" content="afrac, afrac.com.br">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <link rel="shortcut icon" href="assets/images/favicon-32x32.png" type="image/x-icon">
-    <meta name="description" content="">
+    <meta name="author" content="AFRAC - Associação Brasileira de Automação para o Comércio">
+    <meta name="description" content="Seja o primeiro a saber das novidades do segmento e mantenha o seu negócio inovador seja ele fabricantes de equipamentos de automação e de periféricos, software-houses, distribuidores e revendas, empresas de suprimentos do segmento de papel e de coleta automática de dados e rádio frequência (AIDC/RFID), mobilidade, meios de pagamentos, startups, certificadora digital, além do comércio varejista.">
 
-    <title>AFRAC</title>
+    <meta property="og:url" content="" /> <!-- URL for website (link address) -->
+    <meta property="og:type" content="website" /> <!-- type of site -->
+    <meta property="og:title" content="Associação Brasileira de Automação para o Comércio (AFRAC)." /> <!-- title of site (title of share) -->
+    <meta property="og:description" content="Feito pela AFRAC" /> <!-- description of site (text which appears when sharing) -->
+    <meta property="og:image" content="" /> <!-- URL for preview image -->
+
+    <meta name="keywords" content="carteiras digitais,startups,open delivery, LGPD, software houses, IOT, Machine learning, Interligência Artificial, API, TEF, Wallets, Bass, Faas, e-commerce">
+
+
+
+
+
+    <title>AFRAC - Associação Brasileira de Automação para o Comércio</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
@@ -34,8 +46,7 @@
     <br>
     <br>
     <section class="menu cid-s7hTmLNnSc" once="menu" id="menu1-k">
-        <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-dark" 
-        style="background-color: #04112b !important;padding-bottom: 0px;padding-top: 0px;">
+        <nav class="navbar sticky-top navbar-expand-sm navbar-dark bg-dark" style="background-color: #04112b !important;padding-bottom: 0px;padding-top: 0px;">
             <button class="navbar-toggler" data-toggle="collapse" data-target=".navbars">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -132,7 +143,7 @@
                     <li class="nav-item">
                         <a class="nav-link link text-primary display-4" href="blog.php" aria-expanded="false">Blog</a>
                     </li>
-                
+
                     <li class="nav-item dropdown">
                         <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false">Mais&nbsp;</a>
                         <div class="dropdown-menu">
@@ -144,12 +155,11 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link link text-primary dropdown-toggle display-4" 
-                        href="#" data-toggle="dropdown-submenu" aria-expanded="false"><img src="assets/images/mic.png" width="20"/>&nbsp;</a>
+                        <a class="nav-link link text-primary dropdown-toggle display-4" href="#" data-toggle="dropdown-submenu" aria-expanded="false"><img src="assets/images/mic.png" width="20" />&nbsp;</a>
                         <div class="dropdown-menu">
                             <a class="text-primary dropdown-item display-4" id="submenu" href="https://open.spotify.com/show/1K4kU2X70IjguyJypxLin4?si=xJRVTW98SSef5EdAZjdcgQ">AFRAC Tech Talks</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="https://open.spotify.com/show/37LkLsIa5XfXQfibY9vJSF?si=7bypY2a5RAm6VWuCgf-wXA" aria-expanded="false">AFRAC Ícones da automação</a>
-                          </div>
+                        </div>
                     </li>
 
 
@@ -160,10 +170,8 @@
                     <a class="btn btn-sm btn-success-outline display-3" href="associar.php">Associe-se</a>
                     <a class="btn btn-sm display-3" style="background-color: #209ad5 !important; color:white" href="index.php#form3-1x">
                         <span class="socicon mbr-iconfont mbr-iconfont-btn"></span>Newsletter</a>
-                        
+
                 </div>
             </div>
         </nav>
     </section>
-
-

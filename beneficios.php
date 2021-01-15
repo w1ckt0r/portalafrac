@@ -38,7 +38,7 @@
                             <hr style="border-top: 1px solid #1b477c;">
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/destaque-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/destaque-beneficios.png" alt="AFRAC">
                         </div>
                     </div>
                 </div>
@@ -53,7 +53,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure " style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="AFRAC">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -89,7 +89,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/3-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/3-beneficios.png" alt="AFRAC">
                         </div>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/1-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/1-beneficios.png" alt="AFRAC">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -140,7 +140,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="AFRAC">
                         </div>
                     </div>
                 </div>
@@ -154,7 +154,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/3-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/3-beneficios.png" alt="AFRAC">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -192,7 +192,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/1-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/1-beneficios.png" alt="AFRAC">
                         </div>
                     </div>
                 </div>
@@ -206,7 +206,7 @@
                 <div class="col-12 col-md-10">
                     <div class="media-container-row">
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="AFRAC">
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
@@ -242,7 +242,7 @@
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
-                            <img src="assets/images/beneficios/2-beneficios.png" alt="Mobirise">
+                            <img src="assets/images/beneficios/2-beneficios.png" alt="AFRAC">
                         </div>
                     </div>
                 </div>

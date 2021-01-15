@@ -2,10 +2,6 @@
 
 
 
-<section class="engine">
-    <a href="https://mobirise.info/c">website builder</a>
-</section>
-
 <section class="header1 cid-s8HaGIkBjh" id="header16-28" style="background-color: #04112b;">
 
     <div class="container">
@@ -117,7 +113,8 @@
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">CAPÍTULO II
                     <br>
-                    DOS ASSOCIADOS </h2>
+                    DOS ASSOCIADOS
+                </h2>
                 <br>
                 <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong> Art. 4°.</strong> . Poderão ser associados da Entidade empresários individuais, sociedades empresárias e simples,
                     entidades de classe, sociedades civis e profissionais liberais autônomos.
@@ -237,7 +234,8 @@
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">CAPÍTULO III
                     <br>
-                    DOS DIREITOS E DEVERES DOS ASSOCIADOS</h2>
+                    DOS DIREITOS E DEVERES DOS ASSOCIADOS
+                </h2>
                 <br>
                 <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong> Art. 4°.</strong> . Poderão ser associados da Entidade empresários individuais, sociedades empresárias e simples,
                     entidades de classe, sociedades civis e profissionais liberais autônomos.
@@ -346,7 +344,8 @@
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">CAPÍTULO IV
                     <br>
-                    DA ADMISSÃO, DEMISSÃO E EXCLUSÃO DO ASSOCIADO </h2>
+                    DA ADMISSÃO, DEMISSÃO E EXCLUSÃO DO ASSOCIADO
+                </h2>
                 <br>
                 <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong> Art. 12°.</strong> . A admissão dos interessados em associarem-se à AFRAC ficará condicionada à aprovação do
                     Conselho Diretor da AFRAC.
@@ -440,7 +439,8 @@
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">CAPÍTULO V
                     <br>
-                    DA ORGANIZAÇÃO E DA ADMINISTRAÇÃO SOCIAL </h2>
+                    DA ORGANIZAÇÃO E DA ADMINISTRAÇÃO SOCIAL
+                </h2>
                 <br>
                 <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong> Art. 17°.</strong> O exercício social coincide com o ano civil.
                 </h3>
@@ -471,7 +471,8 @@
             <div class="title col-12 col-md-8">
                 <h2 class="align-center pb-3 mbr-fonts-style display-6" style="color: #04112b;">Seção I
                     <br>
-                    Do Conselho Diretor </h2>
+                    Do Conselho Diretor
+                </h2>
                 <br>
                 <h3 class="mbr-section-subtitle align-left mbr-light mbr-fonts-style display-5"> <strong> Art. 19°.</strong> O Conselho Diretor é composto por 16 (dezesseis) membros, eleitos pela Assembleia Geral
                     Ordinária, dentre os associados no gozo de seus direitos, para o mandato de 2 (dois) anos, iniciando em 1º
@@ -1973,7 +1974,8 @@
                 <h2 class="align-center pb-3 mbr-fonts-style display-2" style="color: #04112b;">
 
                 </h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5"> <hr>
+                <h3 class="mbr-section-subtitle align-center mbr-light mbr-fonts-style display-5">
+                    <hr>
                     Zenon Leite Neto <br>
                     Presidente
                 </h3>

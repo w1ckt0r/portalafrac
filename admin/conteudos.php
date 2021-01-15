@@ -29,6 +29,7 @@ require_once 'header.php';
                 <thead class=" text-primary">
                   <!-- <th>Imagem</th> -->
                   <th>Titulo</th>
+                  <th>Views </th>
                   <th>Area</th>
                   <th>Status</th>
                   <th> </th>
@@ -52,12 +53,14 @@ require_once 'header.php';
                    foreach ($files as $file) {
                   ?>
                     <tr>
-                      <td><?= $file->title ?></td>
+                      <td width="40%"><?= $file->title ?></td>
                       <!-- <td></td> -->
+                      <td class="text-primary" style="font-size: medium;" ><b> <?= $file->views ?></b> </td>
                       <td><?php                       
                         if($file->type == 1){ echo "Blog da Afrac";}
                         if($file->type == 2){ echo "Vitrine do Mercado";}
                         if($file->type == 3){ echo "Meios de pagamento";}                      
+                        if($file->type == 4){ echo "Video";}                      
                       ?></td>
                       <td class="text-primary"><?= $file->status ?></td>
                       <td>
@@ -73,6 +76,7 @@ require_once 'header.php';
                             delete_forever
                           </span> </a>
                       </td>
+                      <!-- <td></td> -->
                     </tr>
 
                   <?php }; ?>

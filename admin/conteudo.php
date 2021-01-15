@@ -18,6 +18,24 @@ $id_conteudo = 0;
 //Note: This resolves as true even if all $_POST values are empty strings
 if (!empty($_POST)) {
 
+
+
+  // echo "POST <br>";
+  // dump($_POST);
+  
+  // echo "GET <br>";
+  // dump($_GET);
+  
+  // die();
+
+  
+
+
+
+
+
+
+
   if (!empty($_FILES)) {
 
     // dump($_FILES);
@@ -71,6 +89,7 @@ if (!empty($_POST)) {
       'title'                 => $_POST["titulo"],
       'content'               => $_POST["area2"],
       'type'                  => $_POST["sessao"],
+      'link'                  => $_POST["link"],
       'status'                => "Publicado",
       'date-modified'         => date('Y-m-d H:i:s'),
       'user_id'               => $user->data()->id
@@ -83,8 +102,9 @@ if (!empty($_POST)) {
       $fields['img'] = $arquivofisico;
     }
 
-    // dump($fields);
-    // die();
+    // echo "atualizado";
+    //  dump($fields);
+    //  die();
 
     $id_conteudo = $_GET["id"];
 
@@ -95,6 +115,7 @@ if (!empty($_POST)) {
       'title'                 => $_POST["titulo"],
       'content'               => $_POST["area2"],
       'type'                  => $_POST["sessao"],
+      'link'                  => $_POST["link"],
       'status'                => "Publicado",
       'img'                   => $arquivofisico,
       'date-created'          => date('Y-m-d H:i:s'),
@@ -103,6 +124,12 @@ if (!empty($_POST)) {
       // 'nome'                  => $nomeArquivo,
       // 'criado_em'             => date('Y-m-d H:i:s')
     );
+
+
+
+    // echo "inserido";
+    //  dump($fields);
+    //  die();
 
     $result =  $insert = $db->insert("conteudos", $fields);
 
@@ -133,11 +160,13 @@ if ($boolUpdate) {
   $conteudoFull = $conteudo->content;
   $btnSalvar = "Salvar";
   $selectType = $conteudo->type;
+  $link = $conteudo->link;
 } else {
   $titulo = "";
   $conteudoFull = "";
   $btnSalvar = "Incluir";
   $selectType = "";
+  $link = "";
 }
 
 
@@ -172,7 +201,26 @@ if ($boolUpdate) {
                 <?php
               }
                 ?>
+
                 <div class="form-row">
+                  <div class="col-md-4 mb-3">
+                    <label for="validationDefault01"><b> Sessão no Site</b></label>
+                    <div class="form-group">
+                      <select class="custom-select" name="sessao" id="sessao" required>
+                        <option <?= $selectType == "" ? " selected " : " " ?> value="0">Selecione a sessão do conteúdo</option>
+                        <option <?= $selectType == "1" ? " selected " : " " ?>value="1">Blog da Afrac</option>
+                        <option <?= $selectType == "2" ? " selected " : " " ?>value="2">Vitrine do Mercado</option>
+                        <option <?= $selectType == "3" ? " selected " : " " ?>value="3">Meios de pagamento</option>
+                        <option <?= $selectType == "4" ? " selected " : " " ?>value="4">Video (Historico de Lives)</option>
+                      </select>
+                      <!-- <div class="invalid-feedback">Example invalid custom select feedback</div> -->
+                    </div>
+                  </div>
+                </div>
+
+
+
+                <div id="dv_titulo" class="form-row"   >
                   <div class="col-md-8 mb-3">
                     <label for="validationDefaultUsername"><b> Titulo</b></label>
                     <div class="input-group">
@@ -183,82 +231,42 @@ if ($boolUpdate) {
                     </div>
                   </div>
                 </div>
-                <div class="form-row">
-
-                  <div class="col-md-4 mb-3">
-                    <label for="validationDefault01"><b> Sessão no Site</b></label>
 
 
-                    <div class="form-group">
-                      <select class="custom-select" name="sessao" id="sessao" required>
-                        <option <?= $selectType == "" ? " selected " : " " ?> value="">Selecione a sessão do conteúdo</option>
-                        <option <?= $selectType == "1" ? " selected " : " " ?>value="1">Blog da Afrac</option>
-                        <option <?= $selectType == "2" ? " selected " : " " ?>value="2">Vitrine do Mercado</option>
-                        <option <?= $selectType == "3" ? " selected " : " " ?>value="3">Meios de pagamento</option>
-                        <option <?= $selectType == "4" ? " selected " : " " ?>value="4">Video (Historico de Lives)</option>
-                      </select>
-                      <!-- <div class="invalid-feedback">Example invalid custom select feedback</div> -->
+                <div id="dv_link" class="form-row">
+                  <div class="col-md-8 mb-3">
+                    <label for=""><b> Link do Video</b></label>
+                    <div class="input-group">
+                      <!-- <div class="input-group-prepend">
+                      <span class="input-group-text" id="inputGroupPrepend2"></span>
+                    </div> -->
+                      <input type="text" class="form-control" id="link" name="link" placeholder="Digite o link do Video" aria-describedby="inputGroupPrepend2"  value="<?= $link ?>">
                     </div>
-
                   </div>
-
-
-
-                  <script src="https://cdn.tiny.cloud/1/10xgljhwom4gm432jd47x72gs5ollhix75ahro5cjak0vfnf/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
-                  <script>
-<<<<<<< HEAD
-
-
-
-tinymce.init({
-  selector: '#area2',
-  height: 500,
-  menubar: false,
-  plugins: [
-    'image imagetools advlist autolink lists link image charmap print preview anchor',
-    'searchreplace visualblocks code fullscreen',
-    'insertdatetime media table paste code help wordcount'
-  ],
-  toolbar: 'image imagetools undo redo | formatselect | ' +
-  'bold italic backcolor | alignleft aligncenter ' +
-  'alignright alignjustify | bullist numlist outdent indent | ' +
-  'removeformat | help',
-  content_style: 'body { font-family:Helvetica,Arial,sans-serif; font-size:14px }'
-});
-
-
-                    // tinymce.init({
-                    //   selector: '#area2', // change this value according to your HTML
-                    //   plugins: 'code image imagetools',
-                    //   toolbar: 'image'
-                    
-                    // });
-=======
-                    tinymce.init({
-                      selector: '#area2', // change this value according to your HTML
-                      plugins: 'code'
-
-                    });
->>>>>>> 2ab2fe9d2a8a352efc78659fd3d41ec3788afd9a
-                  </script>
-
-                  <!-- <script src="http://js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>
-                  <script type="text/javascript">
-                    bkLib.onDomLoaded(nicEditors.allTextAreas);
-
-
-
-
-
-
-                  </script> -->
-
-                  <!-- <div class="col-md-4 mb-3">
-      <label for="validationDefault02">Last name</label>
-      <input type="text" class="form-control" id="validationDefault02" placeholder="Last name" value="Otto" required>
-    </div> -->
                 </div>
-                <div class="form-row">
+
+
+                <script src="https://cdn.tiny.cloud/1/10xgljhwom4gm432jd47x72gs5ollhix75ahro5cjak0vfnf/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+                <script>
+                  tinymce.init({
+                    selector: '#area2',
+                    height: 500,
+                    menubar: false,
+                    plugins: [
+                      'image imagetools advlist autolink lists link image charmap print preview anchor',
+                      'searchreplace visualblocks code fullscreen',
+                      'insertdatetime media table paste code help wordcount'
+                    ],
+                    toolbar: 'image imagetools undo redo | formatselect | ' +
+                      'bold italic backcolor | alignleft aligncenter ' +
+                      'alignright alignjustify | bullist numlist outdent indent | ' +
+                      'removeformat | help',
+                    content_style: 'body { font-family:Helvetica,Arial,sans-serif; font-size:14px }'
+                  });
+                </script>
+
+
+                <div id="dv_conteudo" class="form-row">
                   <div class="col-md-12 mb-6">
                     <div class="form-group">
                       <label for="exampleFormControlTextarea1"><b> Conteúdo</b> </label>
@@ -278,7 +286,7 @@ tinymce.init({
                 <input id="fileToUpload" name="fileToUpload" type="file" />
                 <br>
                 <br>
-                <h2>Imagem de destaque</h2>
+                <!-- <h2>Imagem de destaque</h2> -->
                 <?php
                 // if($conteudo->img <> ""){
 
@@ -291,14 +299,11 @@ tinymce.init({
                 <br>
 
 
+                <div id="dv_botoes" class="form-row">
+                  <a href="conteudos.php" class="btn btn-warning" type="submit">Cancelar</a>
+                  <button class="btn btn-primary" type="submit"><?= $btnSalvar ?> </button>
+                </div>
 
-
-
-
-
-
-                <a href="conteudos.php" class="btn btn-warning" type="submit">Cancelar</a>
-                <button class="btn btn-primary" type="submit"><?= $btnSalvar ?> </button>
                 </form>
 
 
@@ -312,59 +317,7 @@ tinymce.init({
 <!-- footer -->
 <?php require_once 'footer.php'; ?>
 
-<!-- Modal -->
-<div class="modal fade" id="mailModal" tabindex="-1" role="dialog" aria-labelledby="mailModalLabel" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h6 class="modal-title" id="mailModalLabel">Enviar acesso ao arquivo por email</h6>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">
-          </span>
-        </button>
-      </div>
-      <div class="modal-body">
 
-        <div class="row">
-          <div class="col-md-12">
-            <div class="form-group bmd-form-group">
-              <label class="bmd-label-floating">Digite o email que deseja enviar o link </label>
-              <!-- <input type="text" id="evento" name="evento" class="form-control"> -->
-              <input type="text" class="form-control" name="txtEmail" id="txtEmail" value="">
-              <input type="hidden" name="data-id" id="data-id" value="" />
-            </div>
-          </div>
-
-        </div>
-
-
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary btn-round " data-dismiss="modal">Fechar</button>
-        <button id="btnLoadEnabled" type="button" class="btn btn-info btn-round enviar ">Gerar & Enviar Link </button>
-        <button class="btn btn-success" id="btnLoad" disabled style="display: none;">
-          <i class="fa fa-circle-o-notch fa-spin"></i>
-          Enviando...
-        </button>
-
-
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- <script src="https://cdn.tiny.cloud/1/3pi35req66retm9019lz3n0re5yqv3c5rmrbv9r10cdbaphl/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script> -->
-
-
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script>
-  $(document).ready(function() {
-    $("#name").on('change', function() {
-      $(".data").hide();
-      $("#" + $(this).val()).fadeIn(700);
-    }).change();
-  });
-</script> -->
 
 <script>
   function submit() {
@@ -373,4 +326,103 @@ tinymce.init({
 
 
   }
+
+
+  $(document).ready(function() {
+
+    $("#sessao").on('change', function() {
+
+      selected = $("#sessao").val();
+      if (selected == "0") {
+        hideall();
+      };
+
+      if (selected == 4) {
+        showVideo();
+      } else {
+        showContent();
+
+
+      }
+
+      // $(".data").hide();
+      // $("#" + $(this).val()).fadeIn(700);
+
+      // alert('aaaaa');
+      // event.preventDefault();
+
+    }).change();
+
+
+
+  });
+
+
+    /**
+     * Inabilita todos componentes
+     *
+     * @return void
+     */
+    function hideall() {
+      $("#dv_titulo").hide();
+      $("#dv_conteudo").hide();
+      $("#fileToUpload").hide();
+      $("#dv_botoes").hide();
+    }
+    /**
+     * habilita todos componentes
+     *
+     * @return void
+     */
+    function showAll() {
+      $("#dv_titulo").show();
+      $("#dv_conteudo").show();
+      $("#fileToUpload").show();
+      $("#dv_botoes").show();
+    }
+
+    /**
+     * habilita todos componentes
+     *
+     * @return void
+     */
+    function showVideo() {
+      $("#dv_conteudo").hide();
+      $("#fileToUpload").hide();
+
+      $("#dv_titulo").show();
+      $("#dv_link").show();
+      $("#dv_botoes").show();
+    }
+
+    /**
+     * habilita todos componentes
+     *
+     * @return void
+     */
+    function showContent() {
+      $("#dv_conteudo").show();
+      $("#fileToUpload").show();
+
+      $("#dv_titulo").show();
+      $("#dv_botoes").show();
+
+      $("#dv_link").hide();
+    }
+
+
+
+//   selected = $("#sessao").val();
+
+//       // if (selected == 4) {
+//       //   showVideo();
+//       // } else {
+//       //   showAll();
+//       // }
+
+//       if (selected == 0) {
+//   // alert(selected)
+// };
+
+// hideall();
 </script>

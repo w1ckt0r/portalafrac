@@ -6,8 +6,8 @@
       <script>
         document.write(new Date().getFullYear())
       </script>
-      <a href="https://tlv.ag" target="_blank">TLV</a>
-      Gestão de Relacionamentos
+      <a href="https://afrac.com.br" target="_blank">AFRAC</a>
+      
 
     </div>
   </div>
