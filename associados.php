@@ -3,8 +3,15 @@ require_once dirname(__FILE__) . "/admin/users/init.php";
 require("header.php");
 
 $db = DB::getInstance();
+
+
+
+$sWhere = " ";
+if(isset($_GET["s"])){
+    $sWhere = "  where nome like '%". $_GET["s"]."%' ";
+}
 // echo "get";;;
-$associados = $db->query("select * from associados order by nome asc ")->results();
+$associados = $db->query("select * from associados  ". $sWhere ." order by nome asc ")->results();
 //  dump( $associados );
 
 
@@ -51,25 +58,40 @@ $associados = $db->query("select * from associados order by nome asc ")->results
 
 
 
+
 <section>
     <div class="container">
+
+
+
         <div class="media-container-row">
             <div class="col-12 col-md-10">
 
+                <br>
+                <div class="input-group focused">
+                    <input class="form-control form-control-lg" 
+                    style="font-size: 15px; height: 10px; color:black !important;" 
+                    id="system-search" name="q" placeholder="  Digite o nome da empresa " type="text">
+                    <div class="navbar-buttons mbr-section-btn">
+                        <a class="btn btn-sm btn-success-outline display-3" href="#" onclick="Search()"> Buscar </a>
+                    </div>
+                </div>
 
-                <div class="media-container-row" style="justify-content: space-between; padding-top: 2%;">
+
+
+                <div id="tb" class="media-container-row" style="justify-content: space-between; padding-top: 10%;">
 
                     <?php
 
                     $countRow = 0;
 
                     foreach ($associados as $associado) {
-                        
+
                         $countRow++;
                         $icon = '';
-                        
+
                         if ($associado->logotipo != '') {
-                            $icon = "admin/upload/logomarcas/". $associado->logotipo;
+                            $icon = "admin/upload/logomarcas/" . $associado->logotipo;
                         } else {
                             $icon = 'https://cdn4.iconfinder.com/data/icons/math-symbols-line/48/empty_set_math_algebra-512.png';
                         }
@@ -77,7 +99,7 @@ $associados = $db->query("select * from associados order by nome asc ")->results
                         <div class="media-block" style="width: 20%;">
                             <div class="mbr-figure">
                                 <!-- <img src="assets/images/1A PCI POWER.jpg"> -->
-                                <img src='<?=$icon ?>' >
+                                <img src='<?= $icon ?>'>
                             </div>
                         </div>
 
@@ -90,7 +112,7 @@ $associados = $db->query("select * from associados order by nome asc ")->results
                                         <h4 class="mbr-step-title pb-3 mbr-bold mbr-fonts-style display-7">
                                             <?= $associado->nome ?>
                                         </h4>
-                                        <a  href="<?php echo "https://". ltrim($associado->url); ?>" target="_blank" ><?= $associado->url ?></a>
+                                        <a href="<?php echo "https://" . ltrim($associado->url); ?>" target="_blank"><?= $associado->url ?></a>
                                         <div class="step-text-content">
                                             <h4 class="mbr-step-title pb-3 mbr-fonts-style display-7">Tel: <?= $associado->telefone ?></h4>
                                             <p class="mbr-step-text mbr-fonts-style display-7"><?= $associado->endereco ?></p>
@@ -123,6 +145,14 @@ $associados = $db->query("select * from associados order by nome asc ")->results
 
 
                 </div>
+
+
+
+
+
+
+
+
             </div>
         </div>
 </section>
@@ -248,3 +278,31 @@ $associados = $db->query("select * from associados order by nome asc ")->results
 
 
 <?php require("footer.php"); ?>
+
+
+<script>
+    function Search() {
+
+        // alert($("#system-search").val());
+        window.location.href = "associados.php?s=" + $("#system-search").val();
+
+
+    }
+
+
+    // $(document).ready(function() {
+    // 	$("#system-search").on("keyup", function() {
+
+    // 		//  $("#system-search").bind("keyup change", function(e) {
+    // 		// $("#system-search").on("keyup change", function() {
+    // 		var value = $(this).val().toLowerCase();
+    // 		// $("#myTable tr").filter(function() {
+    // 		//   $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    // 		// });
+    // 		// $("#ul-convidados li").filter(function() {
+    // 		$(" div ").filter(function() {
+    // 			$(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
+    // 		});
+    // 	});
+    // });
+</script>

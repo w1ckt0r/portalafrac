@@ -42,6 +42,41 @@ if ($user->isLoggedIn()) {
     //   die();
     // }
   }
+  /**
+   * DELETAR ARQUIVOS VALIDADOS 
+   * 
+   * */
+  if ($action == 'xdel-associado') {
+
+    $result = $db->query("delete from associados where id = " . $id)->results();
+
+    echo "deletado mesmo";
+
+    // $file_pointer = $db->query("select nome from arquivos where  id = " . $id)->results();
+    // // dump($file_pointer);
+    // $file = "upload/" . $file_pointer[0]->nome;
+    // // die();
+    // if (is_file($file) && @unlink($file)) {
+    //   // delete success
+    //   $result = $db->query("delete from arquivos where id = " . $id)->results();
+    //   // echo ("$file foi deletado de nossa base de dados");
+    //   logger($user->data()->id, "Exclusão", "[".$file_pointer[0]->nome."]"."Arquivo deletado de nossa base de dados pelo usuario" . $user->data()->fname );
+      
+    //   die();
+    // } else if (is_file($file)) {
+    //   // unlink failed.
+    //   // you would have got an error if it wasn't suppressed
+    //   // echo ("$file existe mas não pode ser deletado nesse momento");
+    //   logger($user->data()->id, "Exclusão", "[".$file_pointer[0]->nome."]"."O arquivo existe mas não pode ser deletado nesse momento pelo usuário " . $user->data()->fname );
+    //   die();
+    // } else {
+    //   // file doesn't exist
+    //   $result = $db->query("delete from arquivos where id = " . $id)->results();
+    //   // echo ("$file não existe então foi deletadodo banco de dados");
+    //   logger($user->data()->id, "Exclusão", "[".$file_pointer[0]->nome."]"."O arquivo não existe fisicamente por algum motivo, portando foi deletado do banco de dados pelo usuário " . $user->data()->fname );     
+    //   die();
+    // }
+  }
 
   /**
    * GERAR LINK E ENVIAR POR EMAIL

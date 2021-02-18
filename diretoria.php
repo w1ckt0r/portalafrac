@@ -828,7 +828,7 @@
             <div class="col-8 col-md-7 col-sm-6" style="padding: 0 !important">
                 <div class="media-container-row" style="padding-bottom: 1%;">
                     <div class="mbr-figure" style="width: 70%;padding-left: 4rem;">
-                        <img src="assets/images/diretoria/d_icon.png" alt="">
+                        <img src="assets/images/diretoria/d_allana.png" alt="">
                     </div>
                     <div class="media-content" style="margin-top: 5%;">
                         <div class="mbr-section-text">

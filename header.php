@@ -7,22 +7,22 @@
     <meta name="generator" content="afrac, afrac.com.br">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <link rel="shortcut icon" href="assets/images/favicon-32x32.png" type="image/x-icon">
-    <meta name="author" content="AFRAC - Associação Brasileira de Automação para o Comércio">
+    <meta name="author" content="AFRAC - Associação Brasileira de Tecnologia para o Comércio e Serviços">
     <meta name="description" content="Seja o primeiro a saber das novidades do segmento e mantenha o seu negócio inovador seja ele fabricantes de equipamentos de automação e de periféricos, software-houses, distribuidores e revendas, empresas de suprimentos do segmento de papel e de coleta automática de dados e rádio frequência (AIDC/RFID), mobilidade, meios de pagamentos, startups, certificadora digital, além do comércio varejista.">
 
     <meta property="og:url" content="" /> <!-- URL for website (link address) -->
     <meta property="og:type" content="website" /> <!-- type of site -->
-    <meta property="og:title" content="Associação Brasileira de Automação para o Comércio (AFRAC)." /> <!-- title of site (title of share) -->
+    <meta property="og:title" content="Associação Brasileira de Tecnologia para o Comércio e Serviços (AFRAC)." /> <!-- title of site (title of share) -->
     <meta property="og:description" content="Feito pela AFRAC" /> <!-- description of site (text which appears when sharing) -->
     <meta property="og:image" content="" /> <!-- URL for preview image -->
 
     <meta name="keywords" content="carteiras digitais,startups,open delivery, LGPD, software houses, IOT, Machine learning, Interligência Artificial, API, TEF, Wallets, Bass, Faas, e-commerce">
 
 
+    
 
 
-
-    <title>AFRAC - Associação Brasileira de Automação para o Comércio</title>
+    <title>AFRAC - Associação Brasileira de Tecnologia para o Comércio e Serviços</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
