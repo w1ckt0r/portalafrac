@@ -135,6 +135,7 @@
                             <a class="text-primary dropdown-item display-4" id="submenu" href="ecossistema.php" aria-expanded="false">Ecossistema AFRAC</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="beneficios.php" aria-expanded="false">Benefícios</a>
                             <a class="text-primary dropdown-item display-4" id="submenu" href="associados.php" aria-expanded="false">Associados</a>
+                            <a class="text-primary dropdown-item display-4" id="submenu" href="https://docs.google.com/forms/d/e/1FAIpQLScM6QoPJktsDJqwe0NrSvOvbUJMpBe7bciKWZ9cpq-fMDArWA/viewform" aria-expanded="false">Formulário Denuncia - Comissão de Ética AFRAC</a>
                         </div>
                     </li>
                     <li class="nav-item ">
