@@ -36,8 +36,9 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="title col-12 col-lg-8">
-                <h2 class="mbr-section-title align-center pb-3 mbr-fonts-style display-2">QUEREMOS TE OUVIR</h2>
-                <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-5">Estamos aqui para atendê-lo da melhor maneira possível. Envie suas dúvidas, comentários e sugestões. Conheça as coordenadas para nos encontrar a partir dos nossos principais canais de comunicação.</h3>
+                <h3 class="mbr-section-subtitledd align-center mbr-light pb-3 mbr-fonts-style mbr-bold display-4" style="margin-bottom:5%; color: #c94444">Atenção! Esse formulário não é para afiliar-se à AFRAC, para ser uma empresa associada, preencho o formulário deste <a class="mbr-section-subtitledd align-center mbr-light pb-3 mbr-fonts-style mbr-bold display-4" style="color:#11598B"  href="associar.php">link</a></h3>
+                <h2 class="mbr-section-title align-left pb-3 mbr-fonts-style display-2">QUEREMOS TE OUVIR</h2>
+                <h3 class="mbr-section-subtitledd align-left mbr-light pb-3 mbr-fonts-style display-5">Estamos aqui para atendê-lo da melhor maneira possível. Envie suas dúvidas, comentários e sugestões. Conheça as coordenadas para nos encontrar a partir dos nossos principais canais de comunicação.</h3>
             </div>
         </div>
     </div>
