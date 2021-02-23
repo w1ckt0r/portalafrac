@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 // require("header.php"); 
 
@@ -37,20 +37,19 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
             <div class="carousel-inner" role="listbox">
 
 
-            <div class="carousel-item slider-fullscreen-image " 
-            data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_08.jpg);">
+                <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_08.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_08.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
                                         <img src="assets/images/banners/logo_banner_08.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
                                         <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
-                                               UM NOVO VISUAL
+                                                UM NOVO VISUAL
                                             </strong>
                                         </h2>
                                         <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
@@ -74,10 +73,10 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                             <img class="img-banner" src="assets/images/banners/banner_01.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
                                         <img src="assets/images/banners/logo_banner_01.png" alt="">
                                     </div>
-                                    <div class="col-10 text-logo" >
+                                    <div class="col-10 text-logo">
                                         <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 Bem vindo ao futuro
@@ -97,51 +96,51 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                     </div>
                 </div>
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_02.jpg);">
-                    
-                <a href="https://ofertas.afrac.com.br/nrf2021-delegacao-afrac" target="_blank">
-                
-                <div class="container container-slide">
-                        <div class="image_wrapper">
-                            <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
-                            <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
-                                <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
-                                        <img src="assets/images/banners/logo_banner_02.png" alt="">
-                                    </div>
-                                    <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
-                                            <strong>
 
-                                                <br>
-                                                A Delegação AFRAC
-                                                <br>
-                                                estará por lá!
+                    <a href="https://ofertas.afrac.com.br/nrf2021-delegacao-afrac" target="_blank">
 
-                                            </strong>
-                                        </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
-                                            Fique por dentro e participe
-                                        </p>
+                        <div class="container container-slide">
+                            <div class="image_wrapper">
+                                <img class="img-banner" src="assets/images/banners/banner_02.jpg" alt="" title="">
+                                <div class="carousel-caption justify-content-center" style="padding-left: 15%;">
+                                    <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
+                                        <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
+                                            <img src="assets/images/banners/logo_banner_02.png" alt="">
+                                        </div>
+                                        <div class="col-10 text-logo">
+                                            <h2 class="mbr-fonts-style display-2" id="texto-banners">
+                                                <strong>
+
+                                                    <br>
+                                                    A Delegação AFRAC
+                                                    <br>
+                                                    estará por lá!
+
+                                                </strong>
+                                            </h2>
+                                            <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
+                                                Fique por dentro e participe
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>
 
 
                 </div>
-                
+
                 </a>
-                
-                
-                
+
+
+
                 <div class="carousel-item slider-fullscreen-image " data-bg-video-slide="false" style="background-image: url(assets/images/banners/banner_03.jpg);">
                     <div class="container container-slide">
                         <div class="image_wrapper">
                             <img class="img-banner" src="assets/images/banners/banner_03.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 19%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
                                         <img src="assets/images/banners/logo_banner_03.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -153,7 +152,7 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                                         <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners-branco">
                                             O Futuro da Tecnologia é Agora
                                             <br>
-                                            06 e 07 de Abril de 2021 durante a Feira Autocom
+                                            08 e 09 de Setembro de 2021 durante a Feira Autocom
                                         </p>
                                     </div>
                                 </div>
@@ -167,7 +166,7 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                             <img class="img-banner" src="assets/images/banners/banner_04.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 19%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
                                         <img src="assets/images/banners/logo_banner_04.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -193,19 +192,19 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                             <img class="img-banner" src="assets/images/banners/banner_15.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 10%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
                                         <img src="assets/images/banners/png-podcast.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
                                         <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
-                                              <br>
-                                              
+                                                <br>
+
                                             </strong>
                                         </h2>
                                         <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
-                                  
-                                        
+
+
                                         </p>
                                     </div>
                                 </div>
@@ -219,7 +218,7 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                             <img class="img-banner" src="assets/images/banners/banner_06.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 6%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
                                         <img src="assets/images/banners/logo_banner_06.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo align-left">
@@ -249,7 +248,7 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                             <img class="img-banner" src="assets/images/banners/banner_07.jpg" alt="" title="">
                             <div class="carousel-caption justify-content-center" style="padding-left: 20%;">
                                 <div class="row-logo" style="width:85%; display: flex; height: auto !important; ">
-                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo " >
+                                    <div class="col-lg-3 col-sm-4 col-md-4 img-logo ">
                                         <img src="assets/images/banners/logo_banner_07.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
@@ -324,68 +323,68 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
 
 
 
-                <div class="card p-3 col-12 col-md-4 col-sm-12">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="admin/upload/<?= $conteudoBlog[0]->img ?>" style="width: 85%;">
-                        </div>
-                        <div class="card-box">
-                            <a href="blog-full-content.php?id=<?= $conteudoBlog[0]->id ?>">
-                                <p class="card-title mbr-fonts-style mbr-bold display-6">
-                                    <?php echo $conteudoBlog[0]->title; ?>
-                                </p>
-                            </a>
-                            <p class="mbr-text mbr-fonts-style display-7">
-                                <?php echo substr(strip_tags($conteudoBlog[0]->content), 0, 300); ?>
-
+            <div class="card p-3 col-12 col-md-4 col-sm-12">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="admin/upload/<?= $conteudoBlog[0]->img ?>" style="width: 85%;">
+                    </div>
+                    <div class="card-box">
+                        <a href="blog-full-content.php?id=<?= $conteudoBlog[0]->id ?>">
+                            <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                <?php echo $conteudoBlog[0]->title; ?>
                             </p>
-                        </div>
+                        </a>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <?php echo substr(strip_tags($conteudoBlog[0]->content), 0, 300); ?>
+
+                        </p>
                     </div>
                 </div>
+            </div>
 
 
 
 
-                <div class="card p-3 col-12 col-md-4 col-sm-12">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="admin/upload/<?= $conteudoBlog[1]->img ?>" style="width: 85%;">
-                        </div>
-                        <div class="card-box">
-                            <a href="blog-full-content.php?id=<?= $conteudoBlog[1]->id ?>">
-                                <p class="card-title mbr-fonts-style mbr-bold display-6">
-                                    <?php echo $conteudoBlog[1]->title; ?>
-                                </p>
-                            </a>
-                            <p class="mbr-text mbr-fonts-style display-7">
-                                <?php echo substr(strip_tags($conteudoBlog[1]->content), 0, 300); ?>
-
+            <div class="card p-3 col-12 col-md-4 col-sm-12">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="admin/upload/<?= $conteudoBlog[1]->img ?>" style="width: 85%;">
+                    </div>
+                    <div class="card-box">
+                        <a href="blog-full-content.php?id=<?= $conteudoBlog[1]->id ?>">
+                            <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                <?php echo $conteudoBlog[1]->title; ?>
                             </p>
-                        </div>
+                        </a>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <?php echo substr(strip_tags($conteudoBlog[1]->content), 0, 300); ?>
+
+                        </p>
                     </div>
                 </div>
+            </div>
 
-    
-                <div class="card p-3 col-12 col-md-4 col-sm-12">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="admin/upload/<?= $conteudoBlog[2]->img ?>" style="width: 85%;">
-                        </div>
-                        <div class="card-box">
-                            <a href="blog-full-content.php?id=<?= $conteudoBlog[2]->id ?>">
-                                <p class="card-title mbr-fonts-style mbr-bold display-6">
-                                    <?php echo $conteudoBlog[2]->title; ?>
-                                </p>
-                            </a>
-                            <p class="mbr-text mbr-fonts-style display-7">
-                                <?php echo substr(strip_tags($conteudoBlog[2]->content), 0, 300); ?>
 
+            <div class="card p-3 col-12 col-md-4 col-sm-12">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="admin/upload/<?= $conteudoBlog[2]->img ?>" style="width: 85%;">
+                    </div>
+                    <div class="card-box">
+                        <a href="blog-full-content.php?id=<?= $conteudoBlog[2]->id ?>">
+                            <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                <?php echo $conteudoBlog[2]->title; ?>
                             </p>
-                        </div>
+                        </a>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <?php echo substr(strip_tags($conteudoBlog[2]->content), 0, 300); ?>
+
+                        </p>
                     </div>
                 </div>
+            </div>
 
- 
+
 
         </div>
     </div>
@@ -433,68 +432,68 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
         <div class="media-container-row pt-5 ">
 
 
-                <div class="card p-3 col-12 col-md-4 col-sm-12">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="admin/upload/<?= $conteudoVitrine[0]->img ?>" style="width: 85%;">
-                        </div>
-                        <div class="card-box">
-                            <a href="blog-full-content.php?id=<?= $conteudoVitrine[0]->id ?>">
-                                <p class="card-title mbr-fonts-style mbr-bold display-6">
-                                    <?php echo $conteudoVitrine[0]->title; ?>
-                                </p>
-                            </a>
-                            <p class="mbr-text mbr-fonts-style display-7">
-                                <?php echo substr(strip_tags($conteudoVitrine[0]->content), 0, 300); ?>
-
+            <div class="card p-3 col-12 col-md-4 col-sm-12">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="admin/upload/<?= $conteudoVitrine[0]->img ?>" style="width: 85%;">
+                    </div>
+                    <div class="card-box">
+                        <a href="blog-full-content.php?id=<?= $conteudoVitrine[0]->id ?>">
+                            <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                <?php echo $conteudoVitrine[0]->title; ?>
                             </p>
-                        </div>
+                        </a>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <?php echo substr(strip_tags($conteudoVitrine[0]->content), 0, 300); ?>
+
+                        </p>
                     </div>
                 </div>
+            </div>
 
 
 
 
-                <div class="card p-3 col-12 col-md-4 col-sm-12">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="admin/upload/<?= $conteudoVitrine[1]->img ?>" style="width: 85%;">
-                        </div>
-                        <div class="card-box">
-                            <a href="blog-full-content.php?id=<?= $conteudoVitrine[1]->id ?>">
-                                <p class="card-title mbr-fonts-style mbr-bold display-6">
-                                    <?php echo $conteudoVitrine[1]->title; ?>
-                                </p>
-                            </a>
-                            <p class="mbr-text mbr-fonts-style display-7">
-                                <?php echo substr(strip_tags($conteudoVitrine[1]->content), 0, 300); ?>
-
+            <div class="card p-3 col-12 col-md-4 col-sm-12">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="admin/upload/<?= $conteudoVitrine[1]->img ?>" style="width: 85%;">
+                    </div>
+                    <div class="card-box">
+                        <a href="blog-full-content.php?id=<?= $conteudoVitrine[1]->id ?>">
+                            <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                <?php echo $conteudoVitrine[1]->title; ?>
                             </p>
-                        </div>
+                        </a>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <?php echo substr(strip_tags($conteudoVitrine[1]->content), 0, 300); ?>
+
+                        </p>
                     </div>
                 </div>
+            </div>
 
-    
-                <div class="card p-3 col-12 col-md-4 col-sm-12">
-                    <div class="card-wrapper">
-                        <div class="card-img">
-                            <img src="admin/upload/<?= $conteudoVitrine[2]->img ?>" style="width: 85%;">
-                        </div>
-                        <div class="card-box">
-                            <a href="blog-full-content.php?id=<?= $conteudoVitrine[2]->id ?>">
-                                <p class="card-title mbr-fonts-style mbr-bold display-6">
-                                    <?php echo $conteudoVitrine[2]->title; ?>
-                                </p>
-                            </a>
-                            <p class="mbr-text mbr-fonts-style display-7">
-                                <?php echo substr(strip_tags($conteudoVitrine[2]->content), 0, 300); ?>
 
+            <div class="card p-3 col-12 col-md-4 col-sm-12">
+                <div class="card-wrapper">
+                    <div class="card-img">
+                        <img src="admin/upload/<?= $conteudoVitrine[2]->img ?>" style="width: 85%;">
+                    </div>
+                    <div class="card-box">
+                        <a href="blog-full-content.php?id=<?= $conteudoVitrine[2]->id ?>">
+                            <p class="card-title mbr-fonts-style mbr-bold display-6">
+                                <?php echo $conteudoVitrine[2]->title; ?>
                             </p>
-                        </div>
+                        </a>
+                        <p class="mbr-text mbr-fonts-style display-7">
+                            <?php echo substr(strip_tags($conteudoVitrine[2]->content), 0, 300); ?>
+
+                        </p>
                     </div>
                 </div>
+            </div>
 
-   
+
 
 
 
