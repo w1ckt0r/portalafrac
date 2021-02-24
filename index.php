@@ -152,7 +152,9 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                                         <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners-branco">
                                             O Futuro da Tecnologia é Agora
                                             <br>
-                                            08 e 09 de Setembro de 2021 durante a Feira Autocom
+                                            08 e 09 de Setembro de 2021 
+                                            <br>
+                                            durante a Feira Autocom
                                         </p>
                                     </div>
                                 </div>
@@ -170,12 +172,12 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                                         <img src="assets/images/banners/logo_banner_04.png" alt="">
                                     </div>
                                     <div class="col-10 text-logo">
-                                        <h2 class="mbr-fonts-style display-2" id="texto-banners-branco">
+                                        <h2 class="mbr-fonts-style display-2" id="texto-banners">
                                             <strong>
                                                 AUTOCOM 2021
                                             </strong>
                                         </h2>
-                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners-branco">
+                                        <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners">
                                             A maior feira da América Latina
                                             <br>
                                             de tecnologia para o comércio
