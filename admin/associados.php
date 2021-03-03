@@ -13,6 +13,7 @@ $db = DB::getInstance();
 
 <!-- End Navbar -->
 <div class="content">
+            <a href="novo-associado.php" class="btn btn-primary btn-sm">Novo</a>
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
@@ -24,6 +25,7 @@ $db = DB::getInstance();
             <!-- <p class="card-category"> -->
             <!-- </p> -->
             </div>
+
             <div class="col-4">
               <!-- <a href="novo-conteudo.php" class="btn btn-primary btn-sm">Incluir Novo Associado</a> -->
               <form class="">

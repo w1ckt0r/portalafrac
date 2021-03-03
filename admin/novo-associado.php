@@ -12,76 +12,34 @@ $db = DB::getInstance();
 //Note: This resolves as true even if all $_POST values are empty strings
 if (!empty($_POST)) {
 
-
-  if (!empty($_FILES)) {
-
-    // dump($_FILES);
-    // UPLOAD ###############################################
-    $token = bin2hex(random_bytes(20));
-    // Nas versões do PHP que antecedem a versão 4.1.0, é preciso usar o $HTTP_POST_FILES em vez do $_FILES.    
-    $uploaddir = 'upload/logomarcas/';
-    $nomeArquivo = basename($_FILES['avatar']['name']);
-    $ext = pathinfo($nomeArquivo, PATHINFO_EXTENSION);
-    $uploadfile   = $uploaddir . $token . "." . $ext;
-    $boolUpload = false;
-    $arquivofisico = "img-padrao-post.jpg";
-
-    if (move_uploaded_file($_FILES['avatar']['tmp_name'], $uploadfile)) {
-      // echo "O arquivo é valido e foi carregado com sucesso.\n";
-      // echo "result : " . $insert = $db->insert("arquivos", $fields);
-      //  $insert = $db->insert("arquivos", $fields);
-      $arquivofisico = $token . "." . $ext;
-      // logger($user->data()->id, "Upload", $user->data()->fname . " fez um novo upload, com o nome de " . $nomeArquivo);
-      // $boolUpload = true;
-      echo "Certo por aqui!\n";
-    } else {
-      // $boolUpload = false;
-      // $arquivofisico = "img-padrao-post.jpg" ;
-      // logger($user->data()->id, "Upload", $user->data()->fname . " Ocorreu um erro ao tentar fazer um novo upload");
-      echo "Algo está errado aqui!\n";
-    }
-
-
-    // echo $uploadfile;
-    // echo $arquivofisico;
-  }
-
-
   $fields = array(
-    'segmento'                  => $_POST["segmento"],
-    'local'                     => $_POST["local"],
-    'url'                       => $_POST["site"],
-    // 'logotipo'                  => $_POST["logotipo"],
-    'telefone'                  => $_POST["telefone"],
-    // 'email'                     => $_POST['email'],
-    'endereco'                  => $_POST['endereco'],
-    'nome'                      => $_POST['nome']
-    // 'user_id'             => $categoria,
-    // 'nome'                  => $nomeArquivo,
-    // 'criado_em'             => date('Y-m-d H:i:s')
+    'nome'                      => $_POST['nome']  
   );
 
-  if (!empty($_FILES)) {
-    $fields['logotipo'] = $arquivofisico;
-  }
+$db->insert('associados',$fields);
+$id = $db->lastid();
+Redirect::to("editar-associados.php?id=".$id);
+// dump($fields);
+// dump( 'id que foi gerado por ultimo : ' . $id);
 
-  $id = $_POST["id"];
+  die();
+
   //  echo "  :: {$id_conteudo} ::: atualizado";
   //  dump($fields);
   //  die();
 
 // dump($_POST);
-// die();
-  echo $result = $db->update('associados', $id, $fields);
-   Redirect::to("novo-associado.php?id=".$id);
+// // die();
+//   echo $result = $db->update('associados', $id, $fields);
+//    Redirect::to("novo-associado.php?id=".$id);
 }
 
 
-$id = $_GET["id"];
+// $id = $_GET["id"];
 
-$associado = $db->query(" select * from associados where id={$id}")->results()[0];
-// dump($associado);
-// foreach ($associados as $associado) {
+// $associado = $db->query(" select * from associados where id={$id}")->results()[0];
+// // dump($associado);
+// // foreach ($associados as $associado) {
 
 
 
@@ -94,7 +52,7 @@ $associado = $db->query(" select * from associados where id={$id}")->results()[0
       <div class="col-md-12">
         <div class="card">
           <div class="card-header card-header-info">
-            <h4 class="card-title">Associados AFRAC </h4>
+            <h4 class="card-title">Inserir um novo associado </h4>
             <p class="card-category">
             </p>
           </div>
@@ -113,8 +71,8 @@ $associado = $db->query(" select * from associados where id={$id}")->results()[0
                     <div class="form-group">
                       <label class="col-md-8 control-label" for="input">Nome</label>
                       <div class="col-md-8">
-                        <input value="<?= $associado->nome ?>" class="form-control" id="nome" name="nome" placeholder="Nome"></input>
-                        <input type="hidden" id="id" name="id" value="<?= $associado->id ?>">
+                        <input value="" class="form-control" id="nome" name="nome" placeholder="Nome"></input>
+                     
                       </div>
                     </div>
                     <!-- Text input-->
