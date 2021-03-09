@@ -16,6 +16,11 @@
 
 </section>
 
+<section class="cid-srbgjh0Df222" id="header2-2a">
+    <img src="assets/images/banners/logo_uni.png" style="margin-left: 40%;" id="logo_uni">
+    
+</section>
+
 <section>
 
     <section class="mbr-section content7 cid-sfTggWxT7q" id="content7-25" style="padding:10px 2%; background-color:#ececec">
@@ -214,7 +219,7 @@
                                     Parceria Tributarie
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
-                                    Parceria que proporciona condições especiais as empresas associadas e que busca dar o suporte adequado para o 
+                                    Parceria que proporciona condições especiais as empresas associadas e que busca dar o suporte adequado para o
                                     planejamento tributário além de análise assertiva sobre a viabilidade de recuperação de impostos </p>
                             </div>
                         </div>
@@ -234,11 +239,11 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
-                                Salas de reuniões disponíveis para uso do associado 
+                                    Salas de reuniões disponíveis para uso do associado
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right;font-size: 12pt">
-                                A AFRAC oferece em sua estrutura física uma sala de reuniões que pode ser utilizada por seus associados mediante agendamento prévio (Prezando pela saúde e segurança dos associados, suspendemos esse recurso por período indeterminado, devido ao atual cenário causado pela pandemia).
-                             </p>
+                                    A AFRAC oferece em sua estrutura física uma sala de reuniões que pode ser utilizada por seus associados mediante agendamento prévio (Prezando pela saúde e segurança dos associados, suspendemos esse recurso por período indeterminado, devido ao atual cenário causado pela pandemia).
+                                </p>
                             </div>
                         </div>
                         <div class="mbr-figure" style="width: 100%;padding-left: 4rem;">
@@ -250,10 +255,10 @@
         </div>
 
 
-</section>
+    </section>
 
 
 
 
 
-<?php require("footer.php"); ?>
+    <?php require("footer.php"); ?>

@@ -4630,6 +4630,12 @@
                 background-color: #ffffff;
             }
             
+            .cid-srbgjh0Df222 {
+                padding-top: 135px;
+                padding-bottom: 135px;
+                background-image: url(../../../assets/images/banners/bg.png);
+            }
+            
             .cid-s8HoYnk47z .title {
                 margin-bottom: 2rem;
             }
@@ -5379,6 +5385,18 @@
             @media (max-width: 1040px) {
                 #features3-1fgg {
                     display: none;
+                }
+            }
+            
+            @media (max-width: 1023px) {
+                #logo_uni {
+                    margin-left: 25% !important;
+                }
+            }
+            
+            @media (max-width: 705) {
+                #logo_uni {
+                    margin-left: 0% !important;
                 }
             }
             
