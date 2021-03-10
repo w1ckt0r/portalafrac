@@ -2,7 +2,7 @@
 
 
 
-
+<!-- 
 <section class="features2 cid-s8HaGIkBjh" id="features2-3" style="background-color: #04112b;">
 
     <div class="container">
@@ -14,7 +14,7 @@
     </div>
 
 
-</section>
+</section> -->
 
 <section class="cid-srbgjh0Df222" id="header2-2a">
     <img src="assets/images/banners/logo_uni.png" style="margin-left: 40%;" id="logo_uni">
