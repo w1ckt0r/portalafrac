@@ -63,7 +63,7 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: left;font-size: 14pt">
                                     Voltado para iniciantes e para aqueles que pretendem atualizarem-se sobre as tecnologias fiscais utilizadas no varejo, o curso abrange os conceitos e principais regras sobre NFC-e, SAT, ECF, PAF-ECF e MFE. </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt ">
                                 </p>
@@ -83,7 +83,7 @@
                     <div class="media-container-row">
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: right;font-size: 14pt">
                                     Entenda quais as principais diferenças entre as tecnologias fiscais e seu funcionamento.
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
@@ -109,7 +109,7 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left; font-size: 14pt">
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: left; font-size: 14pt">
                                     O curso possui 2 módulos: no módulo I o aluno irá compreender aspectos legais que fundamentam o surgimento das tecnologias fiscais e quais são os responsáveis pela elaboração das regras, já o módulo II abordará as principais características das tecnologias como ECF, PAF-ECF, NFC-e, S@t e MFE (conceitos e funcionamentos).
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
@@ -131,7 +131,7 @@
 
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: right;font-size: 14pt">
                                     Em breve lançaremos o Módulo III das tecnologias fiscais por estados, voltado para aqueles que buscam compreender como o documento fiscal utilizado no varejo é exigido, diferenças e regras específicas*.
                                     * Data a ser divulgada, descontos especiais para alunos dos módulos I e II.
                                 </h5>
@@ -158,7 +158,7 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: left;font-size: 14pt">
                                     Confira o conteúdo programático:
                                  <br>   📁 MÓDULO I:
                                  <br>   ✔️ Automação Comercial
@@ -185,7 +185,7 @@
 
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: left ;font-size: 14pt">
                                 <br>    📁 MÓDULO II:
                                 <br>    ✔️ ECF
                                  <br>   ✔️ PAF-ECF
@@ -223,11 +223,11 @@
                         </div>
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
-                                    ✔️ SAT
-                                    - Identificação do Consumidor
-                                    - Funcionamento
-                                    ✔️ MFE.
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: left;font-size: 14pt">
+                                   <br> ✔️ SAT
+                                   <br> - Identificação do Consumidor
+                                   <br> - Funcionamento
+                                   <br> ✔️ MFE.
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
 
@@ -249,10 +249,10 @@
 
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
-                                    INVESTIMENTO:
-                                    💳 R$ 600,00/Não Associados
-                                    💳 R$ 400,02/Empresas associadas AFRAC.
+                                <h5 class="card-title pb-3 mbr-fonts-style  display-5" style="text-align: left;font-size: 14pt">
+                                   <br> INVESTIMENTO:
+                                   <br> 💳 R$ 600,00/Não Associados
+                                   <br> 💳 R$ 400,02/Empresas associadas AFRAC.
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right;font-size: 12pt">
                                 </p>
