@@ -152,7 +152,7 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
                                         <p class="lead mbr-text mbr-fonts-style display-5" id="texto-banners-branco">
                                             O Futuro da Tecnologia é Agora
                                             <br>
-                                            08 e 09 de Setembro de 2021 
+                                            08 e 09 de Setembro de 2021
                                             <br>
                                             durante a Feira Autocom
                                         </p>
@@ -391,8 +391,15 @@ $conteudoBlog   = $db->query("select * from conteudos where type = 1 order by id
         </div>
     </div>
 </section>
+<section class="cid-srbgjh0Df2" id="header2-2a">
+    <img src="assets/images/banners/logo_uni.png" style="margin-left: 40%;" id="logo_uni">
+    <div class="mbr-section-btn align-center">
+        <a class="btn btn-md btn-primary display-4" href="universidade.php">FIQUE POR DENTRO</a>
+    </div>
 
-<section class="header4 cid-saFWro79lW" id="header4-23">
+</section>
+
+<section class="header4 cid-saFWro79lW" id="header4-23" style="margin-top: 10%;">
 
     <div class="container">
         <div class="row justify-content-md-center">

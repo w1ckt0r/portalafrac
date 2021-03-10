@@ -18,7 +18,7 @@
 
 <section class="cid-srbgjh0Df222" id="header2-2a">
     <img src="assets/images/banners/logo_uni.png" style="margin-left: 40%;" id="logo_uni">
-    
+
 </section>
 
 <section>
@@ -31,9 +31,10 @@
                     <div class="media-container-row">
                         <div class="media-content">
                             <div class="mbr-section-text">
-                                <h5 class="card-title pb-3 mbr-fonts-style align-right" style="color: #04112b;padding-top:10%">Oferecemos apoio, defendemos interesses, levantamos oportunidades e aproximamos nossos associados.
-                                    <br> Saiba tudo o que você tem a ganhar ao fazer parte da AFRAC. Aproveite ao máximo cada um dos benefícios
-                                    <br> que trabalhamos para criar e manter.
+                                <h5 class="card-title pb-3 mbr-fonts-style align-right" style="color: #04112b;padding-top:10%">
+                                    O Curso de Tecnologias Fiscais Aplicadas ao Varejo foi desenvolvido com base na
+                                    <br> percepção e análise das principais dúvidas do profissional que atua no Setor de Automação Comercial.
+                                    <br>
                                     <br>
                                     <br>
                                     <br>
@@ -63,11 +64,8 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
-                                    Aproximação e networking com os provedores de automação para o comércio
-                                </h5>
+                                    Voltado para iniciantes e para aqueles que pretendem atualizarem-se sobre as tecnologias fiscais utilizadas no varejo, o curso abrange os conceitos e principais regras sobre NFC-e, SAT, ECF, PAF-ECF e MFE. </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt ">
-                                    Através da participação em reuniões, eventos e encontros promovidos pela Entidade,
-                                    as empresas associadas possuem acessos a vários Players do Setor, gerando oportunidade de parcerias e negócios estratégicos
                                 </p>
                             </div>
                         </div>
@@ -86,10 +84,9 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
-                                    Grupos Técnicos de Trabalho
+                                    Entenda quais as principais diferenças entre as tecnologias fiscais e seu funcionamento.
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
-                                    Os Grupos Técnicos de Trabalho promovidos pela AFRAC reúnem os diversos especialistas das empresas filiadas, proporcionando um ambiente de troca de informações e elaborações de projetos visando alternativas e impulsionamento de todo o Setor. Através dos Grupos Técnicos de Trabalho, a AFRAC cria, compartilha e colabora com a evolução das tecnologias aplicadas ao varejo.
                                 </p>
                             </div>
                         </div>
@@ -113,11 +110,9 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left; font-size: 14pt">
-                                    Assessoria Jurídica
+                                    O curso possui 2 módulos: no módulo I o aluno irá compreender aspectos legais que fundamentam o surgimento das tecnologias fiscais e quais são os responsáveis pela elaboração das regras, já o módulo II abordará as principais características das tecnologias como ECF, PAF-ECF, NFC-e, S@t e MFE (conceitos e funcionamentos).
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
-                                    Corpo jurídico especializado em tecnologias aplicadas ao varejo, prestando consultoria às empresas filiadas e
-                                    apoiando o Setor quanto a elaboração de informativos e materiais atualizados sobre as legislações federais, estaduais e municipais de impacto.
                                 </p>
                             </div>
                         </div>
@@ -137,10 +132,10 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
-                                    Defesa de interesses do setor junto aos órgãos e entidades governamentais
+                                    Em breve lançaremos o Módulo III das tecnologias fiscais por estados, voltado para aqueles que buscam compreender como o documento fiscal utilizado no varejo é exigido, diferenças e regras específicas*.
+                                    * Data a ser divulgada, descontos especiais para alunos dos módulos I e II.
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
-                                    Canal de comunicação entre as empresas filiadas e os diversos órgãos governamentais, representando e atuando como o porta-voz do Setor na busca de medidas que visem o desenvolvimento da tecnologia.
                                 </p>
                             </div>
                         </div>
@@ -164,10 +159,14 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
-                                    Descontos de até 50% em cursos, palestras e eventos – além de descontos exclusivos na AUTOCOM
+                                    Confira o conteúdo programático:
+                                 <br>   📁 MÓDULO I:
+                                 <br>   ✔️ Automação Comercial
+                                <br>    ✔️ Tributos / Impostos / Obrigações Tributárias
+                                  <br>  ✔️ Tecnologias Fiscais atuais
+                                 <br>   ✔️ Responsabilidade Legal da Software House
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
-                                    A AFRAC oferece aos seus associados conteúdos de capacitação e atualização através de cursos elaborados por especialistas em diversas áreas, e que podem ser adquiridos com condições especiais, além de descontos em eventos e palestras com temas relevantes e qualificados.
                                 </p>
                             </div>
                         </div>
@@ -187,11 +186,20 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
-                                    Fomento de ações para incentivar o fortalecimento, uso e tendências da Automação para o Comércio
+                                <br>    📁 MÓDULO II:
+                                <br>    ✔️ ECF
+                                 <br>   ✔️ PAF-ECF
+                                   <br> ✔️ NFC-e
+                                  <br>  - DANFE-NFc-e
+                                  <br>  - Funcionamento da NFC-e Online e Off-line
+                                  <br>  - Cancelamento NFC-e
+                                  <br>  - Regras Gerais
+                                   <br> - Identificação do Consumidor
+                                   <br> - Impressão e Limite do Valor da Operação
+                                   <br> - CEST
+                                   <br> - Formas de Pagamento
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right; font-size: 12pt">
-                                    Atuando através da organização de visitação em eventos internacionais, promoção de palestras e debates sobre as principais tendências e inovações do Setor.
-
 
                                 </p>
                             </div>
@@ -216,11 +224,14 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: left;font-size: 14pt">
-                                    Parceria Tributarie
+                                    ✔️ SAT
+                                    - Identificação do Consumidor
+                                    - Funcionamento
+                                    ✔️ MFE.
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: left; font-size: 12pt">
-                                    Parceria que proporciona condições especiais as empresas associadas e que busca dar o suporte adequado para o
-                                    planejamento tributário além de análise assertiva sobre a viabilidade de recuperação de impostos </p>
+
+                                </p>
                             </div>
                         </div>
 
@@ -239,10 +250,11 @@
                         <div class="media-content">
                             <div class="mbr-section-text">
                                 <h5 class="card-title pb-3 mbr-fonts-style mbr-bold display-5" style="text-align: right;font-size: 14pt">
-                                    Salas de reuniões disponíveis para uso do associado
+                                    INVESTIMENTO:
+                                    💳 R$ 600,00/Não Associados
+                                    💳 R$ 400,02/Empresas associadas AFRAC.
                                 </h5>
                                 <p class="card-title pb-3 mbr-fonts-style display-6" style="text-align: right;font-size: 12pt">
-                                    A AFRAC oferece em sua estrutura física uma sala de reuniões que pode ser utilizada por seus associados mediante agendamento prévio (Prezando pela saúde e segurança dos associados, suspendemos esse recurso por período indeterminado, devido ao atual cenário causado pela pandemia).
                                 </p>
                             </div>
                         </div>
@@ -253,7 +265,9 @@
                 </div>
             </div>
         </div>
-
+        <div class="mbr-section-btn align-center" style="margin-top: 5%;">
+            <a class="btn btn-md btn-primary display-4" href="https://pay.hotmart.com/N47473057U?checkoutMode=10&bid=1615314677874">Comprar</a>
+        </div>
 
     </section>
 
